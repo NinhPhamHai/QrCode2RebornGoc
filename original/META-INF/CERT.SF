@@ -1,0 +1,6204 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: y+woCQ55BEfH+RGE/ZB1N2yl4g4=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: pvAkscVdJmnMfGNuwIpWRLV1xjs=
+
+Name: androidsupportmultidexversion.txt
+SHA1-Digest: 2TH1LiNJ5xcWmERCtqdh6i5q3kM=
+
+Name: classes.dex
+SHA1-Digest: o/v0EwMTCpbTBYZJnzjwHz9MyDY=
+
+Name: classes2.dex
+SHA1-Digest: Q+bZH64/PzTaq6B2ay/TsxN17W0=
+
+Name: lib/arm64-v8a/librealm-jni.so
+SHA1-Digest: C26pigWTXP7SIyCH+gFXkGZZz7c=
+
+Name: net/fortuna/ical4j/data/package-info.java
+SHA1-Digest: SYgBJg/mlJ7XPzsRtMDN/O0IWag=
+
+Name: net/fortuna/ical4j/filter/package-info.java
+SHA1-Digest: HdLSclygzW/bMhV/Y+v6epY8J80=
+
+Name: net/fortuna/ical4j/model/component/package-info.java
+SHA1-Digest: WSx6ii9w+Sz/Cfwd3fQjMdZR6OI=
+
+Name: net/fortuna/ical4j/model/package-info.java
+SHA1-Digest: KFAnCkEGck+6T6a6F5JIzaWiQPo=
+
+Name: net/fortuna/ical4j/model/parameter/package-info.java
+SHA1-Digest: VzWVJfyI8pu++UOa29PfOS2M61A=
+
+Name: net/fortuna/ical4j/model/property/package-info.java
+SHA1-Digest: Mqc9r1RyEz1dVsy4twGAviWK9Pk=
+
+Name: net/fortuna/ical4j/model/tz.alias
+SHA1-Digest: t+sRSiupf6PCaC1bfJtHvpb6Glo=
+
+Name: org/joda/time/format/messages.properties
+SHA1-Digest: /Rrk70gH3S40mJ7LKnADysFHioU=
+
+Name: org/joda/time/format/messages_bg.properties
+SHA1-Digest: lRwb6nEIE7CrEItIUfJ99sgpkf4=
+
+Name: org/joda/time/format/messages_cs.properties
+SHA1-Digest: qei31kOZi7GPbSaZiM1DWnySKE4=
+
+Name: org/joda/time/format/messages_da.properties
+SHA1-Digest: yc/cuxORMAqBccohgOlQUAuCq5o=
+
+Name: org/joda/time/format/messages_de.properties
+SHA1-Digest: 5fuiYjpjQk5nY05iPAKTYvjsW38=
+
+Name: org/joda/time/format/messages_en.properties
+SHA1-Digest: XYEmV0dYJ9HJ1Bw5X3ah+tO00qE=
+
+Name: org/joda/time/format/messages_es.properties
+SHA1-Digest: dYofnqNcmdwPrD60iyJJFCWizKo=
+
+Name: org/joda/time/format/messages_fr.properties
+SHA1-Digest: CDoM8Dz4BIZE5mWfqUfNP+UaZv8=
+
+Name: org/joda/time/format/messages_it.properties
+SHA1-Digest: FNN0kCbxJUYf6PniOteN45uj958=
+
+Name: org/joda/time/format/messages_ja.properties
+SHA1-Digest: 59Lxe/Yyi/h9TsOToH1iCLPFRK4=
+
+Name: org/joda/time/format/messages_kk.properties
+SHA1-Digest: tatZ5UOQW9YT5Np4Ha6QrMl6+JU=
+
+Name: org/joda/time/format/messages_nl.properties
+SHA1-Digest: 8mwL0GorRBYAlcIRTj7OHT6cORs=
+
+Name: org/joda/time/format/messages_no.properties
+SHA1-Digest: rOjHDaIDkC2pz9zkvz/LPgd/8GI=
+
+Name: org/joda/time/format/messages_pl.properties
+SHA1-Digest: cg6/TvQw5xT4O8DvefkYHFRrkQw=
+
+Name: org/joda/time/format/messages_pt.properties
+SHA1-Digest: ourC51wh7LKw2bf6HLfvU2nCafk=
+
+Name: org/joda/time/format/messages_ru.properties
+SHA1-Digest: tAUsIreHmufs9XgENHENI2eGIvo=
+
+Name: org/joda/time/format/messages_tr.properties
+SHA1-Digest: Q90KWCwaSG8qfg17TGlUp727NLs=
+
+Name: org/joda/time/tz/data/Africa/Abidjan
+SHA1-Digest: rstGtTn1utHD9xXn0ZBl16hLMrg=
+
+Name: org/joda/time/tz/data/Africa/Accra
+SHA1-Digest: um9fSJGgIfS5OzBWiUflzJD0IRQ=
+
+Name: org/joda/time/tz/data/Africa/Addis_Ababa
+SHA1-Digest: ALKup12XAcpApO5vbx4tjxzl1H4=
+
+Name: org/joda/time/tz/data/Africa/Algiers
+SHA1-Digest: Wvf/+r6lFBpRELZNDmKw2Y+ed0U=
+
+Name: org/joda/time/tz/data/Africa/Asmara
+SHA1-Digest: owanMyYjBSxw+9MEgZyzrLe9Nm4=
+
+Name: org/joda/time/tz/data/Africa/Bamako
+SHA1-Digest: v1C6C7v8EzHDHaEAlA5SEiS9ylc=
+
+Name: org/joda/time/tz/data/Africa/Bangui
+SHA1-Digest: dDW7nia1t/JvQyjMwoNOETVEdUo=
+
+Name: org/joda/time/tz/data/Africa/Banjul
+SHA1-Digest: 4dTyvKwbSHZUC0Njvklt4WN7pQc=
+
+Name: org/joda/time/tz/data/Africa/Bissau
+SHA1-Digest: 60zkEE4oXaIpLWqw5d/9yIA6erQ=
+
+Name: org/joda/time/tz/data/Africa/Blantyre
+SHA1-Digest: yuBaKEKqzlqqxG/GwvON0R11SuM=
+
+Name: org/joda/time/tz/data/Africa/Brazzaville
+SHA1-Digest: 6ADBjh+KUGhSWhYb4OEL0PKp8p8=
+
+Name: org/joda/time/tz/data/Africa/Bujumbura
+SHA1-Digest: qIycpzG84mtVAZBtCuYcDiVLmu0=
+
+Name: org/joda/time/tz/data/Africa/Cairo
+SHA1-Digest: SyW99dm/M1PunHtu8hSMqNQdpdE=
+
+Name: org/joda/time/tz/data/Africa/Casablanca
+SHA1-Digest: KE0Me/3g9E3oeLtAIgLvPH7pGxI=
+
+Name: org/joda/time/tz/data/Africa/Ceuta
+SHA1-Digest: cX9zh861hNj0S3VOxX38wm6bfMQ=
+
+Name: org/joda/time/tz/data/Africa/Conakry
+SHA1-Digest: PQOye5XmtnylhYCL2dojwwK2Wj8=
+
+Name: org/joda/time/tz/data/Africa/Dakar
+SHA1-Digest: zIOMYP0cD+IgkiyV+i6ipsjlM7M=
+
+Name: org/joda/time/tz/data/Africa/Dar_es_Salaam
+SHA1-Digest: G1FsjsrV3c35hiPJArFwZ18gIRQ=
+
+Name: org/joda/time/tz/data/Africa/Djibouti
+SHA1-Digest: wKFEJGAG9zlWNG5jdXr8+P5lzcg=
+
+Name: org/joda/time/tz/data/Africa/Douala
+SHA1-Digest: 1TuZKRn2QSqrmwEySGFVatP2mbk=
+
+Name: org/joda/time/tz/data/Africa/El_Aaiun
+SHA1-Digest: H/BVSLMvnXewJVhjI3hzCCH7NbU=
+
+Name: org/joda/time/tz/data/Africa/Freetown
+SHA1-Digest: 9xzlc9oRsAhHU8lgQL6SLnD8lEU=
+
+Name: org/joda/time/tz/data/Africa/Gaborone
+SHA1-Digest: IM8jR4pwcVp2JzvVUj44Q6Jc314=
+
+Name: org/joda/time/tz/data/Africa/Harare
+SHA1-Digest: 5Z3NjPwKoSIaFpvbwx4lmW3XJv8=
+
+Name: org/joda/time/tz/data/Africa/Johannesburg
+SHA1-Digest: KbnLM4iKQftm7D4SyTnj3thnvGs=
+
+Name: org/joda/time/tz/data/Africa/Juba
+SHA1-Digest: XGxajkwmM3yKIfUW0fObJkh3DJw=
+
+Name: org/joda/time/tz/data/Africa/Kampala
+SHA1-Digest: YG+y375kMbvx5GOKFMFkVUJNMtg=
+
+Name: org/joda/time/tz/data/Africa/Khartoum
+SHA1-Digest: iVHB9PJcn7oOx3cR4SXpUuojfBI=
+
+Name: org/joda/time/tz/data/Africa/Kigali
+SHA1-Digest: YU/kgcMfBKLvjeap/eodMtM0wFw=
+
+Name: org/joda/time/tz/data/Africa/Kinshasa
+SHA1-Digest: Yz707Q7/GgQtITvNprzK7Lr4nys=
+
+Name: org/joda/time/tz/data/Africa/Lagos
+SHA1-Digest: gTM/rA1xVxHZYdCEkjPJHXsXZZ4=
+
+Name: org/joda/time/tz/data/Africa/Libreville
+SHA1-Digest: rPWsZBGBFx+qd9gHldbehmG21SA=
+
+Name: org/joda/time/tz/data/Africa/Lome
+SHA1-Digest: 6X/lDwSPaoLDKhITmIFM9y2i9Tw=
+
+Name: org/joda/time/tz/data/Africa/Luanda
+SHA1-Digest: sGuxFYdVz6woyEJpFojhbtBLWRU=
+
+Name: org/joda/time/tz/data/Africa/Lubumbashi
+SHA1-Digest: k9cXzoVCsQllH+ZffTkJGkLquCE=
+
+Name: org/joda/time/tz/data/Africa/Lusaka
+SHA1-Digest: Y/Lz4AlVUM8U712APXTDKFiNnYU=
+
+Name: org/joda/time/tz/data/Africa/Malabo
+SHA1-Digest: GV02NPz5OPridbKWYXjBDfYZ/EU=
+
+Name: org/joda/time/tz/data/Africa/Maputo
+SHA1-Digest: nhN+ukHD1wsyhi8iiuE6XrCvTiA=
+
+Name: org/joda/time/tz/data/Africa/Maseru
+SHA1-Digest: 8reLTMlgjbYhStWSuVqnXAHzXZI=
+
+Name: org/joda/time/tz/data/Africa/Mbabane
+SHA1-Digest: k2NoLDY2EonYBWXD5vJTUUTz1xk=
+
+Name: org/joda/time/tz/data/Africa/Mogadishu
+SHA1-Digest: u9PGsIUBIR7+xtIwSrRdgTZ0G38=
+
+Name: org/joda/time/tz/data/Africa/Monrovia
+SHA1-Digest: 2RtBLV/QuaPigfAyaqsH3kuFJPE=
+
+Name: org/joda/time/tz/data/Africa/Nairobi
+SHA1-Digest: ngS5r9N3SLZfss6nWOX/XCA3vos=
+
+Name: org/joda/time/tz/data/Africa/Ndjamena
+SHA1-Digest: a9DAIrfcLQnyf1b+9ULAEOIoax8=
+
+Name: org/joda/time/tz/data/Africa/Niamey
+SHA1-Digest: a9v8jmzv8v0pSUvU+m3bKw1P36o=
+
+Name: org/joda/time/tz/data/Africa/Nouakchott
+SHA1-Digest: yV6Ez1iqEHzPXyEEH/MtoZqJX3k=
+
+Name: org/joda/time/tz/data/Africa/Ouagadougou
+SHA1-Digest: K9acQbfzUiwkVNRFE6nqExKm7Jw=
+
+Name: org/joda/time/tz/data/Africa/Porto-Novo
+SHA1-Digest: xwOJtTZVE/qcit9ruSrGRWwrDl0=
+
+Name: org/joda/time/tz/data/Africa/Sao_Tome
+SHA1-Digest: 3hVhv81sxG60zqfuNelh51WbjNs=
+
+Name: org/joda/time/tz/data/Africa/Tripoli
+SHA1-Digest: KfpIXaUU9+3yU2ONu4iBK1lU9JY=
+
+Name: org/joda/time/tz/data/Africa/Tunis
+SHA1-Digest: zT7wO6FD7bpVUCc8/K8gJQ5lc5g=
+
+Name: org/joda/time/tz/data/Africa/Windhoek
+SHA1-Digest: 8yFCEj0eehpKFoqy5p/QTW0uAY8=
+
+Name: org/joda/time/tz/data/America/Adak
+SHA1-Digest: dL+Rml6oVTI64Ws8HrEmbkArwxw=
+
+Name: org/joda/time/tz/data/America/Anchorage
+SHA1-Digest: wUWpnmaL5dC//n1+qdXdq7dF90I=
+
+Name: org/joda/time/tz/data/America/Anguilla
+SHA1-Digest: h1KCcegZgfomxT2ljnB6vKzEc/E=
+
+Name: org/joda/time/tz/data/America/Antigua
+SHA1-Digest: rKBXaJrxu+6siqz0LLtIJgoBRko=
+
+Name: org/joda/time/tz/data/America/Araguaina
+SHA1-Digest: 8d821GFqea4iOrtliUVJT1om4WA=
+
+Name: org/joda/time/tz/data/America/Argentina/Buenos_Aires
+SHA1-Digest: 8cZKdC2eIZQSx7k2xejSPTh5I3o=
+
+Name: org/joda/time/tz/data/America/Argentina/Catamarca
+SHA1-Digest: KARvv5FdezWRgQtilU3FArdb5kU=
+
+Name: org/joda/time/tz/data/America/Argentina/Cordoba
+SHA1-Digest: b8/w+MhUUOdDwtbfNCXBKCM5/vs=
+
+Name: org/joda/time/tz/data/America/Argentina/Jujuy
+SHA1-Digest: ncxlLzp/ajUaYZyBGLw/Ih4UQ7U=
+
+Name: org/joda/time/tz/data/America/Argentina/La_Rioja
+SHA1-Digest: BCH4cPfC9wr+zFFSNDBFB3s+apw=
+
+Name: org/joda/time/tz/data/America/Argentina/Mendoza
+SHA1-Digest: 9qVT0bm/bi81vES7Tyr+VLXCgXM=
+
+Name: org/joda/time/tz/data/America/Argentina/Rio_Gallegos
+SHA1-Digest: 60NA2YHFbYhH2Mt7PyK/XFLDioU=
+
+Name: org/joda/time/tz/data/America/Argentina/Salta
+SHA1-Digest: 1Crh10OTLTcIAEekPGsVe8htmfg=
+
+Name: org/joda/time/tz/data/America/Argentina/San_Juan
+SHA1-Digest: K2CEQP4YItrzf5gxrf2OxK81sys=
+
+Name: org/joda/time/tz/data/America/Argentina/San_Luis
+SHA1-Digest: 7Exe4S4IZN52znyC9Mbppjd0yLo=
+
+Name: org/joda/time/tz/data/America/Argentina/Tucuman
+SHA1-Digest: xbk9OwMGwwC+I6XJUhUD2hFXDdw=
+
+Name: org/joda/time/tz/data/America/Argentina/Ushuaia
+SHA1-Digest: qQtGi/2MNCAssPdZ9WRDb+eT9tY=
+
+Name: org/joda/time/tz/data/America/Aruba
+SHA1-Digest: 2LXNeljrnIDT7ccC2oBoa71lWlc=
+
+Name: org/joda/time/tz/data/America/Asuncion
+SHA1-Digest: OULvRrweQOIxY6loJ9+CsvIT96w=
+
+Name: org/joda/time/tz/data/America/Atikokan
+SHA1-Digest: 4DWd60KyD7a4iQ0HkPtL0UB0QkU=
+
+Name: org/joda/time/tz/data/America/Bahia
+SHA1-Digest: Ttxhb09TBRBHyA2iDaMiT8hDppM=
+
+Name: org/joda/time/tz/data/America/Bahia_Banderas
+SHA1-Digest: 3gwd9IvdSi+4UtRMWCiORE8v5u8=
+
+Name: org/joda/time/tz/data/America/Barbados
+SHA1-Digest: DVKszgz+NaUXBEahjQA6dWwvCVE=
+
+Name: org/joda/time/tz/data/America/Belem
+SHA1-Digest: sw9E3q2waMYYRWogS30oiu5bvKI=
+
+Name: org/joda/time/tz/data/America/Belize
+SHA1-Digest: Y4qTPqb+xCojHSfHL4oyVx3myZA=
+
+Name: org/joda/time/tz/data/America/Blanc-Sablon
+SHA1-Digest: 2Min1n7xo4im7zo+grNDtr1XPOs=
+
+Name: org/joda/time/tz/data/America/Boa_Vista
+SHA1-Digest: pJokYX1XDX4qxtdtT7RByzu463g=
+
+Name: org/joda/time/tz/data/America/Bogota
+SHA1-Digest: WELKx5GSWbaNfuEbTX43n22SLJ4=
+
+Name: org/joda/time/tz/data/America/Boise
+SHA1-Digest: W9DdwJM8+HiIsLIx9EisT3iHNJI=
+
+Name: org/joda/time/tz/data/America/Cambridge_Bay
+SHA1-Digest: gQ0+0pf4bS6iSPVJf3T4IZuJpiY=
+
+Name: org/joda/time/tz/data/America/Campo_Grande
+SHA1-Digest: 5SsGOFDkNmUMaduNc3XXxQwNZiI=
+
+Name: org/joda/time/tz/data/America/Cancun
+SHA1-Digest: 8kreqWCxWiS/jcG22psxvn+vctM=
+
+Name: org/joda/time/tz/data/America/Caracas
+SHA1-Digest: jDyHo7a3GH3i/MQCaG4yZJ7xwBQ=
+
+Name: org/joda/time/tz/data/America/Cayenne
+SHA1-Digest: OW6r3NZV54jgOEE7jtw4EUF9TvA=
+
+Name: org/joda/time/tz/data/America/Cayman
+SHA1-Digest: iLXVxBy9RXkPsbPeTDOhZ4CxfJY=
+
+Name: org/joda/time/tz/data/America/Chicago
+SHA1-Digest: qxhfxT9NEmg0GE8LHMY1bcVkx2A=
+
+Name: org/joda/time/tz/data/America/Chihuahua
+SHA1-Digest: PL0UUXwzF7vTBuOBTZTBIepK+6Q=
+
+Name: org/joda/time/tz/data/America/Costa_Rica
+SHA1-Digest: u3m58tBbygRcAl87AdHMf6Fy7AA=
+
+Name: org/joda/time/tz/data/America/Creston
+SHA1-Digest: ZT+Y40sY8DkvMUWHZWj+QwRTwqk=
+
+Name: org/joda/time/tz/data/America/Cuiaba
+SHA1-Digest: RT3GBRrHSMLlu6+820aeUCdLDPY=
+
+Name: org/joda/time/tz/data/America/Curacao
+SHA1-Digest: GNyFG/zKvoK9phUp1UhfcA+xQxA=
+
+Name: org/joda/time/tz/data/America/Danmarkshavn
+SHA1-Digest: Yw5bErb3HTQ8SYnmK1+EtSiES0E=
+
+Name: org/joda/time/tz/data/America/Dawson
+SHA1-Digest: l6Q2CqDmJ7XiIQFHCRnpbGmkpTE=
+
+Name: org/joda/time/tz/data/America/Dawson_Creek
+SHA1-Digest: lwbr3A+4TdSjHrKHCtxewkafTfE=
+
+Name: org/joda/time/tz/data/America/Denver
+SHA1-Digest: CEXB3peYHsXReEBWLtrcDTATJ2Q=
+
+Name: org/joda/time/tz/data/America/Detroit
+SHA1-Digest: jiNfr6D8zX9756apr3OQkSc/yv0=
+
+Name: org/joda/time/tz/data/America/Dominica
+SHA1-Digest: nNZwjNmSXpaGGqMcXam1HHUuVWU=
+
+Name: org/joda/time/tz/data/America/Edmonton
+SHA1-Digest: 18SGEWaPsOL1J3lvNs2dGnh+jtM=
+
+Name: org/joda/time/tz/data/America/Eirunepe
+SHA1-Digest: BGFXaRVtnBBxn7aQ6QLwDWXXzKg=
+
+Name: org/joda/time/tz/data/America/El_Salvador
+SHA1-Digest: 8T/HoqQdPsF143cOMCW5cKer83E=
+
+Name: org/joda/time/tz/data/America/Fort_Nelson
+SHA1-Digest: ggFE/J6EgUkGOj2MJmNJmLcTZW4=
+
+Name: org/joda/time/tz/data/America/Fortaleza
+SHA1-Digest: LO1zPpXcuFMrLlNVN+bQY31PEio=
+
+Name: org/joda/time/tz/data/America/Glace_Bay
+SHA1-Digest: j8coGE41ikOTY40+scXuOlebB50=
+
+Name: org/joda/time/tz/data/America/Godthab
+SHA1-Digest: JQs6v6Kn6wNGlOwZPYhCk5+8vfM=
+
+Name: org/joda/time/tz/data/America/Goose_Bay
+SHA1-Digest: LaRgzv8j5sqpEvhOd1lG6Uz38FU=
+
+Name: org/joda/time/tz/data/America/Grand_Turk
+SHA1-Digest: DN1mGebE1aVch+2ZD6PFE4bgvRs=
+
+Name: org/joda/time/tz/data/America/Grenada
+SHA1-Digest: iAg1Q40/hVaxYfayXHmQ19QOe4g=
+
+Name: org/joda/time/tz/data/America/Guadeloupe
+SHA1-Digest: 4AjgFzbmajI14cQmVFm/Nu2oAX8=
+
+Name: org/joda/time/tz/data/America/Guatemala
+SHA1-Digest: vg502i6kLueo8Uw/tFYLqVICEbI=
+
+Name: org/joda/time/tz/data/America/Guayaquil
+SHA1-Digest: sdtHmg3kLaoNIhxFIYAnxydOf30=
+
+Name: org/joda/time/tz/data/America/Guyana
+SHA1-Digest: 1xXUqPO2gD5xq1B6dwiVovVHy+E=
+
+Name: org/joda/time/tz/data/America/Halifax
+SHA1-Digest: IoxsxyHEXT6Jo8bWWJV5vpwq4EM=
+
+Name: org/joda/time/tz/data/America/Havana
+SHA1-Digest: Y9Rw7aQsqIzdeu+RhIsJ/OZdCl4=
+
+Name: org/joda/time/tz/data/America/Hermosillo
+SHA1-Digest: UB+uLTszJs5kbVM6HGt0LnXOLqc=
+
+Name: org/joda/time/tz/data/America/Indiana/Indianapolis
+SHA1-Digest: 38gkkS9yxOyZcUNptg0W1J0pgqQ=
+
+Name: org/joda/time/tz/data/America/Indiana/Knox
+SHA1-Digest: kOPk4ZUVXvSXQaWUPJiNzy0ekn8=
+
+Name: org/joda/time/tz/data/America/Indiana/Marengo
+SHA1-Digest: K7cz82b/8SBY2so+QbZMZflBDhc=
+
+Name: org/joda/time/tz/data/America/Indiana/Petersburg
+SHA1-Digest: Uq2FDsGvLSUc2uM6khTbS3ta2nQ=
+
+Name: org/joda/time/tz/data/America/Indiana/Tell_City
+SHA1-Digest: yEbZwLYmNIV09zQnbn1aENT/tNQ=
+
+Name: org/joda/time/tz/data/America/Indiana/Vevay
+SHA1-Digest: cjeu218tSDQJtvN1pKV/czTahnI=
+
+Name: org/joda/time/tz/data/America/Indiana/Vincennes
+SHA1-Digest: TaO+u2wxsrDMx9dKPG3ZhQoYVKE=
+
+Name: org/joda/time/tz/data/America/Indiana/Winamac
+SHA1-Digest: Y3loqX+3wWEyzEXzFyusoCokGuo=
+
+Name: org/joda/time/tz/data/America/Inuvik
+SHA1-Digest: 72VpSWKNQ1d7ZcSfTSsOk4XwePc=
+
+Name: org/joda/time/tz/data/America/Iqaluit
+SHA1-Digest: TsBBCCZFOMyOo4+TGxwzNWEk0a8=
+
+Name: org/joda/time/tz/data/America/Jamaica
+SHA1-Digest: vNivTtQUkoSklSvJs81a+9KeRzU=
+
+Name: org/joda/time/tz/data/America/Juneau
+SHA1-Digest: hjdtcYErYDcVXL0sNY6P2LVowI8=
+
+Name: org/joda/time/tz/data/America/Kentucky/Louisville
+SHA1-Digest: 2GPBJpgmE3jH53nvn7MnInbC8+0=
+
+Name: org/joda/time/tz/data/America/Kentucky/Monticello
+SHA1-Digest: BsqbHUo1Gh2t9Ba7j25PdZK7sG4=
+
+Name: org/joda/time/tz/data/America/Kralendijk
+SHA1-Digest: sUSBBrNKa/n0jstp9OqHurnnwNk=
+
+Name: org/joda/time/tz/data/America/La_Paz
+SHA1-Digest: /b+C1XE0xsbY0Xh3fsVOvMcB9rQ=
+
+Name: org/joda/time/tz/data/America/Lima
+SHA1-Digest: OAjq2plY+R5/4O+XZYL+sadiqZI=
+
+Name: org/joda/time/tz/data/America/Los_Angeles
+SHA1-Digest: alGP31PbRrnGKd4v1UFLq86G1XM=
+
+Name: org/joda/time/tz/data/America/Lower_Princes
+SHA1-Digest: 7mhrQev7Yswiww22ZAYJXXYE7mc=
+
+Name: org/joda/time/tz/data/America/Maceio
+SHA1-Digest: R9G5jwcspXOlaP8LSIF/FuxAwrs=
+
+Name: org/joda/time/tz/data/America/Managua
+SHA1-Digest: 6I74s26Ui/gvNU8OQUYxWzFZOac=
+
+Name: org/joda/time/tz/data/America/Manaus
+SHA1-Digest: fABfbQGZqvF07jY6XZBH1UFfH1k=
+
+Name: org/joda/time/tz/data/America/Marigot
+SHA1-Digest: 1i0HIAnqapcBlh5b8UWUsWV6SXQ=
+
+Name: org/joda/time/tz/data/America/Martinique
+SHA1-Digest: bZCobdTwGbMLGIfN47Fb/SfP6bA=
+
+Name: org/joda/time/tz/data/America/Matamoros
+SHA1-Digest: 4+yMngCPEteGFX6jsdjR3+n8Eps=
+
+Name: org/joda/time/tz/data/America/Mazatlan
+SHA1-Digest: QlgCoZYkrGO8ja+ndt3GFwn/SqY=
+
+Name: org/joda/time/tz/data/America/Menominee
+SHA1-Digest: x/H6+jfUdJQJWaFjCfZQRMfBjRQ=
+
+Name: org/joda/time/tz/data/America/Merida
+SHA1-Digest: aLRO1mGpQbWqFhSGMflS3UVlpng=
+
+Name: org/joda/time/tz/data/America/Metlakatla
+SHA1-Digest: F6pICVObaZNB9fGn4QLumwDEMBk=
+
+Name: org/joda/time/tz/data/America/Mexico_City
+SHA1-Digest: QAB7sVC8ppGaD8tFBwE0SGD/Qys=
+
+Name: org/joda/time/tz/data/America/Miquelon
+SHA1-Digest: mM6FO+nGgjPQSMLASlDVbMmJyyI=
+
+Name: org/joda/time/tz/data/America/Moncton
+SHA1-Digest: 50mZq5tFl6LkWJG8mseoXNIQ5Q4=
+
+Name: org/joda/time/tz/data/America/Monterrey
+SHA1-Digest: jvht543Zj/aeW5ZRLgBCaDerxak=
+
+Name: org/joda/time/tz/data/America/Montevideo
+SHA1-Digest: ZomyZVtbD3L0Zw9+YxyZ4rOFHkk=
+
+Name: org/joda/time/tz/data/America/Montserrat
+SHA1-Digest: 53L5v3AJZSobR4uwJ+D48kHGkR8=
+
+Name: org/joda/time/tz/data/America/Nassau
+SHA1-Digest: AEFFS7lo+5C1Y6adCbpQh8JiL2M=
+
+Name: org/joda/time/tz/data/America/New_York
+SHA1-Digest: PVtrJc87r5HQtCQz2uFbN1fHLYQ=
+
+Name: org/joda/time/tz/data/America/Nipigon
+SHA1-Digest: Vqv7AzOpithE36NADO3Aj5jERLw=
+
+Name: org/joda/time/tz/data/America/Nome
+SHA1-Digest: rWdKOXVVz234CNxSfcmZoJxqec4=
+
+Name: org/joda/time/tz/data/America/Noronha
+SHA1-Digest: Pd2ZJnbuJG7/fkU2jxXvKFUwoac=
+
+Name: org/joda/time/tz/data/America/North_Dakota/Beulah
+SHA1-Digest: sfHiuYgXNdihYFu6k0fr2C0RBcI=
+
+Name: org/joda/time/tz/data/America/North_Dakota/Center
+SHA1-Digest: b+FkXV+cx+f6mdNHl3inZ+Qv5MI=
+
+Name: org/joda/time/tz/data/America/North_Dakota/New_Salem
+SHA1-Digest: AlXdaw1N3/d+gAyjYPxR9kB4Vvo=
+
+Name: org/joda/time/tz/data/America/Ojinaga
+SHA1-Digest: yAoa++0WgWdZ+ENUoYXaYotW614=
+
+Name: org/joda/time/tz/data/America/Panama
+SHA1-Digest: 374or95q1DH9en1+r/0L+pQ77xM=
+
+Name: org/joda/time/tz/data/America/Pangnirtung
+SHA1-Digest: XtgI/Br72cxeQgxonsH15pr5/20=
+
+Name: org/joda/time/tz/data/America/Paramaribo
+SHA1-Digest: 4EjxcVEKCzn1qgYQH2odUqt+h/c=
+
+Name: org/joda/time/tz/data/America/Phoenix
+SHA1-Digest: VsuT5dfXSscVdVm6FreWFTg8nIg=
+
+Name: org/joda/time/tz/data/America/Port-au-Prince
+SHA1-Digest: /J/WUN1O4opSQsimAYUpD9j0e7Y=
+
+Name: org/joda/time/tz/data/America/Port_of_Spain
+SHA1-Digest: bdQcQ1gUc7cgRS5+JnXXA8OIlHY=
+
+Name: org/joda/time/tz/data/America/Porto_Velho
+SHA1-Digest: iA2LYTLJLonMtAEPGURYqMNr/wU=
+
+Name: org/joda/time/tz/data/America/Puerto_Rico
+SHA1-Digest: NNNS8c7ZbwxDXQrlxnZXc4etHq4=
+
+Name: org/joda/time/tz/data/America/Punta_Arenas
+SHA1-Digest: MFd1WC0/RLUYpqQg/y4pasENOps=
+
+Name: org/joda/time/tz/data/America/Rainy_River
+SHA1-Digest: I5NNRc3BGMi8to2J5PDQhpWTV4U=
+
+Name: org/joda/time/tz/data/America/Rankin_Inlet
+SHA1-Digest: xYcDMbGT+P9ikptP1VYNZA8XTjk=
+
+Name: org/joda/time/tz/data/America/Recife
+SHA1-Digest: E81ZNkauTMcJWjl5Jpogs6e9ocI=
+
+Name: org/joda/time/tz/data/America/Regina
+SHA1-Digest: Npe0NAjpzV0PhXbh2gvrposgE+A=
+
+Name: org/joda/time/tz/data/America/Resolute
+SHA1-Digest: bIs3qntVVZC7eBTKXgmWFYY6xbI=
+
+Name: org/joda/time/tz/data/America/Rio_Branco
+SHA1-Digest: K53ahayV86+7zpHrOEGnaBrcuqw=
+
+Name: org/joda/time/tz/data/America/Santarem
+SHA1-Digest: 1E5URLjsahN85dh3O4SQGEV/mxI=
+
+Name: org/joda/time/tz/data/America/Santiago
+SHA1-Digest: /gh2E/PBIRKgVtz56WvHaW1j2Ks=
+
+Name: org/joda/time/tz/data/America/Santo_Domingo
+SHA1-Digest: xP4ly+mlNIpbfzi1P9DqtkS8yCM=
+
+Name: org/joda/time/tz/data/America/Sao_Paulo
+SHA1-Digest: uuuODaow4S+lAVHuVReeEWDrTL0=
+
+Name: org/joda/time/tz/data/America/Scoresbysund
+SHA1-Digest: 9s3zCYnThPwSLzDURlbAlVxorJs=
+
+Name: org/joda/time/tz/data/America/Sitka
+SHA1-Digest: /JMBGxMQsdkP2z03pqMtomw1wF0=
+
+Name: org/joda/time/tz/data/America/St_Barthelemy
+SHA1-Digest: 9I6uSc2XkAt6ojTXYt3mWNpTix4=
+
+Name: org/joda/time/tz/data/America/St_Johns
+SHA1-Digest: aFSW9XfvPC1uVoY9xb9oLCvqJUA=
+
+Name: org/joda/time/tz/data/America/St_Kitts
+SHA1-Digest: IbmNdNzWoFivVVnIeiXFs50oL8U=
+
+Name: org/joda/time/tz/data/America/St_Lucia
+SHA1-Digest: MSI05MwAZkqPQdEHKsbvHfNsTfQ=
+
+Name: org/joda/time/tz/data/America/St_Thomas
+SHA1-Digest: VqLOCqkwb6xcx1hF/+dsKWXZXoU=
+
+Name: org/joda/time/tz/data/America/St_Vincent
+SHA1-Digest: NgXaajF2v5hqLREUFiFKF36mWl4=
+
+Name: org/joda/time/tz/data/America/Swift_Current
+SHA1-Digest: uUfQvsUitqO6Zshii6m4CfNcIzk=
+
+Name: org/joda/time/tz/data/America/Tegucigalpa
+SHA1-Digest: mXBK6ZKjNOsChJuchvPLlpPXZFI=
+
+Name: org/joda/time/tz/data/America/Thule
+SHA1-Digest: Urb0h/ywAGpv1UnC380wws/WO+4=
+
+Name: org/joda/time/tz/data/America/Thunder_Bay
+SHA1-Digest: 41E7Aji6+FyS37fpuqCSMTFQuVw=
+
+Name: org/joda/time/tz/data/America/Tijuana
+SHA1-Digest: vhEl2aLI1HirZx5h1Z1L8coOaqw=
+
+Name: org/joda/time/tz/data/America/Toronto
+SHA1-Digest: ykrbB7ZnqhXjoqAOuWXcigym1pk=
+
+Name: org/joda/time/tz/data/America/Tortola
+SHA1-Digest: pfExta5L2dzIcBnUR+d+39bV2UU=
+
+Name: org/joda/time/tz/data/America/Vancouver
+SHA1-Digest: yXnJe6kqijNesFkcNIzzdmh0apU=
+
+Name: org/joda/time/tz/data/America/Whitehorse
+SHA1-Digest: 3Jwp7oe7B/HaC8J1XzKIvmxK8U4=
+
+Name: org/joda/time/tz/data/America/Winnipeg
+SHA1-Digest: DgUBrhg7wXeM3oefp3SBLs1Oo/I=
+
+Name: org/joda/time/tz/data/America/Yakutat
+SHA1-Digest: CKG/P3YjmjfXwiYnH3comf1LPbk=
+
+Name: org/joda/time/tz/data/America/Yellowknife
+SHA1-Digest: Evd+Z5lgHCwMMlRPMvBPjmKHC3g=
+
+Name: org/joda/time/tz/data/Antarctica/Casey
+SHA1-Digest: FDoWJ2QmgfU+y/oygP2Qs22u2GM=
+
+Name: org/joda/time/tz/data/Antarctica/Davis
+SHA1-Digest: us4TNLmu9zM9V8QBqLqSOnZhzLU=
+
+Name: org/joda/time/tz/data/Antarctica/DumontDUrville
+SHA1-Digest: PYEAUESYWrZXVPimRIKYZehNEbo=
+
+Name: org/joda/time/tz/data/Antarctica/Macquarie
+SHA1-Digest: 28KBk27I7ztreZHoO+wengu75h8=
+
+Name: org/joda/time/tz/data/Antarctica/Mawson
+SHA1-Digest: Fy/MSEFNkl61payD1moRxtq8Fg0=
+
+Name: org/joda/time/tz/data/Antarctica/McMurdo
+SHA1-Digest: qz4UNRFNSR4b+b5zuvknSiwdCo8=
+
+Name: org/joda/time/tz/data/Antarctica/Palmer
+SHA1-Digest: Lp55Gq6XfA16RmoxjYjW5OI1Zrc=
+
+Name: org/joda/time/tz/data/Antarctica/Rothera
+SHA1-Digest: 4AYmEe7YWtRTMWl//YA2ZciyCjo=
+
+Name: org/joda/time/tz/data/Antarctica/Syowa
+SHA1-Digest: dFSMWs+hyuduI97EkGByJwr0XLA=
+
+Name: org/joda/time/tz/data/Antarctica/Troll
+SHA1-Digest: V/zd4INkoflpoKP8DZn50COeOK0=
+
+Name: org/joda/time/tz/data/Antarctica/Vostok
+SHA1-Digest: 8Lj4JQPjdeLqat7aqRMQB2beF24=
+
+Name: org/joda/time/tz/data/Arctic/Longyearbyen
+SHA1-Digest: EFcTpoWW/ojEf1IgSFtMzKh7F3g=
+
+Name: org/joda/time/tz/data/Asia/Aden
+SHA1-Digest: VrzsgTLLy903p/WllapnbepNJp4=
+
+Name: org/joda/time/tz/data/Asia/Almaty
+SHA1-Digest: J2bt0TqDuiUrqosd3JnVb7u3lm8=
+
+Name: org/joda/time/tz/data/Asia/Amman
+SHA1-Digest: 6AP7y3cCvZ8b0TrV3qPRzURySQs=
+
+Name: org/joda/time/tz/data/Asia/Anadyr
+SHA1-Digest: x6xXoefHh4FN6Psek0vDu9BONdw=
+
+Name: org/joda/time/tz/data/Asia/Aqtau
+SHA1-Digest: +58PQC4hkK9PpjZgktMIzl9IE0U=
+
+Name: org/joda/time/tz/data/Asia/Aqtobe
+SHA1-Digest: tnCdBcMroSo0k/E5HiCnlzoZHDs=
+
+Name: org/joda/time/tz/data/Asia/Ashgabat
+SHA1-Digest: A4GTFRQ0sokplFea+/tEUUpc5sw=
+
+Name: org/joda/time/tz/data/Asia/Atyrau
+SHA1-Digest: +4oiSpnxrI3TD1/hp813hWmQJkc=
+
+Name: org/joda/time/tz/data/Asia/Baghdad
+SHA1-Digest: AqMJRmdm7kXd4jXj5fs0nh/h9fE=
+
+Name: org/joda/time/tz/data/Asia/Bahrain
+SHA1-Digest: npf9OGDRIjuVwC97gbdr2qI9fa4=
+
+Name: org/joda/time/tz/data/Asia/Baku
+SHA1-Digest: Xtak0i9d2rcL1SNt5cH4GiHX/qw=
+
+Name: org/joda/time/tz/data/Asia/Bangkok
+SHA1-Digest: Ans6f6B7t8R7zdEm5whzLi30YTY=
+
+Name: org/joda/time/tz/data/Asia/Barnaul
+SHA1-Digest: aEsAODt+WRqy8MBkgJdpmcFag+U=
+
+Name: org/joda/time/tz/data/Asia/Beirut
+SHA1-Digest: ZElS+19FMZIaiJoImBZTyOgyzcw=
+
+Name: org/joda/time/tz/data/Asia/Bishkek
+SHA1-Digest: KF106XqsrZ2O429SA8AwnZm/NCs=
+
+Name: org/joda/time/tz/data/Asia/Brunei
+SHA1-Digest: 5v/ixEVqm4BxXmteZ6jS9N/Ws6E=
+
+Name: org/joda/time/tz/data/Asia/Chita
+SHA1-Digest: RXdcGH1c6a++QvY0znl78geAU9A=
+
+Name: org/joda/time/tz/data/Asia/Choibalsan
+SHA1-Digest: PpkSMVYreKeIxq78EhiYh3lhmL8=
+
+Name: org/joda/time/tz/data/Asia/Colombo
+SHA1-Digest: +C+pzjf6+Np+yOir4Pp26Ga76z4=
+
+Name: org/joda/time/tz/data/Asia/Damascus
+SHA1-Digest: QhgfKZUH/PEWWAQPV33l4Qv6ugs=
+
+Name: org/joda/time/tz/data/Asia/Dhaka
+SHA1-Digest: qaP2UnsYb5Gc+loz6RLgO0PZ2Ag=
+
+Name: org/joda/time/tz/data/Asia/Dili
+SHA1-Digest: KC9rGj8ZEd/Xaaym5MHw5T9q8Cg=
+
+Name: org/joda/time/tz/data/Asia/Dubai
+SHA1-Digest: 3H29ptgou/XbG078wvZ5U06UxLM=
+
+Name: org/joda/time/tz/data/Asia/Dushanbe
+SHA1-Digest: lLV2ViscjdbM80PP2jpqDlDyOBk=
+
+Name: org/joda/time/tz/data/Asia/Famagusta
+SHA1-Digest: nzqx/Nil/3YenTIcO2Uy7c5w1I0=
+
+Name: org/joda/time/tz/data/Asia/Gaza
+SHA1-Digest: FBzTgmNd5m8Q9bNhogyuUoqrU0E=
+
+Name: org/joda/time/tz/data/Asia/Hebron
+SHA1-Digest: Lxo9Ajz0AhztpWRWZKY0oVkT9/E=
+
+Name: org/joda/time/tz/data/Asia/Ho_Chi_Minh
+SHA1-Digest: z9a2Gog/VirqmidXeFLl+D7Bfs0=
+
+Name: org/joda/time/tz/data/Asia/Hong_Kong
+SHA1-Digest: sips2Q/UEnUXBZVmDuLlsiTjwAw=
+
+Name: org/joda/time/tz/data/Asia/Hovd
+SHA1-Digest: uOPVJoW7cjcpEuMU2mitp19CqxE=
+
+Name: org/joda/time/tz/data/Asia/Irkutsk
+SHA1-Digest: 1MHR2sAR3NhvNUf9JnwKuYwZ9LA=
+
+Name: org/joda/time/tz/data/Asia/Istanbul
+SHA1-Digest: SrMTF/hwIr6IEmQw3ZdLdZzYHAI=
+
+Name: org/joda/time/tz/data/Asia/Jakarta
+SHA1-Digest: 8XjgRsbNdDwqK7nksOg6q7aRaM8=
+
+Name: org/joda/time/tz/data/Asia/Jayapura
+SHA1-Digest: fWotvE+Vn7CVpj6Uvxt+1d8ghsQ=
+
+Name: org/joda/time/tz/data/Asia/Jerusalem
+SHA1-Digest: PhYLSRn6Fi6NUDeAOR2j5V31A44=
+
+Name: org/joda/time/tz/data/Asia/Kabul
+SHA1-Digest: aK3jbxD0YlvSKN2JbJeHChToULY=
+
+Name: org/joda/time/tz/data/Asia/Kamchatka
+SHA1-Digest: pda3c/pyA46uiMUHKgymzBQNTIU=
+
+Name: org/joda/time/tz/data/Asia/Karachi
+SHA1-Digest: +agPnUhySK6XfOPFE/Ta1C1HaYw=
+
+Name: org/joda/time/tz/data/Asia/Kathmandu
+SHA1-Digest: 279V8EK+U67XLQ6tvVaNsMPoS34=
+
+Name: org/joda/time/tz/data/Asia/Khandyga
+SHA1-Digest: s0B7Wg5FBGqZn/s2h7/ED+KF5bg=
+
+Name: org/joda/time/tz/data/Asia/Kolkata
+SHA1-Digest: 3bITJ/Kz1GZpURFAvYhS3DvUfXM=
+
+Name: org/joda/time/tz/data/Asia/Krasnoyarsk
+SHA1-Digest: QkpQRSC3y2/xtUafI+exBUdD7iM=
+
+Name: org/joda/time/tz/data/Asia/Kuala_Lumpur
+SHA1-Digest: tX0zEUTLzGnEBToW+3wdN7O+0dQ=
+
+Name: org/joda/time/tz/data/Asia/Kuching
+SHA1-Digest: gltwbQlofFpMmmW96iK3Yq/mM3s=
+
+Name: org/joda/time/tz/data/Asia/Kuwait
+SHA1-Digest: D0xScShG1cV1DOOByTjy7KtwxXk=
+
+Name: org/joda/time/tz/data/Asia/Macau
+SHA1-Digest: 1fW3g1yzRUZLg/tJUHlqtMMkyHw=
+
+Name: org/joda/time/tz/data/Asia/Magadan
+SHA1-Digest: p+HjN6u+WW3P9jc0RCy62HLMZyU=
+
+Name: org/joda/time/tz/data/Asia/Makassar
+SHA1-Digest: mJPzCxkgac/9kxe1GwG2ekIC3k4=
+
+Name: org/joda/time/tz/data/Asia/Manila
+SHA1-Digest: 9M/bvMRxu1YC1kvys1+KkFSOYew=
+
+Name: org/joda/time/tz/data/Asia/Muscat
+SHA1-Digest: LFNg35b7koo2naqMyRmu5NBuD+w=
+
+Name: org/joda/time/tz/data/Asia/Nicosia
+SHA1-Digest: wrPeYG2ZhlDP0KzOTKHUov4HGCc=
+
+Name: org/joda/time/tz/data/Asia/Novokuznetsk
+SHA1-Digest: 1+3vGfWM2P0PszvtJYb1VucZlT8=
+
+Name: org/joda/time/tz/data/Asia/Novosibirsk
+SHA1-Digest: Ubp2LMJ0PuXbDH7aSMpa8OwNiVc=
+
+Name: org/joda/time/tz/data/Asia/Omsk
+SHA1-Digest: cyX03geYvhs2HjxITbr4VxIs8Qo=
+
+Name: org/joda/time/tz/data/Asia/Oral
+SHA1-Digest: eQv+W5jGyH1pZoRwn9hNKanfNJo=
+
+Name: org/joda/time/tz/data/Asia/Phnom_Penh
+SHA1-Digest: 3lb8LDcVa8jklJ+C9IS1mlrAKr0=
+
+Name: org/joda/time/tz/data/Asia/Pontianak
+SHA1-Digest: Ph1/xBsMu36ErDK3LfOVqrq1EPg=
+
+Name: org/joda/time/tz/data/Asia/Pyongyang
+SHA1-Digest: vcbUWA0m0VqkM5/hDrsvsHpBfL8=
+
+Name: org/joda/time/tz/data/Asia/Qatar
+SHA1-Digest: Iya0pK251DqHF5MhrHLRIW+Ju1o=
+
+Name: org/joda/time/tz/data/Asia/Qostanay
+SHA1-Digest: dblK+NoYTFM5FKuskJ3TFEmCQNA=
+
+Name: org/joda/time/tz/data/Asia/Qyzylorda
+SHA1-Digest: mexmwJyItxyNFJKi7if0p2kL39M=
+
+Name: org/joda/time/tz/data/Asia/Riyadh
+SHA1-Digest: O6NMeF/euOfbJPNZv8GQZobNiIc=
+
+Name: org/joda/time/tz/data/Asia/Sakhalin
+SHA1-Digest: f0fiOHv9j29EFKxT3J7bsKsR0qk=
+
+Name: org/joda/time/tz/data/Asia/Samarkand
+SHA1-Digest: 2xj1Fgl7RUK3T76o4vqGLSIe0cA=
+
+Name: org/joda/time/tz/data/Asia/Seoul
+SHA1-Digest: /MkyMDMgTUax1kFcbDQevEia5fo=
+
+Name: org/joda/time/tz/data/Asia/Shanghai
+SHA1-Digest: 1nwPC6ESM5bT4O48MxxW5/T1m9o=
+
+Name: org/joda/time/tz/data/Asia/Singapore
+SHA1-Digest: Bam6gfIi/wenCnOcgNqKmGolUlM=
+
+Name: org/joda/time/tz/data/Asia/Srednekolymsk
+SHA1-Digest: ZJNabcy9HiP+3H/yVDQuljmG14E=
+
+Name: org/joda/time/tz/data/Asia/Taipei
+SHA1-Digest: RE3VVA3dp+jKIWhA1govipcST+E=
+
+Name: org/joda/time/tz/data/Asia/Tashkent
+SHA1-Digest: eynUc7t5Tb/wBWh1+hG/DQ1E82k=
+
+Name: org/joda/time/tz/data/Asia/Tbilisi
+SHA1-Digest: wQ148B99p8IBweA1eO//boxikZE=
+
+Name: org/joda/time/tz/data/Asia/Tehran
+SHA1-Digest: pHCYOsEcf8ogj0t1hW9i/QijNEM=
+
+Name: org/joda/time/tz/data/Asia/Thimphu
+SHA1-Digest: 5rhdZLp3bovt4p/7PVv0eqGJD5s=
+
+Name: org/joda/time/tz/data/Asia/Tokyo
+SHA1-Digest: X0w34Jr8XAm50c/OLMXm0pRNMA4=
+
+Name: org/joda/time/tz/data/Asia/Tomsk
+SHA1-Digest: t6T6pOPwmMTnqiee4DmFVoQBVds=
+
+Name: org/joda/time/tz/data/Asia/Ulaanbaatar
+SHA1-Digest: 3fKBBaTxQQr0Qd3QNnpoONCWfvQ=
+
+Name: org/joda/time/tz/data/Asia/Urumqi
+SHA1-Digest: 1OsKzLZLcBkOo/Z2mMoa+XCciJs=
+
+Name: org/joda/time/tz/data/Asia/Ust-Nera
+SHA1-Digest: HAYikHgwm2gRNYOfTpQycILq/EA=
+
+Name: org/joda/time/tz/data/Asia/Vientiane
+SHA1-Digest: 4wcmqulHwQDTs8NNdQh2Z0TWbfc=
+
+Name: org/joda/time/tz/data/Asia/Vladivostok
+SHA1-Digest: u6hspV9N2srzQPrdayoSDcOSOsU=
+
+Name: org/joda/time/tz/data/Asia/Yakutsk
+SHA1-Digest: rXpWEKpz+j5gR+Z4Doktw9wEsW4=
+
+Name: org/joda/time/tz/data/Asia/Yangon
+SHA1-Digest: +wcioY00nZc0zIvYouAUbbNd4O0=
+
+Name: org/joda/time/tz/data/Asia/Yekaterinburg
+SHA1-Digest: bRJB6tGlLOH0JC61OmIiFcv2rdc=
+
+Name: org/joda/time/tz/data/Asia/Yerevan
+SHA1-Digest: C1FksF0xXVO8nuKp8A83Qgoo/EA=
+
+Name: org/joda/time/tz/data/Atlantic/Azores
+SHA1-Digest: ltF4x0NnP+cr2ffheBF8GDD+92U=
+
+Name: org/joda/time/tz/data/Atlantic/Bermuda
+SHA1-Digest: sbUDMDS2cQU9vb4QqHGndfZZRdw=
+
+Name: org/joda/time/tz/data/Atlantic/Canary
+SHA1-Digest: 6LP9A0sTrJsU5TSFM5RwkPFUtSQ=
+
+Name: org/joda/time/tz/data/Atlantic/Cape_Verde
+SHA1-Digest: opx2/sv0UI/+m8s52XCId0gFWJk=
+
+Name: org/joda/time/tz/data/Atlantic/Faroe
+SHA1-Digest: kKlAgeZjr7CeNfNmXsrcxXXBuLw=
+
+Name: org/joda/time/tz/data/Atlantic/Madeira
+SHA1-Digest: UgxaQe2c2OY6P9qa+kvjXGX9Jw4=
+
+Name: org/joda/time/tz/data/Atlantic/Reykjavik
+SHA1-Digest: eewZsaF/SiEzzWwwc8ecV+NCYG0=
+
+Name: org/joda/time/tz/data/Atlantic/South_Georgia
+SHA1-Digest: DroLiVBO+8jBFOvRjmnTwp/qkCs=
+
+Name: org/joda/time/tz/data/Atlantic/St_Helena
+SHA1-Digest: WGlBsX8WrlRHIpaUVtEJx1DXkpU=
+
+Name: org/joda/time/tz/data/Atlantic/Stanley
+SHA1-Digest: lacFmZu08iOJ2ORmqgPCksRnIRA=
+
+Name: org/joda/time/tz/data/Australia/Adelaide
+SHA1-Digest: sYyr3qahwvOBRpDvCNWODtLLMrY=
+
+Name: org/joda/time/tz/data/Australia/Brisbane
+SHA1-Digest: CeW/QQXbE3XRojPjRPVEDvxtsow=
+
+Name: org/joda/time/tz/data/Australia/Broken_Hill
+SHA1-Digest: diaXpIBWswrkGVjZMeOxtqDukqM=
+
+Name: org/joda/time/tz/data/Australia/Currie
+SHA1-Digest: 1bnvFW5SgkOMc/b74mjwx11Ii9g=
+
+Name: org/joda/time/tz/data/Australia/Darwin
+SHA1-Digest: MPni3mRfhO32sgfPrj6kkfDnKCc=
+
+Name: org/joda/time/tz/data/Australia/Eucla
+SHA1-Digest: KmXj8KkHrkYHzuT/99u3bLhcPGI=
+
+Name: org/joda/time/tz/data/Australia/Hobart
+SHA1-Digest: 3gtmP98eKylGm63Q8TYYTp4eK7s=
+
+Name: org/joda/time/tz/data/Australia/Lindeman
+SHA1-Digest: djF0qZ4/ZfRxSZvnfqsn1dz5Bbc=
+
+Name: org/joda/time/tz/data/Australia/Lord_Howe
+SHA1-Digest: f4jWjcVZfTBdtNfYSrjQRAo6Cls=
+
+Name: org/joda/time/tz/data/Australia/Melbourne
+SHA1-Digest: Fx3ob7k4wmNI2xrvxOIEYogig8I=
+
+Name: org/joda/time/tz/data/Australia/Perth
+SHA1-Digest: c0Q7YSKe/hehlKYwgXkl9tiuDgk=
+
+Name: org/joda/time/tz/data/Australia/Sydney
+SHA1-Digest: Fb8ASvAA7cq15n1fXHNHjrsjBNA=
+
+Name: org/joda/time/tz/data/CET
+SHA1-Digest: LwNdvP2XkHWQQb89ZTbiBkUAsQY=
+
+Name: org/joda/time/tz/data/CST6CDT
+SHA1-Digest: LojDLxfl+p1820tXf8HAj0fi5yQ=
+
+Name: org/joda/time/tz/data/EET
+SHA1-Digest: 3PNd2Mn6sWP2h3XQ4IzWhNCHCsk=
+
+Name: org/joda/time/tz/data/EST
+SHA1-Digest: KpzXQw+TkelNYYnP2r5e1WTihU0=
+
+Name: org/joda/time/tz/data/EST5EDT
+SHA1-Digest: STDkqHnfSLsvp/GNWSqqthIv6X0=
+
+Name: org/joda/time/tz/data/Etc/GMT
+SHA1-Digest: MNxpQI3r8CVwmVmjgld6Q7IVB3g=
+
+Name: org/joda/time/tz/data/Etc/GMT+1
+SHA1-Digest: sAxChAMqCWbWG16V8MT3vZVQrPM=
+
+Name: org/joda/time/tz/data/Etc/GMT+10
+SHA1-Digest: SmTexv8oUwO2fMrVb1DVaoGsIa8=
+
+Name: org/joda/time/tz/data/Etc/GMT+11
+SHA1-Digest: FVVE3ZDt4DETU5FyWo0VfTaIiK8=
+
+Name: org/joda/time/tz/data/Etc/GMT+12
+SHA1-Digest: w2XP0dT1dlrCsgPzSNM1BxXJziE=
+
+Name: org/joda/time/tz/data/Etc/GMT+2
+SHA1-Digest: LEfo/kxHRb0OcAbkCZvWX6KWwHQ=
+
+Name: org/joda/time/tz/data/Etc/GMT+3
+SHA1-Digest: esOMZsaWQj+R5Ngr8/LIkuoyoaY=
+
+Name: org/joda/time/tz/data/Etc/GMT+4
+SHA1-Digest: GFqGwrPGckxyR79aUNHGEvuVMHc=
+
+Name: org/joda/time/tz/data/Etc/GMT+5
+SHA1-Digest: 0g6bxV3OX3poVNEExl6k2sBooW8=
+
+Name: org/joda/time/tz/data/Etc/GMT+6
+SHA1-Digest: i1exSX3kYoOgL/+F8ldW+SKJ654=
+
+Name: org/joda/time/tz/data/Etc/GMT+7
+SHA1-Digest: HUKxgOVbac+Luuuw9whxujfCqzw=
+
+Name: org/joda/time/tz/data/Etc/GMT+8
+SHA1-Digest: FZYWVeUSyyzMtXfE7W3CYhK3bC4=
+
+Name: org/joda/time/tz/data/Etc/GMT+9
+SHA1-Digest: 2L7lm8lgqaea8NpuldMs6kFov/M=
+
+Name: org/joda/time/tz/data/Etc/GMT-1
+SHA1-Digest: Sp/HFu7r1DB4L0yZKo8Zmw5Tksg=
+
+Name: org/joda/time/tz/data/Etc/GMT-10
+SHA1-Digest: oxIAdoYrhzztljRqNtWPffZSwnk=
+
+Name: org/joda/time/tz/data/Etc/GMT-11
+SHA1-Digest: WdA3EnXNSNXTeJUYry07/WxYdg4=
+
+Name: org/joda/time/tz/data/Etc/GMT-12
+SHA1-Digest: wD17QGGOoLbM77iTGiH0SrTF238=
+
+Name: org/joda/time/tz/data/Etc/GMT-13
+SHA1-Digest: FrtqPtk7W6/Y6NcCS89Rw1CdGhs=
+
+Name: org/joda/time/tz/data/Etc/GMT-14
+SHA1-Digest: 5Ufypn/x6oIubk7JbWgLCFYLLMY=
+
+Name: org/joda/time/tz/data/Etc/GMT-2
+SHA1-Digest: WIjWgAT19quSbZsFd9zYF692sBc=
+
+Name: org/joda/time/tz/data/Etc/GMT-3
+SHA1-Digest: ltLpHU9uyspTApGuHBZeZPNARN4=
+
+Name: org/joda/time/tz/data/Etc/GMT-4
+SHA1-Digest: lksytQZ2p4fZKUdNK9M9nrrWuxA=
+
+Name: org/joda/time/tz/data/Etc/GMT-5
+SHA1-Digest: d2YkdchcYvbindzAplwPSRqNLlM=
+
+Name: org/joda/time/tz/data/Etc/GMT-6
+SHA1-Digest: h921Brl8GKt8ijPTG11AQDZUxb4=
+
+Name: org/joda/time/tz/data/Etc/GMT-7
+SHA1-Digest: wqhilQHyelZdnTwOUGC+5GcLxak=
+
+Name: org/joda/time/tz/data/Etc/GMT-8
+SHA1-Digest: kYICOfizn9Lovdd+lODdWzUD2jI=
+
+Name: org/joda/time/tz/data/Etc/GMT-9
+SHA1-Digest: 89Mc9D5CUB2WTavXUybFV4pm7w4=
+
+Name: org/joda/time/tz/data/Etc/UTC
+SHA1-Digest: huJa4PjNa4nThsUtstgSjXtVpk0=
+
+Name: org/joda/time/tz/data/Europe/Amsterdam
+SHA1-Digest: c/WT7uNcJi+vt21eunMyqcgnTGA=
+
+Name: org/joda/time/tz/data/Europe/Andorra
+SHA1-Digest: hvBBXZSSZ75joKGPQwPkbE1GSMg=
+
+Name: org/joda/time/tz/data/Europe/Astrakhan
+SHA1-Digest: sa3RV6CsJwztSKj31p57GHeD6wA=
+
+Name: org/joda/time/tz/data/Europe/Athens
+SHA1-Digest: HRlvAyv+OeGOcaBgAzL8Et7SVFo=
+
+Name: org/joda/time/tz/data/Europe/Belgrade
+SHA1-Digest: xsZgLtGXLBVRleh2r9JXoaqhQ5Q=
+
+Name: org/joda/time/tz/data/Europe/Berlin
+SHA1-Digest: qauMTJnNZhAireKaMOJuPkNtWSk=
+
+Name: org/joda/time/tz/data/Europe/Bratislava
+SHA1-Digest: aA0hlC6o3hEe1wCdoCW8hemQHOI=
+
+Name: org/joda/time/tz/data/Europe/Brussels
+SHA1-Digest: 0/ogu3boYdjPnXua5kW6pZnPWdI=
+
+Name: org/joda/time/tz/data/Europe/Bucharest
+SHA1-Digest: j1QTlqsxmiYlN/nTcTQ6T+jd4GI=
+
+Name: org/joda/time/tz/data/Europe/Budapest
+SHA1-Digest: PYph771H2hx5l1L1KKBTJOr7cCk=
+
+Name: org/joda/time/tz/data/Europe/Busingen
+SHA1-Digest: wyS80pv0v1dHlH05Vc11HcK2xz0=
+
+Name: org/joda/time/tz/data/Europe/Chisinau
+SHA1-Digest: XZljP3L9k6eIpW0I9JTEMsgZPrU=
+
+Name: org/joda/time/tz/data/Europe/Copenhagen
+SHA1-Digest: MZ7qAdfXCsphxBqEFj3vGjlvuuI=
+
+Name: org/joda/time/tz/data/Europe/Dublin
+SHA1-Digest: ol3qgaFHl3YEe2ktUHEfh4+gI9c=
+
+Name: org/joda/time/tz/data/Europe/Gibraltar
+SHA1-Digest: THOTUMvDL3xILVebiIOpVvppna0=
+
+Name: org/joda/time/tz/data/Europe/Guernsey
+SHA1-Digest: zj2BSabMvW5dQdFNdJR49G7R2UA=
+
+Name: org/joda/time/tz/data/Europe/Helsinki
+SHA1-Digest: Chx/Imqs+OGFZaX7xVvIGgEEe0k=
+
+Name: org/joda/time/tz/data/Europe/Isle_of_Man
+SHA1-Digest: USoAjmFkX82UVkITO0BEhCCi4Pw=
+
+Name: org/joda/time/tz/data/Europe/Istanbul
+SHA1-Digest: w0MAOhz5qM1AGC386bLgbrqMvxc=
+
+Name: org/joda/time/tz/data/Europe/Jersey
+SHA1-Digest: /63lhVZu4S0QDRBScwoRW44mDEI=
+
+Name: org/joda/time/tz/data/Europe/Kaliningrad
+SHA1-Digest: 8aO2Z9fy47k2icwi3bQSpuDUByk=
+
+Name: org/joda/time/tz/data/Europe/Kiev
+SHA1-Digest: MA3MU3rNz8hZQJwRDgHIW4+Wu5I=
+
+Name: org/joda/time/tz/data/Europe/Kirov
+SHA1-Digest: ctjJr6JhgGnHdMxAp0DbDJFKz/A=
+
+Name: org/joda/time/tz/data/Europe/Lisbon
+SHA1-Digest: 5Tqm4WFQDZb61Hyqh7eUBh3DhLo=
+
+Name: org/joda/time/tz/data/Europe/Ljubljana
+SHA1-Digest: hddOOtWIjvmeiCj1lQYKUxvu8BA=
+
+Name: org/joda/time/tz/data/Europe/London
+SHA1-Digest: 7t6hgF0rwATbLqaZxgetRRTkuA8=
+
+Name: org/joda/time/tz/data/Europe/Luxembourg
+SHA1-Digest: 8Jcx1vVvD6aXqNJW0Ty+j7KHtNQ=
+
+Name: org/joda/time/tz/data/Europe/Madrid
+SHA1-Digest: 6NQi8Nz/KXMkbx7k0FXFAT0jp6Q=
+
+Name: org/joda/time/tz/data/Europe/Malta
+SHA1-Digest: /FezZTn683lh6Q+QID/D/Y6U+bk=
+
+Name: org/joda/time/tz/data/Europe/Mariehamn
+SHA1-Digest: gqvnwuRqJyMr4e8Ik+cQGcJv4YA=
+
+Name: org/joda/time/tz/data/Europe/Minsk
+SHA1-Digest: CQ7gyz5tLvacorZ18Je1KVySyY0=
+
+Name: org/joda/time/tz/data/Europe/Monaco
+SHA1-Digest: 4Dv8dWcqSCxRo7JJ98PFK1P2ivY=
+
+Name: org/joda/time/tz/data/Europe/Moscow
+SHA1-Digest: MX+bY2AJPRi+LwOuE8NhyjKsa3Y=
+
+Name: org/joda/time/tz/data/Europe/Nicosia
+SHA1-Digest: b5rK3BjszOyvfIPyMYR80JPcysI=
+
+Name: org/joda/time/tz/data/Europe/Oslo
+SHA1-Digest: cr2/7LaAgDSeLYgcQ5pxf7VJa5Q=
+
+Name: org/joda/time/tz/data/Europe/Paris
+SHA1-Digest: u2cUx/wi8GQZN7gzgjnuBklxf7g=
+
+Name: org/joda/time/tz/data/Europe/Podgorica
+SHA1-Digest: HYufGueYYJ7zNBvyEP85RNg4oCI=
+
+Name: org/joda/time/tz/data/Europe/Prague
+SHA1-Digest: EAa6xTKBW/4sqDs/rRzShkkCXlw=
+
+Name: org/joda/time/tz/data/Europe/Riga
+SHA1-Digest: HzMqV7+2PANdD+neXunRF2u2QCE=
+
+Name: org/joda/time/tz/data/Europe/Rome
+SHA1-Digest: 8r1NPn+GcXKo52qEequN9L3VgCg=
+
+Name: org/joda/time/tz/data/Europe/Samara
+SHA1-Digest: 8fcL2gJAZJi1LEktg5Eru5mzUlY=
+
+Name: org/joda/time/tz/data/Europe/San_Marino
+SHA1-Digest: cBl36rEjjTBpmHxkZrIlMGKFfcA=
+
+Name: org/joda/time/tz/data/Europe/Sarajevo
+SHA1-Digest: xSZChog/lzHo0dyx/TtHDHCflM8=
+
+Name: org/joda/time/tz/data/Europe/Saratov
+SHA1-Digest: a7iTr9yg2E8WHVJx6dJSp9BbYlw=
+
+Name: org/joda/time/tz/data/Europe/Simferopol
+SHA1-Digest: LEZvQ4NBwOe/pAzBKg3CdudI1ms=
+
+Name: org/joda/time/tz/data/Europe/Skopje
+SHA1-Digest: VvpLSyV8KEgKstgmJkMOR4gNE8w=
+
+Name: org/joda/time/tz/data/Europe/Sofia
+SHA1-Digest: m5te3rKaIkq7UgndGQUU0CpvwNM=
+
+Name: org/joda/time/tz/data/Europe/Stockholm
+SHA1-Digest: YxyzCVse13orl02RpY3ybK2ep/4=
+
+Name: org/joda/time/tz/data/Europe/Tallinn
+SHA1-Digest: gm93lWmdFS6IrE2QuBB4fXg/o9s=
+
+Name: org/joda/time/tz/data/Europe/Tirane
+SHA1-Digest: lvqzdbgqD9s5a1osP2UzVEwh5Xc=
+
+Name: org/joda/time/tz/data/Europe/Ulyanovsk
+SHA1-Digest: yCrcoC6nok53BovSooI027NZIDA=
+
+Name: org/joda/time/tz/data/Europe/Uzhgorod
+SHA1-Digest: HsjXYL01+u9DBEIceX8WL3aZ8ag=
+
+Name: org/joda/time/tz/data/Europe/Vaduz
+SHA1-Digest: TO+FTIVxC6cQESOOT0UhAQK4PWQ=
+
+Name: org/joda/time/tz/data/Europe/Vatican
+SHA1-Digest: em/4bSEnRoAilekA2B3jiVWRkNo=
+
+Name: org/joda/time/tz/data/Europe/Vienna
+SHA1-Digest: V/P7y5DqGSUUejZ8bvp6eoNFKyI=
+
+Name: org/joda/time/tz/data/Europe/Vilnius
+SHA1-Digest: 125jHzmFBGyfInNFDy1ooF4fcDo=
+
+Name: org/joda/time/tz/data/Europe/Volgograd
+SHA1-Digest: 4yU1VdeChDtN+2QcC39HlBz3EJA=
+
+Name: org/joda/time/tz/data/Europe/Warsaw
+SHA1-Digest: 584nfL4rvckefmn6xpkiyRYS3ek=
+
+Name: org/joda/time/tz/data/Europe/Zagreb
+SHA1-Digest: qZlxAqYd/5UbnFeI2Gozc67PkDE=
+
+Name: org/joda/time/tz/data/Europe/Zaporozhye
+SHA1-Digest: UqElAuIUAi+6ZX10+r+of+je2w4=
+
+Name: org/joda/time/tz/data/Europe/Zurich
+SHA1-Digest: fWVFORlj+IS5tP2IvFOxOLiYvvw=
+
+Name: org/joda/time/tz/data/HST
+SHA1-Digest: jmh8qOpW3oGav+/FigpTQHUGCo8=
+
+Name: org/joda/time/tz/data/Indian/Antananarivo
+SHA1-Digest: lZ+bU+Yggq4CR0ZyyqBU+FRklgM=
+
+Name: org/joda/time/tz/data/Indian/Chagos
+SHA1-Digest: w5Dic26NybFsz3ElqqogXP5iZdw=
+
+Name: org/joda/time/tz/data/Indian/Christmas
+SHA1-Digest: roh28KNYcGaQUa1+8WdgRF8UqGY=
+
+Name: org/joda/time/tz/data/Indian/Cocos
+SHA1-Digest: WO7amqOUehFIa9gsdFjq5Zs7fbc=
+
+Name: org/joda/time/tz/data/Indian/Comoro
+SHA1-Digest: DMoX6tdXIYxCa8ciR1kv0c0r9iE=
+
+Name: org/joda/time/tz/data/Indian/Kerguelen
+SHA1-Digest: RJyTeDGKvrvAc7Y+BHFtBMd5pmY=
+
+Name: org/joda/time/tz/data/Indian/Mahe
+SHA1-Digest: MSaJZ28flfs3+HAcB1aTwg8SmHs=
+
+Name: org/joda/time/tz/data/Indian/Maldives
+SHA1-Digest: aOtAZ+VCw3evz2uccbrjcyInYpI=
+
+Name: org/joda/time/tz/data/Indian/Mauritius
+SHA1-Digest: FrGSweKsdx9wPQgRra9YTFF9oDQ=
+
+Name: org/joda/time/tz/data/Indian/Mayotte
+SHA1-Digest: IoC9e6Opyj4su52a+RLJlbZayI0=
+
+Name: org/joda/time/tz/data/Indian/Reunion
+SHA1-Digest: XuRCEC6Rk6pVvFeq0S0FkzCZyJA=
+
+Name: org/joda/time/tz/data/MET
+SHA1-Digest: hnnbzqWcTQBXMM6LJPNdJAqzcYs=
+
+Name: org/joda/time/tz/data/MST
+SHA1-Digest: Y2L5AOkfAKsqti3pd7mP6sQtgLg=
+
+Name: org/joda/time/tz/data/MST7MDT
+SHA1-Digest: iIZdIBhTjDgs9W/sN30mhXCv0nA=
+
+Name: org/joda/time/tz/data/PST8PDT
+SHA1-Digest: sNVac2oonlOXOC6I/tHtu06xvY4=
+
+Name: org/joda/time/tz/data/Pacific/Apia
+SHA1-Digest: 3q878i4kVG853XBVflZ9ZlmUwdE=
+
+Name: org/joda/time/tz/data/Pacific/Auckland
+SHA1-Digest: ZxJjaxb6cNhEECc7LGwvDn4w2fE=
+
+Name: org/joda/time/tz/data/Pacific/Bougainville
+SHA1-Digest: td536cHzr2sYEjhaww5vzD8DeRs=
+
+Name: org/joda/time/tz/data/Pacific/Chatham
+SHA1-Digest: P2jdcpZVTHe3S/l0I8nJNzOFyDY=
+
+Name: org/joda/time/tz/data/Pacific/Chuuk
+SHA1-Digest: MkFGYOF8vQ69DzsH5yJ0rPHlhRs=
+
+Name: org/joda/time/tz/data/Pacific/Easter
+SHA1-Digest: LiYXjNnMIxqbBDV9CHIsz2cQ+sg=
+
+Name: org/joda/time/tz/data/Pacific/Efate
+SHA1-Digest: Bc1GR2IpaKEIeWefMMZvv+cpbiI=
+
+Name: org/joda/time/tz/data/Pacific/Enderbury
+SHA1-Digest: T9QPZy6LSczMaisWXRXkwdSfkJM=
+
+Name: org/joda/time/tz/data/Pacific/Fakaofo
+SHA1-Digest: 6MevXgkbGArZx8PvhN47bv0j+Qo=
+
+Name: org/joda/time/tz/data/Pacific/Fiji
+SHA1-Digest: CjfxBOpvWWNY/kuuuyFzsuIuG68=
+
+Name: org/joda/time/tz/data/Pacific/Funafuti
+SHA1-Digest: CNLwPQBUPekEi19IXupKtowrQ9g=
+
+Name: org/joda/time/tz/data/Pacific/Galapagos
+SHA1-Digest: 5ex0XWFDFOtVHkhpS/1H8Nz3PTo=
+
+Name: org/joda/time/tz/data/Pacific/Gambier
+SHA1-Digest: FudxDH8OAHaj8GRzysenkfRDyJs=
+
+Name: org/joda/time/tz/data/Pacific/Guadalcanal
+SHA1-Digest: 2X24m4/7et3qsbtOBdnTqT+paic=
+
+Name: org/joda/time/tz/data/Pacific/Guam
+SHA1-Digest: VFyLgp86fyNtoExhxLPDDez6eK0=
+
+Name: org/joda/time/tz/data/Pacific/Honolulu
+SHA1-Digest: IlHt/W//6UrzDsc6vuV6WFDizbo=
+
+Name: org/joda/time/tz/data/Pacific/Kiritimati
+SHA1-Digest: Uxc3cMLPQLgs4ZV9Tz39wCXjgho=
+
+Name: org/joda/time/tz/data/Pacific/Kosrae
+SHA1-Digest: 3YlCoIdy30Qq3+vi8C5VG8LQMps=
+
+Name: org/joda/time/tz/data/Pacific/Kwajalein
+SHA1-Digest: x+9o2+iSMysTFZl6J+HtkIY7V8k=
+
+Name: org/joda/time/tz/data/Pacific/Majuro
+SHA1-Digest: sMJbbkIhSOK3s8FkEKnbAAehOn0=
+
+Name: org/joda/time/tz/data/Pacific/Marquesas
+SHA1-Digest: by73tyH33WiPi7XRVOaCgFszvEA=
+
+Name: org/joda/time/tz/data/Pacific/Midway
+SHA1-Digest: 1J/uPTwXLK402ylyo1XTaW5b8iI=
+
+Name: org/joda/time/tz/data/Pacific/Nauru
+SHA1-Digest: 4IeDDEv7iXAU6I98P9HXvXn1jPk=
+
+Name: org/joda/time/tz/data/Pacific/Niue
+SHA1-Digest: RXCwQqqq0+GnptZzujLX0eGEAqw=
+
+Name: org/joda/time/tz/data/Pacific/Norfolk
+SHA1-Digest: rrTpqfyef26NRRY0ZmDCtvMul3A=
+
+Name: org/joda/time/tz/data/Pacific/Noumea
+SHA1-Digest: JdomOBbkzVaboxl0I2rN/dpoafM=
+
+Name: org/joda/time/tz/data/Pacific/Pago_Pago
+SHA1-Digest: 17JfKCoxhFRRKvbwTrZl04c7QlA=
+
+Name: org/joda/time/tz/data/Pacific/Palau
+SHA1-Digest: ZcXaTWBBSqjGntQJhFcply+7t9Q=
+
+Name: org/joda/time/tz/data/Pacific/Pitcairn
+SHA1-Digest: ogPt1pOlHqjRevyGHMMPAwfYQyk=
+
+Name: org/joda/time/tz/data/Pacific/Pohnpei
+SHA1-Digest: UOHXVHTqP/J85lMAxkBX5dAeJjw=
+
+Name: org/joda/time/tz/data/Pacific/Port_Moresby
+SHA1-Digest: At6TvHuL3G2rkNEGBvMZJN9QFIs=
+
+Name: org/joda/time/tz/data/Pacific/Rarotonga
+SHA1-Digest: 9AH/DI4WcsDIesrftY6DaKN15Tc=
+
+Name: org/joda/time/tz/data/Pacific/Saipan
+SHA1-Digest: Gguu9ki96FZ0V/zh4Spy+R7tqR4=
+
+Name: org/joda/time/tz/data/Pacific/Tahiti
+SHA1-Digest: mNx8jxZTM2lHx+rNeT0AYZQksWo=
+
+Name: org/joda/time/tz/data/Pacific/Tarawa
+SHA1-Digest: YU9Jr0Dz/zkidm9QTubCoqQTHUU=
+
+Name: org/joda/time/tz/data/Pacific/Tongatapu
+SHA1-Digest: 5KakKZccftjs5SIVD7X7DRaXIK0=
+
+Name: org/joda/time/tz/data/Pacific/Wake
+SHA1-Digest: ml3C6Cl6xGfsK2tSz5H5pMc9tP4=
+
+Name: org/joda/time/tz/data/Pacific/Wallis
+SHA1-Digest: xq2pZInWRzkr8Nt0qHy6SMhOt0I=
+
+Name: org/joda/time/tz/data/WET
+SHA1-Digest: WoIe1eWegde7zrayaGVLlG4VRfY=
+
+Name: org/joda/time/tz/data/ZoneInfoMap
+SHA1-Digest: Xh7OtSWA+zTIr8D7bvuqUL3bMCQ=
+
+Name: play-services-ads-base.properties
+SHA1-Digest: dHDBAnGWkDvZQn2MG8icUCiEgpA=
+
+Name: play-services-ads-identifier.properties
+SHA1-Digest: o2qz9H3NmRua7jVznTfc20jTBig=
+
+Name: play-services-ads-lite.properties
+SHA1-Digest: WRFIt+fot1FjHl+vhVD0MQZh+LE=
+
+Name: play-services-ads.properties
+SHA1-Digest: /eFS9cEmRrtM5iJFBdkm6P8M+3o=
+
+Name: play-services-auth-api-phone.properties
+SHA1-Digest: poIdAtgmWq3gzeiMTNV3qao4Wio=
+
+Name: play-services-auth-base.properties
+SHA1-Digest: aIIq7sbCbBN6qQeh5zKLTFa6adc=
+
+Name: play-services-auth.properties
+SHA1-Digest: 7T8OrahbwmOnfTaChGropVzipN8=
+
+Name: play-services-base.properties
+SHA1-Digest: X0bGAB+PjZvoZGyRXDjjq1wIVHo=
+
+Name: play-services-basement.properties
+SHA1-Digest: LgDFsM3IwbNLqNd7WimByM1tmfA=
+
+Name: play-services-gass.properties
+SHA1-Digest: SV91JcXwvAxS+7A5sY64S+pdgdM=
+
+Name: play-services-location.properties
+SHA1-Digest: 68CHdUJ5/W5VmPtGjywmqDJZS3c=
+
+Name: play-services-maps.properties
+SHA1-Digest: yk5GuURCK5T9G2/wcFGUcD5hv0w=
+
+Name: play-services-places-placereport.properties
+SHA1-Digest: 3OoYIGz5bFy2tt1ipRW6W6zBe5Y=
+
+Name: play-services-places.properties
+SHA1-Digest: MzRuqrYvaak/izb6A8bKnils9Zk=
+
+Name: play-services-tasks.properties
+SHA1-Digest: RMC/y6CEqQeTosDruoFB1mYgAqw=
+
+Name: publicsuffixes.gz
+SHA1-Digest: eXVSshM9y5PzpdrsHZn3x4tFpmY=
+
+Name: res/anim-v21/design_bottom_sheet_slide_in.xml
+SHA1-Digest: UhMpCG5TheRllKo8xLieAQe7mws=
+
+Name: res/anim-v21/design_bottom_sheet_slide_out.xml
+SHA1-Digest: TvvnhGZE/++MZXfhzOBxGzMP0uk=
+
+Name: res/anim/abc_fade_in.xml
+SHA1-Digest: eEsnhWdB0Bjg3xRRKMdwZlB+G8E=
+
+Name: res/anim/abc_fade_out.xml
+SHA1-Digest: dYZjDy5981Kjvq7OsolvjDfNt9E=
+
+Name: res/anim/abc_grow_fade_in_from_bottom.xml
+SHA1-Digest: 6nWe3lvkLJrDBEKPS4zHhFLFR+k=
+
+Name: res/anim/abc_popup_enter.xml
+SHA1-Digest: 9pbxLw+3VSKE0z3BWNoFyn/1P0s=
+
+Name: res/anim/abc_popup_exit.xml
+SHA1-Digest: B6IwCAuZ5H4awOWOQLchY/LR74I=
+
+Name: res/anim/abc_shrink_fade_out_from_bottom.xml
+SHA1-Digest: crhMKz1ZCPaunJoor/ESNYZevXU=
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA1-Digest: cZSqnmhFMI3Zg0PMcJkJfa57fYE=
+
+Name: res/anim/abc_slide_in_top.xml
+SHA1-Digest: ZYSPYRP41C1hkcJUCEzbFq/ZttI=
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA1-Digest: 2z6U0z4YMWz8xmQkl+irei8Ap8E=
+
+Name: res/anim/abc_slide_out_top.xml
+SHA1-Digest: 0NVP/ZH3GEC5eZ0pujueOvWRklw=
+
+Name: res/anim/decelerate_cubic.xml
+SHA1-Digest: dN2Cl8C20EmpW/p+9BlgMz3Hne8=
+
+Name: res/anim/design_bottom_sheet_slide_in.xml
+SHA1-Digest: n0NJO4H9bewg2QIPh82AQN/3ltM=
+
+Name: res/anim/design_bottom_sheet_slide_out.xml
+SHA1-Digest: 43DI/YDsJb2RzLOH5kMCqrTI/qk=
+
+Name: res/anim/design_snackbar_in.xml
+SHA1-Digest: EWX2SCUo5H5R93jvpTSxVoUJWQ0=
+
+Name: res/anim/design_snackbar_out.xml
+SHA1-Digest: hnjHXwyA2Iw7L98L9eSOtt0JkR0=
+
+Name: res/anim/fade_out.xml
+SHA1-Digest: TeiyKfJpdEuzHvtgwAgmPcQVUF0=
+
+Name: res/anim/popup_enter.xml
+SHA1-Digest: HEwVR22O1s7MMr1FLgldCB0ahgY=
+
+Name: res/anim/popup_exit.xml
+SHA1-Digest: 2E7WW/1zCNzCHl912dd9IMo4mEY=
+
+Name: res/anim/slide_in_from_right.xml
+SHA1-Digest: W6isV2dplEJzmtBUW6Ht2x5PfZw=
+
+Name: res/anim/tooltip_enter.xml
+SHA1-Digest: m3190PgToeO8PQCnDU7/T233kss=
+
+Name: res/anim/tooltip_exit.xml
+SHA1-Digest: hqde6FbIywZoL72rsKrE0QQE5go=
+
+Name: res/animator-v21/design_appbar_state_list_animator.xml
+SHA1-Digest: xlbJf4xETbI7HOFrbhL5pup7Opo=
+
+Name: res/color-v11/abc_background_cache_hint_selector_material_dark.x
+ ml
+SHA1-Digest: yUCjiHJq9g2Fr4YT/IK1vnotwHk=
+
+Name: res/color-v11/abc_background_cache_hint_selector_material_light.
+ xml
+SHA1-Digest: +Yn9/9EqFFiaPnKnEEW6gmLRIM0=
+
+Name: res/color-v23/abc_btn_colored_borderless_text_material.xml
+SHA1-Digest: QUm7gKI8odcnN421TmJeHvisp6o=
+
+Name: res/color-v23/abc_btn_colored_text_material.xml
+SHA1-Digest: GZKLARw93vKIfzh3vQHgickZ9Oo=
+
+Name: res/color-v23/abc_color_highlight_material.xml
+SHA1-Digest: NsGMGQOUqc393A+z8EhdPfsAiJo=
+
+Name: res/color-v23/abc_tint_btn_checkable.xml
+SHA1-Digest: Xv5C0Kp6hLi9PFGL02IlC8/dwkk=
+
+Name: res/color-v23/abc_tint_default.xml
+SHA1-Digest: LObHliWD/eQs4cjgYtzl+EH9N6o=
+
+Name: res/color-v23/abc_tint_edittext.xml
+SHA1-Digest: jXWer1i7CFPL+87rfCNlSdxltUc=
+
+Name: res/color-v23/abc_tint_seek_thumb.xml
+SHA1-Digest: BQK5Qb114q40JdVvKtFwz60wUTU=
+
+Name: res/color-v23/abc_tint_spinner.xml
+SHA1-Digest: QfDyIhz+7PaX6Lx0XVsp6FFuuAM=
+
+Name: res/color-v23/abc_tint_switch_track.xml
+SHA1-Digest: Xpvr1cLCZ2DAMovIEMxMXTuHaUg=
+
+Name: res/color-v23/design_tint_password_toggle.xml
+SHA1-Digest: geZlB3e3Krmu4pznwZthfhR7kl8=
+
+Name: res/color/abc_btn_colored_borderless_text_material.xml
+SHA1-Digest: JRq9AiWG09uMBW3T5130iHfeRVo=
+
+Name: res/color/abc_btn_colored_text_material.xml
+SHA1-Digest: zJae9KFl+GwPchN7ZFCmd2kTDRQ=
+
+Name: res/color/abc_hint_foreground_material_dark.xml
+SHA1-Digest: 4yfwG1P4vF5srTXYxUhSIgXjK4Q=
+
+Name: res/color/abc_hint_foreground_material_light.xml
+SHA1-Digest: L/FyO66CYnPYFNFQNh2SRSFxACw=
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA1-Digest: w9kfr+O6e6haRQIAOnk95ca7Ab8=
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA1-Digest: +xx5NlnB69fcNWhSqkwD9Wft/pk=
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA1-Digest: jORVla/IK+s+Ies8nfrSyjsaApg=
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA1-Digest: mr2YZ9alCSIzkvWiHyhHl+YVWhU=
+
+Name: res/color/abc_search_url_text.xml
+SHA1-Digest: Cq2aSMuGwfof3XDID2hBCuoE0+Y=
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA1-Digest: bRtO2AAD5KpAG/gmttBpxqYf/KQ=
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA1-Digest: JQo+eX3ztTvYy/0MzW4564VneiI=
+
+Name: res/color/abc_tint_btn_checkable.xml
+SHA1-Digest: t93K5kuNMPdoJV96xwMc3SkI6qk=
+
+Name: res/color/abc_tint_default.xml
+SHA1-Digest: A0sfZjOGCpmyhtf6OsKlNsQRI+Q=
+
+Name: res/color/abc_tint_edittext.xml
+SHA1-Digest: U6XBahaK5pA3XzGYbax8l3Tn3Nk=
+
+Name: res/color/abc_tint_seek_thumb.xml
+SHA1-Digest: HMyPfXS00NUyO+er5K1Vv9ATviU=
+
+Name: res/color/abc_tint_spinner.xml
+SHA1-Digest: tioU/TKsRcr5rwOsRQORKTHwMBY=
+
+Name: res/color/abc_tint_switch_track.xml
+SHA1-Digest: AK6Yq/HubeSPYS5MwsgZ/YSksqM=
+
+Name: res/color/common_google_signin_btn_text_dark.xml
+SHA1-Digest: iXaKVYET4Bvo+l+buVJWRNvUmUA=
+
+Name: res/color/common_google_signin_btn_text_light.xml
+SHA1-Digest: L6/Ppf9l6jjoAEdw2PU/79gSfK0=
+
+Name: res/color/common_google_signin_btn_tint.xml
+SHA1-Digest: /BS7iGgQdMB19Q9MM2defDYWYQc=
+
+Name: res/color/design_error.xml
+SHA1-Digest: srRVAqtxmkVMrskfTIuhf23N6dQ=
+
+Name: res/color/design_tint_password_toggle.xml
+SHA1-Digest: xnkHNCGI6Okyuw1K7JETZObaP04=
+
+Name: res/color/switch_thumb_material_dark.xml
+SHA1-Digest: EIQmTYRrp+IXIxAOzv/3fNxnYRE=
+
+Name: res/color/switch_thumb_material_light.xml
+SHA1-Digest: 9pXGOoKpjy+y+t25sNXfkhwhdMk=
+
+Name: res/drawable-anydpi-v21/design_ic_visibility.xml
+SHA1-Digest: OgqVAvbVyCXYB/2E/7rEzC9EuiI=
+
+Name: res/drawable-anydpi-v21/design_ic_visibility_off.xml
+SHA1-Digest: ggTUP2uz7dyLAR8WL8idGbZBfQw=
+
+Name: res/drawable-anydpi-v21/md_nav_back.xml
+SHA1-Digest: /TGuNmnQXqoc/nmn3B6B7nphA5c=
+
+Name: res/drawable-hdpi-v4/back.png
+SHA1-Digest: vqSE4TdjDKseDnHsct8wG4salHU=
+
+Name: res/drawable-hdpi-v4/bg_splash.png
+SHA1-Digest: 1obuTeoSwgbxA2Y2xmBPkhJR9DE=
+
+Name: res/drawable-hdpi-v4/btn_never.png
+SHA1-Digest: x+KWnOQ6smA3xE2TggSEYnrxBKk=
+
+Name: res/drawable-hdpi-v4/btn_rate.png
+SHA1-Digest: WvzTjzrJircMHzqEuYeqEIrCLsA=
+
+Name: res/drawable-hdpi-v4/gift.png
+SHA1-Digest: HpNSP+BoLHmiLqtG48e6QZFoLAs=
+
+Name: res/drawable-hdpi-v4/ic_btn_share.png
+SHA1-Digest: xDGaWDxlJnjXFfk6SlpbvdaTfXc=
+
+Name: res/drawable-hdpi-v4/nav_bar_bg.png
+SHA1-Digest: MA7V4eLWUusKCYgIwd/PEy1bLxY=
+
+Name: res/drawable-hdpi-v4/stars.png
+SHA1-Digest: CQjknfHyJIzWBVpgLS94ReLE4wk=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: UcEHcms2r2N9yOnGvBk/CGupFMw=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: KzIuknZAyLH6woubBE32LAuZqFM=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: 4ujcSC4Blk4sOy0+A2+f9R5ecyE=
+
+Name: res/drawable-v21/$avd_hide_password__0.xml
+SHA1-Digest: cH2rqjvxkPCz3h90v6FRGhj/YQI=
+
+Name: res/drawable-v21/$avd_hide_password__1.xml
+SHA1-Digest: Esy2E0cR5iAPyXUxfm/IZVPjNqk=
+
+Name: res/drawable-v21/$avd_hide_password__2.xml
+SHA1-Digest: YGZsTyn9TTt5OHna9pXc9hiEENo=
+
+Name: res/drawable-v21/$avd_show_password__0.xml
+SHA1-Digest: QF4WRVTrLKJMQrKoLybjeZhS1FQ=
+
+Name: res/drawable-v21/$avd_show_password__1.xml
+SHA1-Digest: KTqbaCaRgiQpX6PPKi78q3tuDWw=
+
+Name: res/drawable-v21/$avd_show_password__2.xml
+SHA1-Digest: ljOpD4c1V7I6EAX5Pc/65rYLwLg=
+
+Name: res/drawable-v21/abc_action_bar_item_background_material.xml
+SHA1-Digest: XAaplDFYjiFhNH1pNWE1wwGVlQM=
+
+Name: res/drawable-v21/abc_btn_colored_material.xml
+SHA1-Digest: avDHh3dNNumx/0tEvxTP+FhJDWQ=
+
+Name: res/drawable-v21/abc_edit_text_material.xml
+SHA1-Digest: 58wSu4T/sut754ej49AQXCiez2U=
+
+Name: res/drawable-v21/abc_ratingbar_indicator_material.xml
+SHA1-Digest: snL5F+IkKj7GzZbRtruKvvtJ3cQ=
+
+Name: res/drawable-v21/abc_ratingbar_material.xml
+SHA1-Digest: jWombYMmka8I1mIFsSlmLtFF9QU=
+
+Name: res/drawable-v21/abc_ratingbar_small_material.xml
+SHA1-Digest: rfpHwzbhmOeQ11kX0U4I3RKcYNM=
+
+Name: res/drawable-v21/avd_hide_password.xml
+SHA1-Digest: 0R0Ngc4tjPGMifvsPpqPZ5RQH7s=
+
+Name: res/drawable-v21/avd_show_password.xml
+SHA1-Digest: MCzimaKargqH/y2JYzDPXA3rHY4=
+
+Name: res/drawable-v21/design_bottom_navigation_item_background.xml
+SHA1-Digest: WsdCJfZtQ/HvQyrlhmbFx8YHeJY=
+
+Name: res/drawable-v21/design_password_eye.xml
+SHA1-Digest: pCjJUU2ItcLnl1GPcZMVFJ/U5dU=
+
+Name: res/drawable-v21/md_btn_selector_ripple.xml
+SHA1-Digest: q7VkhUapNoYjZzbzYxt1EDPiFPU=
+
+Name: res/drawable-v21/md_btn_selector_ripple_dark.xml
+SHA1-Digest: /L3eGJvRsf2W27h42wLHYP5cG5Y=
+
+Name: res/drawable-v21/md_btn_shape.xml
+SHA1-Digest: 1kR8HgXxvG4DhTQeqUezbGqGq3M=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: McqlddaA43s4dcP2sYlSjrQPJW8=
+
+Name: res/drawable-v23/abc_control_background_material.xml
+SHA1-Digest: sUscZBtxIFyVbEGABH0M7CdChA8=
+
+Name: res/drawable-watch-v20/common_google_signin_btn_text_dark_normal
+ .xml
+SHA1-Digest: Zc2Rx8/TgBg7RJH+Cs+EhklsTVg=
+
+Name: res/drawable-watch-v20/common_google_signin_btn_text_disabled.xm
+ l
+SHA1-Digest: AZQTC+X/JopUz1uRZmyXn6HvttA=
+
+Name: res/drawable-watch-v20/common_google_signin_btn_text_light_norma
+ l.xml
+SHA1-Digest: lTcolXTCif+HAhs9NSqan9ECtBY=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ZJ/oYlTIErS2TxMFPSw7UGRmRS0=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: skfmh8AKXvj2Y90RQYRWGn6cYvs=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: OOefFpggagskOSa29mfgruzOhPQ=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: VLNXFzqJn8hvw7NJ233yGma3RqA=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: oXhMxqCdTU9FU0k6ZW87SKaXIv4=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: e3LBNjD7qx/P2ADJrhGYMpZZVrw=
+
+Name: res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA1-Digest: bxuVxel7I0O1oiPfkBQG73fOOm8=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA1-Digest: Syjf1WOGXYnoSy9XVDy49z2PpVc=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA1-Digest: HgH+EY9WJEVfAXnClDsismo2FSs=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA1-Digest: ycXiJ7g1XDwZNYF8OiLagssfXOA=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA1-Digest: kOF2VzVE6Z/WMHMU96aVNFLvUgk=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA1-Digest: XtffKegXktC8WRHXZ9OqKfrgGpk=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA1-Digest: fezVxa8Z79AMhE7DWj2Dvk2oKQ4=
+
+Name: res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA1-Digest: uloisq/JS/FK6l1uYyh76zQtVgw=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA1-Digest: am9o4CCMkLbqK7tqn2d7aY98YtM=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA1-Digest: KU5BEai+yKGXvI7Yk2+h3Ehn27Y=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA1-Digest: MMbSz4/uGhdnvziZg4e9XLvFodM=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA1-Digest: UscVpd7V3jMjLzVpfsG2IbdRqvY=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA1-Digest: 3cGsKipfgybfWKKMdG932/zCITU=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA1-Digest: k2FhN6sjfE6Vf2vHkeQqYXKKIVw=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png
+SHA1-Digest: n+HinWLESEjbz+LSJ3hFDhs1hsI=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png
+SHA1-Digest: 4JsTvfBdbaRSqVTy3mD7njRhb4s=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png
+SHA1-Digest: 50lQ01X/2aI5rh53asY/AX4Fkhw=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png
+SHA1-Digest: pj+V2r2pJOgJwGGNpeqxnykl0Nc=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png
+SHA1-Digest: /qTnweOfRMZPcyM1eqEsdwUZTD4=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png
+SHA1-Digest: LOaqUgdDJCkzcFxWg8tmL0IBRoQ=
+
+Name: res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA1-Digest: L4kldLqb9NR6DgoipZDWi2jQHbs=
+
+Name: res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+SHA1-Digest: qCddjZI8yABkWFvWCWlg+bQVD7M=
+
+Name: res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+SHA1-Digest: 2lRuxodMxnuWn+IclaJShuAV5+Y=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA1-Digest: 4bXMku1QFYy4RChpA0fFOithCJ8=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA1-Digest: 7vnDoqfrLtqERp/sMVEYSh4t0IM=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.pn
+ g
+SHA1-Digest: b3HlP2GAutY9dnIn+zaoqFbw9L4=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.p
+ ng
+SHA1-Digest: SVxifOPXPr0Z8FAPKSA6tPhqrjc=
+
+Name: res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA1-Digest: Jrc7Wnxi6R1ydjCdOBfCkiBqY5s=
+
+Name: res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA1-Digest: m422YztLJrO2NLTVifJeL568oAY=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA1-Digest: 0Pl9UW/jK8MjxYht0b46LIt5W8w=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.
+ png
+SHA1-Digest: Eve5+sY3kLylSmhDHmYnvjkZAps=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.
+ png
+SHA1-Digest: ZV+bRJxAcgFQ6LcFfSQS0pjmxiI=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA1-Digest: ooDf4aCwXRgAwl7wkOESmoAbzZ0=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA1-Digest: lFmm16azupytB0dhehhyta6gxbc=
+
+Name: res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA1-Digest: h8xv8FRtF8IoxHfz1h3F0O+qv7Y=
+
+Name: res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA1-Digest: o8PDapEHi9ySDY8++YbNTr1N4yU=
+
+Name: res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA1-Digest: 2iTW6Q+N7MSpFwmb6gOvt2Ch6tI=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA1-Digest: lqY9vuhB2Y6PNyO4cqhGHU3U5oE=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.pn
+ g
+SHA1-Digest: o3UnPa5xQWf+9sW1xzSf4Z35vmk=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.p
+ ng
+SHA1-Digest: hzjpkT1X7DDbbnWVWCVeingW0Rs=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.
+ png
+SHA1-Digest: YwrO8vgjHUmvObRSq+AnITPZC2E=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.pn
+ g
+SHA1-Digest: MUn5sC0GfdFC4B7Ip1/TmztPQtg=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.p
+ ng
+SHA1-Digest: xmNf1ImJ9zRw/jShIY6T+TQEFiI=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA1-Digest: VfwUUXX6IwrW930TYyG8Zmx5yM0=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA1-Digest: 3j+3IE1u1WhAXSyrAicO4ruaaAU=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha
+ .9.png
+SHA1-Digest: M4eB+ZFxnge0Ww+K2BV/FqmDy78=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9
+ .png
+SHA1-Digest: SNxOqMMq0ve77832zPwwzGkRPlE=
+
+Name: res/drawable-xxhdpi-v4/btn_add_contact.png
+SHA1-Digest: 9RoqeDxZ47x2Oyo2YSH5uoLZnbo=
+
+Name: res/drawable-xxhdpi-v4/btn_calendar.png
+SHA1-Digest: PC884iJh32N0Tr6Tt/M6Cq5O+ms=
+
+Name: res/drawable-xxhdpi-v4/btn_call.png
+SHA1-Digest: mkkdp4IsLE9K1va5K+Hr2rgNAiI=
+
+Name: res/drawable-xxhdpi-v4/btn_mail.png
+SHA1-Digest: SU5cL6eN2YUcUAGn/Alivr1PqtI=
+
+Name: res/drawable-xxhdpi-v4/btn_map.png
+SHA1-Digest: MfNa2qmGMrNBV34a5qTxGWcYzyM=
+
+Name: res/drawable-xxhdpi-v4/btn_off.png
+SHA1-Digest: 3z2LXQ/TW/6sx8ZFElK5j98ZpeI=
+
+Name: res/drawable-xxhdpi-v4/btn_on.png
+SHA1-Digest: /0Ka0csoYuB+ooUvTsiYf3o8Ess=
+
+Name: res/drawable-xxhdpi-v4/btn_scan.png
+SHA1-Digest: wdz+EKHsm6gRRuQD1xkpQo1BciQ=
+
+Name: res/drawable-xxhdpi-v4/btn_scan_active.png
+SHA1-Digest: s9Z3nKtKxy36SJMrxNKEFdhA9+k=
+
+Name: res/drawable-xxhdpi-v4/btn_settings.png
+SHA1-Digest: WHzmLN+PRR/NgSBdrunt+rzgTjY=
+
+Name: res/drawable-xxhdpi-v4/btn_sms.png
+SHA1-Digest: ixyMbwnTDCLvxJUS9UsDLHqMkP8=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal
+ _background.9.png
+SHA1-Digest: E3b8zCKS17GRMez6fcytwmsN4LA=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_norma
+ l_background.9.png
+SHA1-Digest: 81UFBFWRhIAFzlz7E4Dq3TLKdK0=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal
+ _background.9.png
+SHA1-Digest: r/qImtNld0slEkSpWzHHH6Q+t30=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_norma
+ l_background.9.png
+SHA1-Digest: qAdyQ219E8/ps2Er5WJveMTTuIY=
+
+Name: res/drawable-xxhdpi-v4/design_ic_visibility.png
+SHA1-Digest: 1hq21CJLEjOqRp4hk2eb1egstEo=
+
+Name: res/drawable-xxhdpi-v4/design_ic_visibility_off.png
+SHA1-Digest: PlrfwchzE7z/k1/X+4BUE0VacAY=
+
+Name: res/drawable-xxhdpi-v4/googleg_disabled_color_18.png
+SHA1-Digest: YRor3DEc2DeqEMKvPf/RsvvmiCY=
+
+Name: res/drawable-xxhdpi-v4/googleg_standard_color_18.png
+SHA1-Digest: MVD4CdmOqJNUvpTIKqDZ1Vgd5pg=
+
+Name: res/drawable-xxhdpi-v4/ic_add_contact.png
+SHA1-Digest: WbCFidEMk9d8N/Ygng4SWrMzjoQ=
+
+Name: res/drawable-xxhdpi-v4/ic_arrow_right.png
+SHA1-Digest: 6VvFa61HtDj++pvtOs6kTLEmzFc=
+
+Name: res/drawable-xxhdpi-v4/ic_back.png
+SHA1-Digest: vNQMc+1k0Hqp9BUEoNPrpeuMEls=
+
+Name: res/drawable-xxhdpi-v4/ic_btn_contact_detail.png
+SHA1-Digest: NXQdenbT5+UoCjh8K794gBWQ8B0=
+
+Name: res/drawable-xxhdpi-v4/ic_btn_location_detail.png
+SHA1-Digest: cMFVDkTqInTlYQ+ehlTERF7OnMQ=
+
+Name: res/drawable-xxhdpi-v4/ic_btn_message_text_detail.png
+SHA1-Digest: LaK77EJGl6LsRDIg9vlgOXffk/k=
+
+Name: res/drawable-xxhdpi-v4/ic_btn_save.png
+SHA1-Digest: 0aiWoQiLP0ZVR6uP938tm6M76H8=
+
+Name: res/drawable-xxhdpi-v4/ic_btn_wifi_detail.png
+SHA1-Digest: WvMhb7Q3pmRUlLGB5VgEhRLY0/s=
+
+Name: res/drawable-xxhdpi-v4/ic_call_phone.png
+SHA1-Digest: iNp8AiLTeqbKJstNpAmOKGxT2kc=
+
+Name: res/drawable-xxhdpi-v4/ic_clean.png
+SHA1-Digest: OmZeanmNpfkMSV0GnewMZfZPiYM=
+
+Name: res/drawable-xxhdpi-v4/ic_close.png
+SHA1-Digest: 0y3y5Oq0hcnlvLhwo+0SLIGJ88Y=
+
+Name: res/drawable-xxhdpi-v4/ic_contact.png
+SHA1-Digest: 3IgMVBL7cGQ5WW4gWX8x8i6C8WY=
+
+Name: res/drawable-xxhdpi-v4/ic_copy.png
+SHA1-Digest: gs181c+1nbn2UtymF2IyVP9oc4Y=
+
+Name: res/drawable-xxhdpi-v4/ic_create_qr.png
+SHA1-Digest: QwaWAYtFtT1oFTpIc/tsL4logWg=
+
+Name: res/drawable-xxhdpi-v4/ic_create_qr_select.png
+SHA1-Digest: JJ11yi/+AZPU1G37oMey444GOLE=
+
+Name: res/drawable-xxhdpi-v4/ic_delete_red.png
+SHA1-Digest: odsKX7opxcJf6M7Zl5vcjar/mfU=
+
+Name: res/drawable-xxhdpi-v4/ic_delete_white.png
+SHA1-Digest: qFf09zAkaHeo8iEaDLdQ7KjLvco=
+
+Name: res/drawable-xxhdpi-v4/ic_done.png
+SHA1-Digest: PfK+RckWLMXEifAwGjYZgJuqFVE=
+
+Name: res/drawable-xxhdpi-v4/ic_edit.png
+SHA1-Digest: d0LiFZQlFL2yxTM9FdElxCM+1Ok=
+
+Name: res/drawable-xxhdpi-v4/ic_email.png
+SHA1-Digest: Pqgcmbblo+Sp2A33iwm906Mm4Xk=
+
+Name: res/drawable-xxhdpi-v4/ic_event.png
+SHA1-Digest: 5JC9QLiECFrwdIYGg3xZyWIGEQo=
+
+Name: res/drawable-xxhdpi-v4/ic_event_btn.png
+SHA1-Digest: OQyVss2GRp3saJgjq4khwNAh9yM=
+
+Name: res/drawable-xxhdpi-v4/ic_favorites.png
+SHA1-Digest: GPWOWXhYfJ2wVnN+aIuAdItopc0=
+
+Name: res/drawable-xxhdpi-v4/ic_favorites_select.png
+SHA1-Digest: gAC1Wxaayw4J3wz5cS1YSBgV7h0=
+
+Name: res/drawable-xxhdpi-v4/ic_feedback.png
+SHA1-Digest: iX+lZ2ZFhSLIu5YuGYTpKtvEwHM=
+
+Name: res/drawable-xxhdpi-v4/ic_five_star.png
+SHA1-Digest: KESEwk9WD6ZliZqLnEDEavQTbd0=
+
+Name: res/drawable-xxhdpi-v4/ic_flash.png
+SHA1-Digest: Wqk0XpU/HG3dDp30WLCftvFga7w=
+
+Name: res/drawable-xxhdpi-v4/ic_flash_off.png
+SHA1-Digest: fM/jprIqaq14+HFkhjrr0vb6SOo=
+
+Name: res/drawable-xxhdpi-v4/ic_gallery.png
+SHA1-Digest: yBvkx+V2RJBhuE3yttFfKP9K9oQ=
+
+Name: res/drawable-xxhdpi-v4/ic_gift_ads.png
+SHA1-Digest: /pRBqCjGpdCqPaA1zwfWvDIlHy0=
+
+Name: res/drawable-xxhdpi-v4/ic_history.png
+SHA1-Digest: WCw8dFR3ENWqFPgx8TkHIvm+YaM=
+
+Name: res/drawable-xxhdpi-v4/ic_history_select.png
+SHA1-Digest: BK3Zmg6DckUIFoQfr65lIKpEhA8=
+
+Name: res/drawable-xxhdpi-v4/ic_important.png
+SHA1-Digest: jzyoHjN0OjKC2wqrqrNk7G0n7xs=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: xvFXigj8LNidhHbMl9hQa5vh43E=
+
+Name: res/drawable-xxhdpi-v4/ic_location.png
+SHA1-Digest: 8MbJpOj4XT0o1oFj6pYdxMg7Zo0=
+
+Name: res/drawable-xxhdpi-v4/ic_mail.png
+SHA1-Digest: MI60LnDTYIN/5FxgIUei3+JRHdc=
+
+Name: res/drawable-xxhdpi-v4/ic_mail_btn.png
+SHA1-Digest: k7VtI6fGcKnuPWQaI18BQ07Y1B8=
+
+Name: res/drawable-xxhdpi-v4/ic_message.png
+SHA1-Digest: w8P6z0CHYST7ObhfIHWI3tjfe2c=
+
+Name: res/drawable-xxhdpi-v4/ic_more_app.png
+SHA1-Digest: pKu58XVPj17xGB1UNHlXRb7h2Gs=
+
+Name: res/drawable-xxhdpi-v4/ic_open_map.png
+SHA1-Digest: R8jMK5N0BUttEDmnmVgRdUgRdr4=
+
+Name: res/drawable-xxhdpi-v4/ic_open_url.png
+SHA1-Digest: OaHDviX73fOziyu+106b2EVs+0o=
+
+Name: res/drawable-xxhdpi-v4/ic_permission.png
+SHA1-Digest: 2Rrim25die5dnNU5NWNmhxgAyQI=
+
+Name: res/drawable-xxhdpi-v4/ic_picture.png
+SHA1-Digest: ta07+NKCSUHxlFt5VVHz8uSpN7Y=
+
+Name: res/drawable-xxhdpi-v4/ic_product.png
+SHA1-Digest: AVmK3x5llxVzXmF7f0HrI40MqS4=
+
+Name: res/drawable-xxhdpi-v4/ic_product_round.png
+SHA1-Digest: +O8KMjMyeZP2BtJm/2LTayeNlj0=
+
+Name: res/drawable-xxhdpi-v4/ic_rate_app.png
+SHA1-Digest: 5r8NwXFnHKuX+cVkwmZ73is6NHI=
+
+Name: res/drawable-xxhdpi-v4/ic_scan.png
+SHA1-Digest: p1HI2uQhtpNtoLPqR6UKBnWozhM=
+
+Name: res/drawable-xxhdpi-v4/ic_search.png
+SHA1-Digest: SSuA+jtibU9eOPLcW5kat++Vbgw=
+
+Name: res/drawable-xxhdpi-v4/ic_search_white.png
+SHA1-Digest: Ukq980BeZfssM+rWWAPD7xJXdA0=
+
+Name: res/drawable-xxhdpi-v4/ic_select.png
+SHA1-Digest: b2w4xqJ6g4cQ2nEeQseSPz8kn/I=
+
+Name: res/drawable-xxhdpi-v4/ic_selected.png
+SHA1-Digest: DspwBTDr273QZgGHXIZ6DC0twGQ=
+
+Name: res/drawable-xxhdpi-v4/ic_setting_feedback.png
+SHA1-Digest: 7Pw9EzOHKS5Wk5RlkR1p7J9u66w=
+
+Name: res/drawable-xxhdpi-v4/ic_setting_gift.png
+SHA1-Digest: 1uGBhfvdvG5q16t5kVB5U1oEelA=
+
+Name: res/drawable-xxhdpi-v4/ic_setting_more_app.png
+SHA1-Digest: lpom78tCUxbKffksDRLK6Pf+/a4=
+
+Name: res/drawable-xxhdpi-v4/ic_setting_rate.png
+SHA1-Digest: 5h/UDo71xfyEzzjNvIjd+SwhtGw=
+
+Name: res/drawable-xxhdpi-v4/ic_setting_share.png
+SHA1-Digest: EoaWJYIlpH3ble2p5mATqMynlJU=
+
+Name: res/drawable-xxhdpi-v4/ic_setting_vesion.png
+SHA1-Digest: ud+U9L/NnmBnt+bKpfzp/FAuX1M=
+
+Name: res/drawable-xxhdpi-v4/ic_settings.png
+SHA1-Digest: 69G9P5YN5cwjMB07ahzgywMRREM=
+
+Name: res/drawable-xxhdpi-v4/ic_settings_dis.png
+SHA1-Digest: svrkCxEIhjQh9uXEOoZqjt6/WDg=
+
+Name: res/drawable-xxhdpi-v4/ic_settings_pro.png
+SHA1-Digest: yyu7lFCHuLTiOZ1mcCdzyv77tDw=
+
+Name: res/drawable-xxhdpi-v4/ic_share.png
+SHA1-Digest: ejoQQPgGi+5xMb/nTP+36IE58pk=
+
+Name: res/drawable-xxhdpi-v4/ic_share_app.png
+SHA1-Digest: lXGKrHYIO18HWDxkxGwvaDtEAtc=
+
+Name: res/drawable-xxhdpi-v4/ic_sms.png
+SHA1-Digest: tak2hpinQTBqGAkzhzCWjBrxjp0=
+
+Name: res/drawable-xxhdpi-v4/ic_sms_btn.png
+SHA1-Digest: jWuq7r7dyVx2O3pD+AsgPLCaqgQ=
+
+Name: res/drawable-xxhdpi-v4/ic_sort_by.png
+SHA1-Digest: 7xH7fje/LIzAcqhGY8RX7+QAMJ0=
+
+Name: res/drawable-xxhdpi-v4/ic_sound.png
+SHA1-Digest: VEht16NOJjPILM4jFRKF93lB5Z0=
+
+Name: res/drawable-xxhdpi-v4/ic_star.png
+SHA1-Digest: Im9iPNIWm9mIZkH8d+FpPOQP8hg=
+
+Name: res/drawable-xxhdpi-v4/ic_star_5.png
+SHA1-Digest: yoXHdUtfDrw/I3mIYgxfqRJZL5w=
+
+Name: res/drawable-xxhdpi-v4/ic_star_select.png
+SHA1-Digest: 1IzzIkWJLRMpk3g2+chiFzxNDLs=
+
+Name: res/drawable-xxhdpi-v4/ic_sw_camera.png
+SHA1-Digest: ltX3Gt/+AJ9iniZAsuYpn1Tmys4=
+
+Name: res/drawable-xxhdpi-v4/ic_switch_camera.png
+SHA1-Digest: OTnAhqf6Iy2AKQhcCAM2eGC3zaE=
+
+Name: res/drawable-xxhdpi-v4/ic_telephone.png
+SHA1-Digest: MyqDIlUb9D/sidDAOf3/Oc1U6dI=
+
+Name: res/drawable-xxhdpi-v4/ic_text.png
+SHA1-Digest: W/3M0trS5BFVC8sfjeHS3noOio8=
+
+Name: res/drawable-xxhdpi-v4/ic_url.png
+SHA1-Digest: pvBk8ZcNJJua9Vq6VHa4kIEZra8=
+
+Name: res/drawable-xxhdpi-v4/ic_vibrate.png
+SHA1-Digest: lgjZJHd3X0kZh7FoJM3MW6rf6Z0=
+
+Name: res/drawable-xxhdpi-v4/ic_warning.png
+SHA1-Digest: 4HcARgEaPdDVwDzIKlPXPgcwc0c=
+
+Name: res/drawable-xxhdpi-v4/ic_wifi.png
+SHA1-Digest: YndPLsnHVd51ParW1mdD/tqh5yQ=
+
+Name: res/drawable-xxhdpi-v4/ic_wifi_setting.png
+SHA1-Digest: 6FAStiEcAhZU7hzj55PBbeMeIzM=
+
+Name: res/drawable-xxhdpi-v4/ico_confirm.png
+SHA1-Digest: YIP4/scYmAwHpGwZQa0r2k42CUs=
+
+Name: res/drawable-xxhdpi-v4/ico_delete.png
+SHA1-Digest: c9OvKjjEhNp51qsMzKwgUpJc+Ac=
+
+Name: res/drawable-xxhdpi-v4/ico_filter.png
+SHA1-Digest: Dwir7JLMm3rGFOb49139FVjsKOI=
+
+Name: res/drawable-xxhdpi-v4/ico_row_add.png
+SHA1-Digest: tJvXDv7YfXrA00N9RpxBpB3zp9U=
+
+Name: res/drawable-xxhdpi-v4/ico_row_del.png
+SHA1-Digest: AVAJLZAuAcjCyqCS2fFIFtltv5Y=
+
+Name: res/drawable-xxhdpi-v4/ico_row_fav.png
+SHA1-Digest: 8dwLLkpenWoXGXLb/YJ3+0K0w90=
+
+Name: res/drawable-xxhdpi-v4/ico_time.png
+SHA1-Digest: G8kRLHBHr8EMcqi500Cs09tuP4s=
+
+Name: res/drawable-xxhdpi-v4/loading.png
+SHA1-Digest: gjK56cvVAXeA9HXBPZM0sYM/LOs=
+
+Name: res/drawable-xxhdpi-v4/md_nav_back.png
+SHA1-Digest: gmAuuqaSpKWaKZrVYEP9eo+x+lQ=
+
+Name: res/drawable-xxhdpi-v4/places_ic_clear.png
+SHA1-Digest: nZW/B1n1ptvts2S78qTtQsFyJc8=
+
+Name: res/drawable-xxhdpi-v4/places_ic_search.png
+SHA1-Digest: AeGlOV6Ll5gnrNnsKC3LDj5uZS4=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_dark.png
+SHA1-Digest: 0vUP14tc9yOaAISChw50XRUbpLE=
+
+Name: res/drawable-xxhdpi-v4/powered_by_google_light.png
+SHA1-Digest: sYDuF5Ms+nrrJ1zbHZb62MSdIEE=
+
+Name: res/drawable-xxhdpi-v4/row_add.png
+SHA1-Digest: czXk8IfGcIt/dn6JV3E/FJXbpaU=
+
+Name: res/drawable-xxhdpi-v4/row_bg.png
+SHA1-Digest: swug+c/5lOxnQr4Aorrll+r2Ec0=
+
+Name: res/drawable-xxhdpi-v4/row_call.png
+SHA1-Digest: eDwMXk9WzwZ+eslYATXf0aLpmZA=
+
+Name: res/drawable-xxhdpi-v4/row_contact.png
+SHA1-Digest: zEDMdHdbK+zPEL1Vp8/D9itGyPs=
+
+Name: res/drawable-xxhdpi-v4/row_event.png
+SHA1-Digest: mqoJ4Esh2QRJcLkjWbvbIL4F2xs=
+
+Name: res/drawable-xxhdpi-v4/row_link.png
+SHA1-Digest: xQoLaS3xJcug0Io156bXn0fNkTg=
+
+Name: res/drawable-xxhdpi-v4/row_location.png
+SHA1-Digest: /oEkxSx0DGJST0ip8utFuImJnKE=
+
+Name: res/drawable-xxhdpi-v4/row_mail.png
+SHA1-Digest: GRR3Ftq+ksgy1zsUmTjR8DSHLc0=
+
+Name: res/drawable-xxhdpi-v4/row_note.png
+SHA1-Digest: 8hBXxrfLlPLQ7dKf0GnWTthqjq4=
+
+Name: res/drawable-xxhdpi-v4/row_product.png
+SHA1-Digest: WZYB9O26I8YMV8QkM3ZXjb7MzCk=
+
+Name: res/drawable-xxhdpi-v4/row_sms.png
+SHA1-Digest: pWkM7khShWPtj1yYdCDqB4xq2Ag=
+
+Name: res/drawable-xxhdpi-v4/row_toggle.png
+SHA1-Digest: 4Uh7YCQgJ4+Nu1CZRwNKLfGXaTU=
+
+Name: res/drawable-xxhdpi-v4/row_wifi.png
+SHA1-Digest: LeXVBvHIR7+myrUeXLIWe+UDH/c=
+
+Name: res/drawable-xxhdpi-v4/scan_border.png
+SHA1-Digest: tYbPUzasJp46os0uFZhBQJ3pmpI=
+
+Name: res/drawable-xxhdpi-v4/scan_flow.png
+SHA1-Digest: ffp3XLBAMZiUNFqJMy63JAQE9R4=
+
+Name: res/drawable-xxhdpi-v4/scan_line.png
+SHA1-Digest: thxH5kS1TNgeKbuu4xw/w01D6RQ=
+
+Name: res/drawable-xxhdpi-v4/tab_bar_b.png
+SHA1-Digest: hZjtyCUDxvDSaeZH4TgDk1qCFjA=
+
+Name: res/drawable-xxhdpi-v4/tab_bar_notification.png
+SHA1-Digest: cz/9aTGNBpoU/B7dKY8rfAC673Q=
+
+Name: res/drawable-xxhdpi-v4/tab_creat_active.png
+SHA1-Digest: o3TI3qPUq9w6Im3WCE/8gYus/Fk=
+
+Name: res/drawable-xxhdpi-v4/tab_create.png
+SHA1-Digest: Ae77GIaA3kw8/rU5t+xnHVVysUA=
+
+Name: res/drawable-xxhdpi-v4/tab_fav.png
+SHA1-Digest: 6qBlskretGdNbPqz3gnt5SXE+b0=
+
+Name: res/drawable-xxhdpi-v4/tab_fav_active.png
+SHA1-Digest: 1g0jsLaHLZBdhk7oBI+hXNUAC34=
+
+Name: res/drawable-xxhdpi-v4/tab_favorites.png
+SHA1-Digest: zy3T74copcdZYczRMLbifSUUOWY=
+
+Name: res/drawable-xxhdpi-v4/tab_history.png
+SHA1-Digest: smdHoOqgJT2Q++ZyOvW6zv65hHw=
+
+Name: res/drawable-xxhdpi-v4/tab_history_active.png
+SHA1-Digest: 0LwVPE5h5L3GE9ET142eEdGGMls=
+
+Name: res/drawable-xxhdpi-v4/tab_settings.png
+SHA1-Digest: KvBVesJWKJqiKtAzPOTTJ7qUbuY=
+
+Name: res/drawable-xxhdpi-v4/tab_settings_active.png
+SHA1-Digest: jlcl3ZPbxGlvGhnjV+SrovFV/YU=
+
+Name: res/drawable/abc_btn_borderless_material.xml
+SHA1-Digest: e8VUQ2+u4x/JQ65Z5w/pfxjvs1k=
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA1-Digest: ENVDUBT6d7XAZTH13pUtQHwX4zY=
+
+Name: res/drawable/abc_btn_colored_material.xml
+SHA1-Digest: p82oNDVX7CkPeGP2uM1tS0GJYX4=
+
+Name: res/drawable/abc_btn_default_mtrl_shape.xml
+SHA1-Digest: fbtrZGn43WX9IhtB5g3aMXJh01I=
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA1-Digest: 2bJumEv/1rfQXuXxxowIkWAooY0=
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA1-Digest: NNqHldL/+iojgzs0WKkdAl9t2F4=
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA1-Digest: RSVQqe3rNkgdJEzWbqPCKYwERuQ=
+
+Name: res/drawable/abc_dialog_material_background.xml
+SHA1-Digest: AD8FHRDag/ocUqk/eJpF/qmBa44=
+
+Name: res/drawable/abc_edit_text_material.xml
+SHA1-Digest: 85X4SznQSHjehL6Ssds0u9jtO9U=
+
+Name: res/drawable/abc_ic_ab_back_material.xml
+SHA1-Digest: VnrwRD6NgsRD3J52RqTeP4DkeDo=
+
+Name: res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+SHA1-Digest: sTDZG9jINI+xm64qBcPCfB/uAs8=
+
+Name: res/drawable/abc_ic_clear_material.xml
+SHA1-Digest: 1BSZ4WHbhXeoxoCsrVHmoptPQrw=
+
+Name: res/drawable/abc_ic_go_search_api_material.xml
+SHA1-Digest: 2jixz1YF2kx2yWd+9HMsYpuwjxM=
+
+Name: res/drawable/abc_ic_menu_overflow_material.xml
+SHA1-Digest: UHm1QmrziJDChItfZQr2hsn8p0E=
+
+Name: res/drawable/abc_ic_search_api_material.xml
+SHA1-Digest: cOS6yvM6iWKrPf7RxsonBtCvZxs=
+
+Name: res/drawable/abc_ic_voice_search_api_material.xml
+SHA1-Digest: jKLyKC8Uj/GckW+UIxPbB0nMM6E=
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA1-Digest: jiZX3217C5MvaVZWdCty67s/v5s=
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA1-Digest: TC5JsY7Jjh5OTbL1eA8sLP6SKpY=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA1-Digest: DX5f/QXzA0isiHBjWwd42jKSiOw=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA1-Digest: dskiFVYiPzVpPGn93djKlnIkK9E=
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA1-Digest: EgnE4P4YT+T4dNGW0Ujsr0yoDXw=
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA1-Digest: 91eojdaWFqa3BKtkMIen2hmjreI=
+
+Name: res/drawable/abc_ratingbar_indicator_material.xml
+SHA1-Digest: VobNUcTOj2Omf6ZvgnxDw6W0JRo=
+
+Name: res/drawable/abc_ratingbar_material.xml
+SHA1-Digest: sg5ShUCzZfLDVYF072QFqZq36Yk=
+
+Name: res/drawable/abc_ratingbar_small_material.xml
+SHA1-Digest: h+noALz93Rzzgn1i0cY7bu/I1ww=
+
+Name: res/drawable/abc_seekbar_thumb_material.xml
+SHA1-Digest: bEpYqWQwVSZWmw+Tm8udaHGAs50=
+
+Name: res/drawable/abc_seekbar_tick_mark_material.xml
+SHA1-Digest: 1ROe1L9vNoY0rc7lxTs1lAOyfMQ=
+
+Name: res/drawable/abc_seekbar_track_material.xml
+SHA1-Digest: iGiHvFAEo5fQPCljK83tDGR2/c0=
+
+Name: res/drawable/abc_spinner_textfield_background_material.xml
+SHA1-Digest: y1g1uHPm8Q9VTZq9WxhacUpxRl8=
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA1-Digest: TNtxQrV3i+j36FHXK5+uvosJLig=
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA1-Digest: R/n+AV/7T0QF9PPkFjZJwL21LGE=
+
+Name: res/drawable/abc_text_cursor_material.xml
+SHA1-Digest: qyd6Lafmf2lCdzJDDr8HUp42BC4=
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA1-Digest: R5Qe4+kwFymjOpNRA4L5eGkU0Ro=
+
+Name: res/drawable/abc_vector_test.xml
+SHA1-Digest: rilHkOIYCEEKkq39+hdBK7RQQyM=
+
+Name: res/drawable/app_sphere_48.png
+SHA1-Digest: flGcl+Z+W0UiTeOOCje8o8rrvRQ=
+
+Name: res/drawable/app_sphere_512.png
+SHA1-Digest: qB69Q3TzxD6xpRSbJslQeuV5tEo=
+
+Name: res/drawable/app_sphere_512_1.png
+SHA1-Digest: fZDGpX2uUsNfMLpqXNfJ6mWa5DE=
+
+Name: res/drawable/banner_min.png
+SHA1-Digest: 50mCnQ1agYb9flWmJ58xdWrkXBk=
+
+Name: res/drawable/bg_button_blue.xml
+SHA1-Digest: 7/QWCM0VDoYVm786f4mMEcz7oaI=
+
+Name: res/drawable/bg_button_dark_green.xml
+SHA1-Digest: PBtZtGjb0nhFaRNV1SZim2PpfrI=
+
+Name: res/drawable/bg_button_dark_yellow.xml
+SHA1-Digest: CYi72RFL3uLj+shINvIANMwt4lw=
+
+Name: res/drawable/bg_button_green.xml
+SHA1-Digest: 9bkQOyBUnTTcOiNG3DL977S/akw=
+
+Name: res/drawable/bg_button_green_low.xml
+SHA1-Digest: rxQnOIM8ggNKD9hojBTUtGU5Lvk=
+
+Name: res/drawable/bg_button_grey.xml
+SHA1-Digest: cyFpHI9X64HyEdG+n4huDcXNmwo=
+
+Name: res/drawable/bg_button_orange.xml
+SHA1-Digest: StvPBUHmc+MDyF8s46250JRwkl8=
+
+Name: res/drawable/bg_button_pink.xml
+SHA1-Digest: r9nVr96k4yszrLO+G/oiya2BdGM=
+
+Name: res/drawable/bg_button_purple.xml
+SHA1-Digest: uA7y/YHdyQbS+pyXltM35/Cutow=
+
+Name: res/drawable/bg_button_red.xml
+SHA1-Digest: 9rq6jVO1h+qiuJ+vt1Vgw7u8yVA=
+
+Name: res/drawable/bg_custom_progress.xml
+SHA1-Digest: YMUguMMKAeZ432p9v1t17OvvXRY=
+
+Name: res/drawable/bg_import_phone.xml
+SHA1-Digest: iAsMMo/feYJY+nMRp7Ekhsfqe6U=
+
+Name: res/drawable/bg_item_selected.xml
+SHA1-Digest: IlnQbbxMo//ovx8lFP7pjyYpim4=
+
+Name: res/drawable/close.png
+SHA1-Digest: XFZUru7Cr2MiExPw5UA7N8eLmM4=
+
+Name: res/drawable/close_1.png
+SHA1-Digest: 9rRM9LYWR/RoqNrrCMUOvmknqQ4=
+
+Name: res/drawable/common_google_signin_btn_icon_dark.xml
+SHA1-Digest: w8nn4g7dE9f8d+3Dn1pUHCz4YiA=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_focused.xml
+SHA1-Digest: pdQYUlIz28k/6EYlt6/q7nEE/58=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_normal.xml
+SHA1-Digest: ATQMM4ov8YxZajZltWzQ6QN0yec=
+
+Name: res/drawable/common_google_signin_btn_icon_disabled.xml
+SHA1-Digest: PGdtFE8REkh0uQFS7Ql5EkP8Nh4=
+
+Name: res/drawable/common_google_signin_btn_icon_light.xml
+SHA1-Digest: sTfbVNypMDcNdnCKFJKD6GJ5hW0=
+
+Name: res/drawable/common_google_signin_btn_icon_light_focused.xml
+SHA1-Digest: wQ/+m8fRae1Y3GK/oYvkREa0QAg=
+
+Name: res/drawable/common_google_signin_btn_icon_light_normal.xml
+SHA1-Digest: w2+4J5BFp4evcuGk5ePwFU3z3I8=
+
+Name: res/drawable/common_google_signin_btn_text_dark.xml
+SHA1-Digest: ukudWUbRYEFm8l1lD7icTE7u3+c=
+
+Name: res/drawable/common_google_signin_btn_text_dark_focused.xml
+SHA1-Digest: 2ydeQcl4JJcXaNtf1MLLy9+O9FU=
+
+Name: res/drawable/common_google_signin_btn_text_dark_normal.xml
+SHA1-Digest: UE1hgErYtujdDE48CU+MZaGWXLw=
+
+Name: res/drawable/common_google_signin_btn_text_disabled.xml
+SHA1-Digest: fF3kyWAgqaVdLOejpk+aPAIjn8Q=
+
+Name: res/drawable/common_google_signin_btn_text_light.xml
+SHA1-Digest: R2QFy3p75Fsn3azyVE0Fk0F3BTM=
+
+Name: res/drawable/common_google_signin_btn_text_light_focused.xml
+SHA1-Digest: SVyaj+rOyFBkHuambf6J+HjhII8=
+
+Name: res/drawable/common_google_signin_btn_text_light_normal.xml
+SHA1-Digest: iN1fkMNhvaiRe+eMSvmRlEG2pD8=
+
+Name: res/drawable/custom_toggle_btn.xml
+SHA1-Digest: jRF7CNYGX9mTpSVSXbDcCTYlE/Q=
+
+Name: res/drawable/design_bottom_navigation_item_background.xml
+SHA1-Digest: pELun0w2EQSSyVFs2HgpoXhJ1UU=
+
+Name: res/drawable/design_fab_background.xml
+SHA1-Digest: OvJlvCUPu9oB1yEwPiaaaOWqCTU=
+
+Name: res/drawable/design_password_eye.xml
+SHA1-Digest: fNBuO0VbvI1S8YU4bj2pGuQDAIA=
+
+Name: res/drawable/design_snackbar_background.xml
+SHA1-Digest: I9ib1vzK8rtsXJ1//zZ8kdbJXtk=
+
+Name: res/drawable/download.png
+SHA1-Digest: nRvoATSHDsIE/rqjVSGjBgsKUdE=
+
+Name: res/drawable/gradient_blue_bg.xml
+SHA1-Digest: uADRBBIYa5KVZUf/BCFOfNzhBXQ=
+
+Name: res/drawable/horizontal_line.png
+SHA1-Digest: OvhL2Z1HDyw1iZiBnP2YGELfLlo=
+
+Name: res/drawable/ic_add_black_24dp.xml
+SHA1-Digest: 1hpBz/Jd+ypq0PIJNO99E9jVTbQ=
+
+Name: res/drawable/ic_check_list_white.xml
+SHA1-Digest: 4gflsVjDAYoprvyx+QrGJ0z9BWc=
+
+Name: res/drawable/ic_close_black_24dp.xml
+SHA1-Digest: iFjHIW1VATumnFNq6gxBJhed/Dk=
+
+Name: res/drawable/ic_close_white.xml
+SHA1-Digest: onIQq7ajaTaIflTi/bkJMA4vC7c=
+
+Name: res/drawable/ic_dashboard_black_24dp.xml
+SHA1-Digest: FXkWgqkR+Ze38ZtlAsoFYEbhWa8=
+
+Name: res/drawable/ic_google_play.xml
+SHA1-Digest: q44jmj0hWZsZ3+9Xj90JH3SoZRo=
+
+Name: res/drawable/ic_home_black_24dp.xml
+SHA1-Digest: fz3RjwcdNJw0whjnYdLhTm4IoPI=
+
+Name: res/drawable/ic_image_scan.xml
+SHA1-Digest: 0XBVJYGz/1RGnpJy2VShl9Hg+Q4=
+
+Name: res/drawable/ic_notifications_black_24dp.xml
+SHA1-Digest: LmWfqc9PE0zAZwuIlLEupzvHkUk=
+
+Name: res/drawable/ic_remove_black_24dp.xml
+SHA1-Digest: 6UIqppSnNb/jWpvAhFvi2DX6+Pg=
+
+Name: res/drawable/loading_progress.xml
+SHA1-Digest: uvOj0G9w688fb84loYt0cj3p+Bw=
+
+Name: res/drawable/md_btn_selected.xml
+SHA1-Digest: 0u3tP2w1nMCMrG4aKbBB0ffU6eE=
+
+Name: res/drawable/md_btn_selected_dark.xml
+SHA1-Digest: liSZua+a/YoTQU90L9bG+qXY3uY=
+
+Name: res/drawable/md_btn_selector.xml
+SHA1-Digest: RK6SUfmoFcEHaFT+aIl9WDbaZvI=
+
+Name: res/drawable/md_btn_selector_dark.xml
+SHA1-Digest: 7xMa6wELT4nF3AsoFGrBo1UMB28=
+
+Name: res/drawable/md_item_selected.xml
+SHA1-Digest: PUaH0GYPLUEduIgm3QetwxCzjns=
+
+Name: res/drawable/md_item_selected_dark.xml
+SHA1-Digest: djDKYSDUEPIjU/SoNh0KvirIGPg=
+
+Name: res/drawable/md_selector.xml
+SHA1-Digest: YCt7gnn5RHR+72Ot7JrBO64jPwM=
+
+Name: res/drawable/md_selector_dark.xml
+SHA1-Digest: LltqLBU9vHHS/z9zbSJskijbjKE=
+
+Name: res/drawable/md_transparent.xml
+SHA1-Digest: xrJrUmCXAA8P7ESWBuC9zDlwvSs=
+
+Name: res/drawable/menu_item_create.xml
+SHA1-Digest: ZSn8CfcVtJCXCu2g1V69MnzUU2c=
+
+Name: res/drawable/menu_item_favourites.xml
+SHA1-Digest: O3ezY/y1d2FwYTcZdDzIT/2FzvQ=
+
+Name: res/drawable/menu_item_history.xml
+SHA1-Digest: GgSR8iu6H02f8grdYcYn23xMIak=
+
+Name: res/drawable/menu_item_settings.xml
+SHA1-Digest: Wf9ZsaA+fUFd0qNQRDdV38aPrXI=
+
+Name: res/drawable/nav_bar_bg_2.png
+SHA1-Digest: +s8nx48Dxnrf/w9D51ZdulNaPWU=
+
+Name: res/drawable/navigation_empty_icon.xml
+SHA1-Digest: HeYw/A2u6NQ3VX2G+wg4lTt7dn4=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: SzCpz+y/T1Vm4GJBuMGQ3P99W2c=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: kaHa8XlDlHItCT3ilybDAVfknZw=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: ZKQ7B93qBJwo/Nmmk6xdiaFh7+M=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: bphfiNtoveH2l0zkqpBdqVg4x8E=
+
+Name: res/drawable/progress_animation.xml
+SHA1-Digest: 9/X210IeQF3Ty+ye2o88DN+sZKM=
+
+Name: res/drawable/progress_image.png
+SHA1-Digest: oY3vzq339/LZopzjDNidrtC1UlY=
+
+Name: res/drawable/progress_red.png
+SHA1-Digest: 1b8QjVsNU/rLHilypZRTWt9wDUA=
+
+Name: res/drawable/radio_group_divider.xml
+SHA1-Digest: boLy8SyThtl9LFbVYdTO0tcUlvU=
+
+Name: res/drawable/round_bg_transparent.xml
+SHA1-Digest: mOzzk0bmPBaCxNIYTKWeZid28Ao=
+
+Name: res/drawable/round_bg_white.xml
+SHA1-Digest: dlWBbGJN65CnY4wsismLrwSHDIQ=
+
+Name: res/drawable/rounded_corner_bg_transfer_20.xml
+SHA1-Digest: VishAKPvODdItg/FiRj+2o9kt20=
+
+Name: res/drawable/rounded_corner_bottom_white_bg.xml
+SHA1-Digest: rLYgQHKsTx3TQJwZmX9lRZfPjtk=
+
+Name: res/drawable/rounded_corner_top_white_bg.xml
+SHA1-Digest: V2V65ACGl2EzDNq/8mAt2aDTrP8=
+
+Name: res/drawable/search.png
+SHA1-Digest: r7gN+6xL33Hk5tjKdBDSil3iCMk=
+
+Name: res/drawable/search2.png
+SHA1-Digest: rQJaoy0y3ZP5yaGOjwEhmBt6HhM=
+
+Name: res/drawable/style_border_ads.xml
+SHA1-Digest: 1rtgIg39WfxMtQoH2K+4232kkzI=
+
+Name: res/drawable/style_border_disable_click.xml
+SHA1-Digest: PG4zbtAGLoYcdd3vbbPWdD79piU=
+
+Name: res/drawable/style_border_edittext.xml
+SHA1-Digest: y0C2/zvo7bTpMNFMJbF+yLe7dSM=
+
+Name: res/drawable/style_border_layout.xml
+SHA1-Digest: fEQ2O6jbslKZw7HSvTt8Nj2av9g=
+
+Name: res/drawable/style_border_tab_bar.xml
+SHA1-Digest: a8+hCS0Z1XgGa6HBjRqT7VCtGqk=
+
+Name: res/drawable/style_border_text_left.xml
+SHA1-Digest: +6jrWrs5rKAfab6FM61sOHqMMWM=
+
+Name: res/drawable/style_border_text_right.xml
+SHA1-Digest: IiJ1AkA/AZbRvDwDfdsLX3+0k9k=
+
+Name: res/drawable/style_border_text_white_left.xml
+SHA1-Digest: q7N43ShgzmNWcWMchwcZusb1QKk=
+
+Name: res/drawable/style_highlight_black.xml
+SHA1-Digest: 5yMudn8p/UD9tHzN50nQm+KmZFM=
+
+Name: res/drawable/style_highlight_button.xml
+SHA1-Digest: wJKqILD4BWOGKw5nitGvPAB/pOA=
+
+Name: res/drawable/tooltip_frame_dark.xml
+SHA1-Digest: sF4/9DcH7kIO8CBWmIU03G/YYIo=
+
+Name: res/drawable/tooltip_frame_light.xml
+SHA1-Digest: DPgKPZ7WUzst3IBZFFV8qYqzAOk=
+
+Name: res/drawable/valuecellborder.xml
+SHA1-Digest: vmJTd3iaj3I4GsWvAXQuN+hk8KQ=
+
+Name: res/drawable/verstical_line.png
+SHA1-Digest: 0fHkDz6ewS1mMHy0C5NI5c+l9G4=
+
+Name: res/layout-ldrtl-v17/md_listitem_multichoice.xml
+SHA1-Digest: C+rT4ngF7BC3BPPFMGDKbkF3N0o=
+
+Name: res/layout-ldrtl-v17/md_listitem_singlechoice.xml
+SHA1-Digest: 0zxQV6NHLcUihjZHT9GF5q5J2oQ=
+
+Name: res/layout-sw600dp-v13/design_layout_snackbar.xml
+SHA1-Digest: uN+nd7S2lzAEXyzH/uVaguEeYcI=
+
+Name: res/layout-sw600dp-v13/subview_item_left.xml
+SHA1-Digest: F2A3okUoIN8pq+DKI77EUUnveE4=
+
+Name: res/layout-sw600dp-v21/subview_item_left.xml
+SHA1-Digest: UWbN9iLCFiMJqsbCb2RxLHSbruM=
+
+Name: res/layout-v14/md_stub_progress.xml
+SHA1-Digest: N3bhsbYHQ7ZtR59DKwimRqNPVVM=
+
+Name: res/layout-v14/md_stub_progress_indeterminate.xml
+SHA1-Digest: 8LpML3UcktD0vO0dPm059+RdKzI=
+
+Name: res/layout-v14/md_stub_progress_indeterminate_horizontal.xml
+SHA1-Digest: cV6+9AaXmcrFu/j1QgoG+NiASaA=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA1-Digest: g/0Jo0XoU2JQiWAZYh/vhS7dZLY=
+
+Name: res/layout-v17/abc_action_mode_close_item_material.xml
+SHA1-Digest: fNghoidnPkD7m9u+26CPNRaYFFM=
+
+Name: res/layout-v17/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: vTFJJ7CEdtDKmRpLICedLmRPeME=
+
+Name: res/layout-v17/abc_alert_dialog_title_material.xml
+SHA1-Digest: glN9Rwnp4CNOud2/U3oRVermEeE=
+
+Name: res/layout-v17/abc_dialog_title_material.xml
+SHA1-Digest: AeixVPf/2T6hG3utH4rJitSGFD8=
+
+Name: res/layout-v17/abc_popup_menu_header_item_layout.xml
+SHA1-Digest: cNDHv6XGJu4QqvCp4jdy2ci08Cw=
+
+Name: res/layout-v17/abc_popup_menu_item_layout.xml
+SHA1-Digest: 7BfStSArIZC6HlUZmhKwgMGR8FA=
+
+Name: res/layout-v17/abc_search_view.xml
+SHA1-Digest: d6i15JZamhL/N93xZHDlZHuYiRA=
+
+Name: res/layout-v17/abc_select_dialog_material.xml
+SHA1-Digest: sna5nvaWPdhqJhzEe4GrGbr7koE=
+
+Name: res/layout-v17/ad_app_install.xml
+SHA1-Digest: 6XiP4Z5llbcGVe2i9hOpE1l72mo=
+
+Name: res/layout-v17/design_layout_snackbar_include.xml
+SHA1-Digest: iHNYQr57Tt1VsBAzWu7KBIfWn3M=
+
+Name: res/layout-v17/dialog_choose_sort.xml
+SHA1-Digest: fU0s5kI8xM+SbZ/9lbi5QSXog/w=
+
+Name: res/layout-v17/md_dialog_input.xml
+SHA1-Digest: vOicUbxMNfCnTcauNlgk1PkYqHg=
+
+Name: res/layout-v17/md_dialog_input_check.xml
+SHA1-Digest: 7QCoC9nUiVAWAcJHXd+ad24sKI8=
+
+Name: res/layout-v17/md_listitem.xml
+SHA1-Digest: irtpBgXanol2RsuFTMwki9pebdI=
+
+Name: res/layout-v17/md_listitem_multichoice.xml
+SHA1-Digest: yxA116ry+1DPsi8T6gSLdUmPHhk=
+
+Name: res/layout-v17/md_listitem_singlechoice.xml
+SHA1-Digest: 8LZfU7dErsMmLYU2225UjlXsqKE=
+
+Name: res/layout-v17/md_stub_progress.xml
+SHA1-Digest: rHnTSC9YF/S561tEUx8loa1JnHE=
+
+Name: res/layout-v17/md_stub_progress_indeterminate.xml
+SHA1-Digest: 6d23M0h0jtjVyaj99mPpnZ9WrvM=
+
+Name: res/layout-v17/md_stub_titleframe.xml
+SHA1-Digest: ce+zMxc8edCdzzN4ZluWrwcVlKE=
+
+Name: res/layout-v17/md_stub_titleframe_lesspadding.xml
+SHA1-Digest: ETvjOppximnSQEPi0QsPl12fYEI=
+
+Name: res/layout-v17/notification_action.xml
+SHA1-Digest: G+bdsYzOmWX6vOroiVCu15/7I3w=
+
+Name: res/layout-v17/notification_action_tombstone.xml
+SHA1-Digest: xC8YJWlFRnBpBNSa1ubsvISsZSU=
+
+Name: res/layout-v17/notification_template_big_media.xml
+SHA1-Digest: sWUKPjcoJPiKlr2bQrYrsD1vsHI=
+
+Name: res/layout-v17/notification_template_big_media_custom.xml
+SHA1-Digest: BX4ZreGWdyPhaV1G+qNetHQRw6M=
+
+Name: res/layout-v17/notification_template_big_media_narrow.xml
+SHA1-Digest: KYLG4/jvM1cBdzuENfdZGLLvCvU=
+
+Name: res/layout-v17/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: MT/JPlQsmE+m33dk5YZx8Por+R8=
+
+Name: res/layout-v17/notification_template_custom_big.xml
+SHA1-Digest: 5o0lpR58oXNSJBe5fCJ7yM4I5Uo=
+
+Name: res/layout-v17/notification_template_lines_media.xml
+SHA1-Digest: PNsnSzWMmtf8CbbzjeqruSf8xkQ=
+
+Name: res/layout-v17/notification_template_media.xml
+SHA1-Digest: V4q48J35Or24OCEwLhlP/4gdQ5U=
+
+Name: res/layout-v17/notification_template_media_custom.xml
+SHA1-Digest: pZe+JZzlGRM4SnbGmkvJQOMozbg=
+
+Name: res/layout-v17/place_autocomplete_item_powered_by_google.xml
+SHA1-Digest: CjhnMWjRZjHNKzvZcMqp7jpf9nE=
+
+Name: res/layout-v17/place_autocomplete_item_prediction.xml
+SHA1-Digest: DAVC7nOb/c93b+tbaGfM7vFVPuY=
+
+Name: res/layout-v17/rate_dialog_activity_high_score.xml
+SHA1-Digest: tF5pBKQfG6zCyEy2p8m5dULgyFs=
+
+Name: res/layout-v17/select_dialog_multichoice_material.xml
+SHA1-Digest: 1bOOF/a4u14zrBjyoaVWsYk9lco=
+
+Name: res/layout-v17/select_dialog_singlechoice_material.xml
+SHA1-Digest: ukV2l6aH5Ku3yT5l9i+hksPM5DA=
+
+Name: res/layout-v17/subview_create_message.xml
+SHA1-Digest: AuhqFAEszWBptsFSCDPIgzUtLBM=
+
+Name: res/layout-v17/tooltip.xml
+SHA1-Digest: GNz9bkLCl35sfrEjbNCzqSIgkIU=
+
+Name: res/layout-v21/abc_screen_toolbar.xml
+SHA1-Digest: 9eXKhPrGKaPZSqDnVaBQzCDqikU=
+
+Name: res/layout-v21/ad_app_install.xml
+SHA1-Digest: 2wkbpP29zknB3Bfu7UJN6cuMKfE=
+
+Name: res/layout-v21/dialog_calender_view.xml
+SHA1-Digest: VWLb6TMJnx6820A+vk83uTTrhYE=
+
+Name: res/layout-v21/dialog_choose_sort.xml
+SHA1-Digest: 9aHMB2VpTeRU6FKJ6da5825UfII=
+
+Name: res/layout-v21/fragment_scan.xml
+SHA1-Digest: 7OtYUOD0JxxgJKsGpV8DWKf+PTA=
+
+Name: res/layout-v21/item_create_list.xml
+SHA1-Digest: gGpZzGHs1Jm9wNHMol507YviKvw=
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: NAOr3BNwXAOhWCcDNkpkUT2/LCs=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: DXhvtZYwFf91HTjsqUwEZw7hhXk=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: GzhZaG8QzC3WLtW7fO1Hf++khWk=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: 2a2b4PhzqirZbVKhW8U8MEp9ur0=
+
+Name: res/layout-v21/place_autocomplete_fragment.xml
+SHA1-Digest: 83QTyg24+p2xeVkjuK1kehMq5W4=
+
+Name: res/layout-v21/place_autocomplete_progress.xml
+SHA1-Digest: g3HIbZXn5N+sutKmcY7u6L0b/Ns=
+
+Name: res/layout-v21/subview_create_contact.xml
+SHA1-Digest: AAx8FfwpF33Ce7t8T2QoA7dRw2E=
+
+Name: res/layout-v21/subview_create_email.xml
+SHA1-Digest: F0TD6kH2GrRVCqu7n7QQMyGScSA=
+
+Name: res/layout-v21/subview_create_event.xml
+SHA1-Digest: w24VI+oeppyXA/Dsn8BeHYpUM5M=
+
+Name: res/layout-v21/subview_create_location.xml
+SHA1-Digest: Qu3rIzSS6uYXlcqkLdyi1+4i0iw=
+
+Name: res/layout-v21/subview_create_message.xml
+SHA1-Digest: hjai1POCqfcRnclw/YxVCDX3YD0=
+
+Name: res/layout-v21/subview_create_telephone.xml
+SHA1-Digest: 6UwhoZ7iPnK6uHskM3qZBt3lit4=
+
+Name: res/layout-v21/subview_create_text.xml
+SHA1-Digest: /5jP97u0LaNgV3aIluso4WUIPUE=
+
+Name: res/layout-v21/subview_create_website.xml
+SHA1-Digest: Zt1GleqpWS5dpOFm88GxKeXwYPA=
+
+Name: res/layout-v21/subview_create_wifi.xml
+SHA1-Digest: keOqtLMAvO5vF+LeWxYE8q/JuOU=
+
+Name: res/layout-v21/subview_item_left.xml
+SHA1-Digest: 68jkroke77FmWfCWlD0jsoAJyDc=
+
+Name: res/layout-v22/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: 6AXjOENC0xw27zLWgIwSJs0vGdk=
+
+Name: res/layout-v22/fragment_favorites.xml
+SHA1-Digest: gzWcRJfC19Rqd9FomnVNL4DUTtA=
+
+Name: res/layout-v22/fragment_history.xml
+SHA1-Digest: 3Rns9H5xEsA3Ja29Ddz6z/+FQU0=
+
+Name: res/layout-v26/abc_screen_toolbar.xml
+SHA1-Digest: wNJ0ZeZE9liA9cFyN4s9RP9c8ts=
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA1-Digest: l38zTYOzpxDq3yxScf0Uj8gEkGc=
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA1-Digest: FkuFhzpB9mRojV/ybJtW3QIZMa0=
+
+Name: res/layout/abc_action_bar_view_list_nav_layout.xml
+SHA1-Digest: BRTIIISak7RRXzwHGGAWq/64HrY=
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA1-Digest: mV52D+aEWMQli5GCc32vXEZFKLY=
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA1-Digest: wY6jZzg0pAgP1WXs9udQVw12L1s=
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA1-Digest: pKul/2VEcnx/33AVx1SaY0WFsCo=
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA1-Digest: 44AJdJ3gZSMENCEMgUcPSeZlIdE=
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA1-Digest: TSs4YubxvvjiuNkSj5aK5uyePnU=
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA1-Digest: qvesfsg5I7+z/q9vL10js+PCZo8=
+
+Name: res/layout/abc_alert_dialog_button_bar_material.xml
+SHA1-Digest: ueaBjDS+do5aXG3i7plo8DlzOX4=
+
+Name: res/layout/abc_alert_dialog_material.xml
+SHA1-Digest: i227pVVJQNH7t5LAl8hj4NMti7s=
+
+Name: res/layout/abc_alert_dialog_title_material.xml
+SHA1-Digest: gUI7ZZJW72+YgPQATwitbTaS1d8=
+
+Name: res/layout/abc_dialog_title_material.xml
+SHA1-Digest: TasHN/XiBr/zD8T2SFxjBqUMWQE=
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA1-Digest: YXae+sa8iWmN8NJalW1fcLzTtkI=
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA1-Digest: nkrvCQhNPfsdU2PZd1vcn2PKKrM=
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA1-Digest: pOWL9z7NAZzIqRF73urRBqAevvU=
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA1-Digest: mO+/nJe090dpj2MGnsSREg8Lvxo=
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA1-Digest: r70UKwl1AfFEHyGb5XSrlYWb2YU=
+
+Name: res/layout/abc_popup_menu_header_item_layout.xml
+SHA1-Digest: pxnltv60FvGUr5vifBJ26pVAMZ8=
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA1-Digest: JXOIGJ6khP/N1urjfLaEMVz8BHI=
+
+Name: res/layout/abc_screen_content_include.xml
+SHA1-Digest: 5E7jqDN//scd1aVJ0nH9HPkYHHU=
+
+Name: res/layout/abc_screen_simple.xml
+SHA1-Digest: l9oDeHS/j5Ix59EdBKlN3PpWWUs=
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA1-Digest: yZ8oOEYWsEv34cBClpRRAoOZvhQ=
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA1-Digest: r4+MinZHL9RpeB+pSQ5YroWhNzQ=
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA1-Digest: NPH0ZdAaUxv7192TMDBCthThf8M=
+
+Name: res/layout/abc_search_view.xml
+SHA1-Digest: HZqgyaOJLOAKSkJ2kFCC2iUWBoE=
+
+Name: res/layout/abc_select_dialog_material.xml
+SHA1-Digest: 6BQTJIJOh3ubW1T0HVEOvak18K0=
+
+Name: res/layout/activity_create_history.xml
+SHA1-Digest: 4iF99eCDEpM53XmQKzHNcCkol5w=
+
+Name: res/layout/activity_decode_image.xml
+SHA1-Digest: ik60Xww1WNirv6lPUkNcM2PWVR0=
+
+Name: res/layout/activity_details_encode.xml
+SHA1-Digest: ALAWvwdJ33WFw1Zdjxcj+D1/5Po=
+
+Name: res/layout/activity_edit_qr_code.xml
+SHA1-Digest: lE3/Halo9NTBSUvYw6I4cEjTGng=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: OEI84kDI796hpmgqxF3+s+EAI0E=
+
+Name: res/layout/activity_more_apps.xml
+SHA1-Digest: ATUenYGM7Qh4HzoHL8y8ZChyD7o=
+
+Name: res/layout/ad_app_install.xml
+SHA1-Digest: txuigG35PCg+0XQwJa9hECaNeQo=
+
+Name: res/layout/ad_content.xml
+SHA1-Digest: cmJW5EDJI6WIoOD5syjhQjKfTug=
+
+Name: res/layout/adapter_content_qr_entity.xml
+SHA1-Digest: Gb8wNTfcGHvpF+N8ge1jZtpQ7GI=
+
+Name: res/layout/bar_activity.xml
+SHA1-Digest: tgsT6z4/h+4/gTYGYqZ6KLqGqtE=
+
+Name: res/layout/bar_recorder_activity.xml
+SHA1-Digest: A1Bts53uJ3vYK9FGEH6lmSGtMjQ=
+
+Name: res/layout/design_bottom_navigation_item.xml
+SHA1-Digest: JH3IsqSDHaKxZCKFIuc6VyAPG0I=
+
+Name: res/layout/design_bottom_sheet_dialog.xml
+SHA1-Digest: xywRHYXqxa54RSE4/Uwk62MoBXs=
+
+Name: res/layout/design_layout_snackbar.xml
+SHA1-Digest: s9zxxuJxQZQWDwfdm6+BjmPF49A=
+
+Name: res/layout/design_layout_snackbar_include.xml
+SHA1-Digest: t2r3yMsc1IIQD5Q6FyZDJqJ0iho=
+
+Name: res/layout/design_layout_tab_icon.xml
+SHA1-Digest: 3+s6bdHVdEFUVhZtBXra0i59dMA=
+
+Name: res/layout/design_layout_tab_text.xml
+SHA1-Digest: GXs4s1PL4GGJY62MAdCzyMPgJVk=
+
+Name: res/layout/design_menu_item_action_area.xml
+SHA1-Digest: SvslXhHLMEtfWoXc4AnsI7BXglU=
+
+Name: res/layout/design_navigation_item.xml
+SHA1-Digest: RqvVvh1Wl/EsDmwbq3OJBFS2oNU=
+
+Name: res/layout/design_navigation_item_header.xml
+SHA1-Digest: G0l2ByvJeOFtDdtpy/uOrwGfUn0=
+
+Name: res/layout/design_navigation_item_separator.xml
+SHA1-Digest: bEJ0ivgDEJETs/N0eAMAJ683xOg=
+
+Name: res/layout/design_navigation_item_subheader.xml
+SHA1-Digest: gwT8d97K2Q8Cp/iuvCHKs9ST2tI=
+
+Name: res/layout/design_navigation_menu.xml
+SHA1-Digest: 3lvOSJxBczjdjSiFh9DYOcpClb8=
+
+Name: res/layout/design_navigation_menu_item.xml
+SHA1-Digest: He8CBBBsbdy7tGxkVhlHAzRGb7M=
+
+Name: res/layout/design_text_input_password_icon.xml
+SHA1-Digest: mJ9qFadaZhFQD+srxUTvEdJI5X8=
+
+Name: res/layout/dialog_calender_view.xml
+SHA1-Digest: dUDi/MB9SoU70wUmLzv+orNAcLM=
+
+Name: res/layout/dialog_choose_sort.xml
+SHA1-Digest: 7M2Dk3RrkqkDbE8gyQEDEQ+uMEY=
+
+Name: res/layout/dialog_email_select.xml
+SHA1-Digest: KfgRWIFYBBgj4u0MOHoh7LacaZc=
+
+Name: res/layout/dialog_exit_app.xml
+SHA1-Digest: /roMx6vN80zS2Xg6jmrtxqACtJ8=
+
+Name: res/layout/dialog_introduction_permission.xml
+SHA1-Digest: NsbszEkZ7jMhFDTcRLRSOYl25fg=
+
+Name: res/layout/dp_example.xml
+SHA1-Digest: MTDTuHzCz+Id8OfQTT61i9Bvpis=
+
+Name: res/layout/fragment_create_list.xml
+SHA1-Digest: Xuf+mhDWcw2w39pbIHbA5iORRoA=
+
+Name: res/layout/fragment_details_qr_code.xml
+SHA1-Digest: 73fDCf6iy6plIFtxQcGYis+0imo=
+
+Name: res/layout/fragment_favorites.xml
+SHA1-Digest: +Et65OYyr1sNiVPZ33iDtImI4y4=
+
+Name: res/layout/fragment_history.xml
+SHA1-Digest: D8Vu7RuR8dyZpOjP9+gTiSmXt+A=
+
+Name: res/layout/fragment_root_create.xml
+SHA1-Digest: QRIP3V//jD56MPLjtblp079siiA=
+
+Name: res/layout/fragment_scan.xml
+SHA1-Digest: nS9ADyjEr7wxYiT7QO+ZyBtdg9E=
+
+Name: res/layout/fragment_settings.xml
+SHA1-Digest: OHNbbCTmeD/A0Vr6WuCbsE/IGOs=
+
+Name: res/layout/item_create_list.xml
+SHA1-Digest: D/AXh3xspShKf6JD5CgpxGnyNOU=
+
+Name: res/layout/item_created_qr.xml
+SHA1-Digest: 1TfGBKn2F77qmT8VgDpba8JNxvE=
+
+Name: res/layout/item_email.xml
+SHA1-Digest: 4LOYBiARyfWudbHCxoeKXNOx2kM=
+
+Name: res/layout/item_list_app.xml
+SHA1-Digest: wnHKHNGZxnhxgnPGT6EyH3SpUdE=
+
+Name: res/layout/item_listview_layout.xml
+SHA1-Digest: kKMi0si26BF+X35yySM4ZzGX1ag=
+
+Name: res/layout/item_qr_code_favorites_list.xml
+SHA1-Digest: d7EzJQZ5T1OrCdR8Vb7W8DD1Hps=
+
+Name: res/layout/item_qr_code_list.xml
+SHA1-Digest: yEZEKbqeeFghSa/Ffav0NOSSJcE=
+
+Name: res/layout/layout_custom_barcode_scanner.xml
+SHA1-Digest: uhNofLqTvY/bBPInawZoddrfCq4=
+
+Name: res/layout/layout_notification_ads.xml
+SHA1-Digest: yg4+yYJmH1G8KSjTU5OpxBOiz3E=
+
+Name: res/layout/layput_list_apps_ads.xml
+SHA1-Digest: zViuJyeNvQk1Y5aMqoyWhDbvmrc=
+
+Name: res/layout/md_dialog_basic.xml
+SHA1-Digest: D+858yG73GYISIfysRpU0d5Kn0Q=
+
+Name: res/layout/md_dialog_basic_check.xml
+SHA1-Digest: Wc/6HfmZtdwhZ6MjmVgDBNrCxsU=
+
+Name: res/layout/md_dialog_custom.xml
+SHA1-Digest: LtLk0cIF8iI8t4ec3PeCQpjDYzk=
+
+Name: res/layout/md_dialog_input.xml
+SHA1-Digest: aymB4CjFnHvzgaMKb1Q1dA383SM=
+
+Name: res/layout/md_dialog_input_check.xml
+SHA1-Digest: T1AlPOpuuz/qbcxC9a02RXhEuKs=
+
+Name: res/layout/md_dialog_list.xml
+SHA1-Digest: ZgFk2g5YfJPntqC7ItQ/wU21EyY=
+
+Name: res/layout/md_dialog_list_check.xml
+SHA1-Digest: Z702XVZJC4/4gBClRuZ/YhdzJro=
+
+Name: res/layout/md_dialog_progress.xml
+SHA1-Digest: 6AfU7ZKGwK6C+kxQVOOv/e/HnSY=
+
+Name: res/layout/md_dialog_progress_indeterminate.xml
+SHA1-Digest: x64Gx+SKz+V6Yy3C4p5hn1x/YVE=
+
+Name: res/layout/md_dialog_progress_indeterminate_horizontal.xml
+SHA1-Digest: eDhK/hCA3R6E5bXGRoM1mt0NajM=
+
+Name: res/layout/md_listitem.xml
+SHA1-Digest: IHBfinX4X+zgPiyANN+e7U5+DL8=
+
+Name: res/layout/md_listitem_multichoice.xml
+SHA1-Digest: daDSvSjF6u6vgiqoibcg2uyyPqA=
+
+Name: res/layout/md_listitem_singlechoice.xml
+SHA1-Digest: 8w9SNSOIWzKNfyGU7OQljsJqqDM=
+
+Name: res/layout/md_stub_actionbuttons.xml
+SHA1-Digest: B8NZqpKOEWWw09k1lO8Lvao5BL8=
+
+Name: res/layout/md_stub_titleframe.xml
+SHA1-Digest: OiodRIkgSnH0mgIp82CmskDgjOg=
+
+Name: res/layout/md_stub_titleframe_lesspadding.xml
+SHA1-Digest: e7GY5NN4GMmTR1k6h13kx6HK01Q=
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: Qre+fexHoPdJtF0ROmVyEMPNjwc=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: fxdB0YMtfHrPLSvn/gNW1WsiY9Q=
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: ZQA34jyScKFdZ4i+gY4m/w6lVgQ=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: jHxkbEBgOPBCWLRqTP1UI6Kuxwc=
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: 24kD17SZOkj5Vb3S/mrCi2L8ESo=
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA1-Digest: +mjLmClNzU5ePhq+LT7hsQ9XStQ=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: LuYQZ17U6sVTnpEZYp+2ZBhVza4=
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: Pfjl0S5K4njKli2QYT9uGYxiMjg=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: 7qGzS5iY9jU8lAd/hBnbRKkAUQY=
+
+Name: res/layout/notification_template_lines_media.xml
+SHA1-Digest: pWrr6tmncHT3xRPPKA3u22CKmAk=
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: 6c5m5uVIXWFjznoJWWjHV0ZwVNY=
+
+Name: res/layout/notification_template_media_custom.xml
+SHA1-Digest: ZLcPBGwsRv6AGUVLTeLeqRbmm9w=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: ivl/ktwZ5OA30J4zoO31Zja8baI=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: WD7b1XoCM0Pyg3NnA7wJt3/RDZ0=
+
+Name: res/layout/place_autocomplete_fragment.xml
+SHA1-Digest: 5usWWn46zjakJJ+gCmgtLZ6oe9I=
+
+Name: res/layout/place_autocomplete_item_powered_by_google.xml
+SHA1-Digest: TUU68Vd82awfQ2bsjP/sY7WIfI4=
+
+Name: res/layout/place_autocomplete_item_prediction.xml
+SHA1-Digest: jqGvkb4kKmRAuINu1owrv7gu4HA=
+
+Name: res/layout/place_autocomplete_progress.xml
+SHA1-Digest: IaGCI66J2oSNjMD19lody7oJCgU=
+
+Name: res/layout/rate_dialog_activity_high_score.xml
+SHA1-Digest: EbtMUT3pEhcXB4Uvqnp5JRRvPBY=
+
+Name: res/layout/sdp_example.xml
+SHA1-Digest: v4iLIE77lz2CXo9JHdhctRjsBiU=
+
+Name: res/layout/select_dialog_item_material.xml
+SHA1-Digest: 6U1y/KLLw2xB5NOW1n37wMR7C+Q=
+
+Name: res/layout/select_dialog_multichoice_material.xml
+SHA1-Digest: Z7KWtwLSzjFu66qcE1KNE3esOZc=
+
+Name: res/layout/select_dialog_singlechoice_material.xml
+SHA1-Digest: sdXY9CvSsVCUgyhnUYMpacmvC2M=
+
+Name: res/layout/show_apps_activity.xml
+SHA1-Digest: 5EbW14EkQ6OVUzETlztjjVAPYRM=
+
+Name: res/layout/subview_create_back.xml
+SHA1-Digest: tk3whIg8ARqcnLz4AmnQo4Ys1kg=
+
+Name: res/layout/subview_create_contact.xml
+SHA1-Digest: okifoFduqj9PXEfe/w1cn6Dbpig=
+
+Name: res/layout/subview_create_email.xml
+SHA1-Digest: 8Oql2hkoQL5GfBjRkKGX6Rin5oY=
+
+Name: res/layout/subview_create_event.xml
+SHA1-Digest: PmBfoEXtGMy07YV3pO8FQFyT2Y8=
+
+Name: res/layout/subview_create_location.xml
+SHA1-Digest: QzTFyIkOj66dtTih4PuvNjQXgEY=
+
+Name: res/layout/subview_create_message.xml
+SHA1-Digest: TZO8rC/K45MvHmTGPEaWxfDzBLk=
+
+Name: res/layout/subview_create_telephone.xml
+SHA1-Digest: YJPLEWdQbXZRYTH2bOp36Skgc8c=
+
+Name: res/layout/subview_create_text.xml
+SHA1-Digest: nCMx+OtYewCTVO1bJH6Hu4ak1no=
+
+Name: res/layout/subview_create_website.xml
+SHA1-Digest: h0iSnmSTmxnCgCggMuDoVekDYp4=
+
+Name: res/layout/subview_create_wifi.xml
+SHA1-Digest: 5XCGKYgK2gTcD+YBBG9kpyBBegQ=
+
+Name: res/layout/subview_item_left.xml
+SHA1-Digest: 68+Cc73CPE3GoyMASSUf9Lf4iBI=
+
+Name: res/layout/subview_item_right.xml
+SHA1-Digest: XxcasO+QowRAEN4W+tStigzrtT0=
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA1-Digest: pdYKaSkpDcnhZox92MLXQvKy540=
+
+Name: res/layout/tooltip.xml
+SHA1-Digest: qytlvJA8OGQu333IvvGo1q9BX3s=
+
+Name: res/layout/view_qr_details.xml
+SHA1-Digest: avEaw8/wx6j1GNW8bXxbzP9/hwM=
+
+Name: res/layout/webview.xml
+SHA1-Digest: o6e2fBJ9fNwoU5S5m6103Xg1kY0=
+
+Name: res/layout/zxing_barcode_scanner.xml
+SHA1-Digest: TLNKciEHdu4G0Yjd5M2GatNDYmc=
+
+Name: res/layout/zxing_capture.xml
+SHA1-Digest: OjCeFONcDlx4sDf/Mzst1Lye7jU=
+
+Name: res/menu/navigation.xml
+SHA1-Digest: duXL/QuPDyQtEIi9khSstq0TeuU=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: dMUaR5k1H2vrSVvFrKRh40JqUJM=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: EEreoDkdfJ/VYUSfIs95JuJTjII=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: fLkOjihDbwe8X5K+i4Lw7HA4n9U=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: HLnBaiJ+bMoiP+E/ZIEd+4jlFgU=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: QYucCdeUtBmE88YrNiFRyYzvilA=
+
+Name: res/raw/zxing_beep.ogg
+SHA1-Digest: KwVVsTfH9F4eJF0ZHW0XAnr1YbQ=
+
+Name: res/xml/app_tracker.xml
+SHA1-Digest: AhR6IZVgUy+YDhCLnMxW18ZYTSw=
+
+Name: res/xml/app_tracker_music.xml
+SHA1-Digest: 8zaADeD2ejR51v1uwbrgbrhsswU=
+
+Name: res/xml/provider_paths.xml
+SHA1-Digest: 1GN9pUpxuAKsstSzaQO8DpsAdkg=
+
+Name: res/xml/splits0.xml
+SHA1-Digest: 1a7RSwluGdBNeEF/GoytXpcTITU=
+
+Name: resources.arsc
+SHA1-Digest: dRaqjgobnm53OvIog8HV5zuStx4=
+
+Name: zoneinfo-global/Africa/Abidjan.ics
+SHA1-Digest: 4K4CMSekEeeNfvN6aaSqqftI4Qc=
+
+Name: zoneinfo-global/Africa/Accra.ics
+SHA1-Digest: QMoNoln+ORIvgtPjYGhRczFE+To=
+
+Name: zoneinfo-global/Africa/Addis_Ababa.ics
+SHA1-Digest: 4jNxMOFZV7yrVqcuP0Nujqi/zA8=
+
+Name: zoneinfo-global/Africa/Algiers.ics
+SHA1-Digest: RbV0jC8c5t+kD75SmALcxi+5V4A=
+
+Name: zoneinfo-global/Africa/Asmara.ics
+SHA1-Digest: 2cKC08/AUwn3l4uX0wTCDQgXipY=
+
+Name: zoneinfo-global/Africa/Bamako.ics
+SHA1-Digest: t9HwgTu6eKlYudb+jQBCSYFLkkk=
+
+Name: zoneinfo-global/Africa/Bangui.ics
+SHA1-Digest: bz3QEn8+aCReDR7FhdAzwMIGVus=
+
+Name: zoneinfo-global/Africa/Banjul.ics
+SHA1-Digest: UqDGrUsMkZEuslzCQrMaJi91ZkI=
+
+Name: zoneinfo-global/Africa/Bissau.ics
+SHA1-Digest: FsL5VJlGPehOlBvcx40tYqPxxVo=
+
+Name: zoneinfo-global/Africa/Blantyre.ics
+SHA1-Digest: jSUlhvKGNAm/kDIZqn8YKMtj15c=
+
+Name: zoneinfo-global/Africa/Brazzaville.ics
+SHA1-Digest: HxGN2+pVejXjWXpVAb+hn/ioM/c=
+
+Name: zoneinfo-global/Africa/Bujumbura.ics
+SHA1-Digest: RFRBzmoUxYq94HJSroiMFcvp4WY=
+
+Name: zoneinfo-global/Africa/Cairo.ics
+SHA1-Digest: f1ffzyM1IFcEtV+WPZ/R8CLDGYM=
+
+Name: zoneinfo-global/Africa/Casablanca.ics
+SHA1-Digest: nYV6rCE3AlLMbPZPnudpRZwBFuI=
+
+Name: zoneinfo-global/Africa/Ceuta.ics
+SHA1-Digest: blmaounRiLUT6C4Zuo1YQwHAfsw=
+
+Name: zoneinfo-global/Africa/Conakry.ics
+SHA1-Digest: wFTEVr1fsCCbMyUuNycgDD867Gw=
+
+Name: zoneinfo-global/Africa/Dakar.ics
+SHA1-Digest: WPpsrzG/JpmSq7uBCqSD0OMpxZA=
+
+Name: zoneinfo-global/Africa/Dar_es_Salaam.ics
+SHA1-Digest: DqxW5Sv+Le2hT18iDdVCANhjG3I=
+
+Name: zoneinfo-global/Africa/Djibouti.ics
+SHA1-Digest: J+7LMFwyVPXtI+QoRVp0r0WpL5E=
+
+Name: zoneinfo-global/Africa/Douala.ics
+SHA1-Digest: vxk4sSbTgL3nYTswl2wVFS2VCVg=
+
+Name: zoneinfo-global/Africa/El_Aaiun.ics
+SHA1-Digest: 3KihCJBKw1MY0bH9ggtdju4EPJk=
+
+Name: zoneinfo-global/Africa/Freetown.ics
+SHA1-Digest: ybogl5d2NT5lva+cqGSpoQLN57M=
+
+Name: zoneinfo-global/Africa/Gaborone.ics
+SHA1-Digest: BzIFUmgmk9EkMArN2vUsYX+men0=
+
+Name: zoneinfo-global/Africa/Harare.ics
+SHA1-Digest: cKoQvkW+EZddyaDjQIIkLutrpHI=
+
+Name: zoneinfo-global/Africa/Johannesburg.ics
+SHA1-Digest: n8IklLh+L/xZh5tF0aY6EUbPPp0=
+
+Name: zoneinfo-global/Africa/Juba.ics
+SHA1-Digest: 3ZpnZop81vsbWmS1Vi+ZCPR8WeA=
+
+Name: zoneinfo-global/Africa/Kampala.ics
+SHA1-Digest: u5g8pU00IjHoQrs6K96ug7In2bI=
+
+Name: zoneinfo-global/Africa/Khartoum.ics
+SHA1-Digest: HupsEFCKMDMxjCqcnxW+b37u8NM=
+
+Name: zoneinfo-global/Africa/Kigali.ics
+SHA1-Digest: dlIOqE2yxrOVdHAnF9/0y6on4cI=
+
+Name: zoneinfo-global/Africa/Kinshasa.ics
+SHA1-Digest: hG2xyFiSoCxQn0GfZ4ve1BFPIqU=
+
+Name: zoneinfo-global/Africa/Lagos.ics
+SHA1-Digest: Poy4c0fyAqeNCD5lGCRGaaa1vCs=
+
+Name: zoneinfo-global/Africa/Libreville.ics
+SHA1-Digest: q+5F4mWb+eV4Si++JY7zAdryPRE=
+
+Name: zoneinfo-global/Africa/Lome.ics
+SHA1-Digest: lv3V0Cc63dS/pw0xnBnw78IYZqw=
+
+Name: zoneinfo-global/Africa/Luanda.ics
+SHA1-Digest: AKaUbomCEION35VP994TxpW38fs=
+
+Name: zoneinfo-global/Africa/Lubumbashi.ics
+SHA1-Digest: viC6dWwXXYOpdJowaKM3nH7eyY4=
+
+Name: zoneinfo-global/Africa/Lusaka.ics
+SHA1-Digest: EKp7ST24hoHiJl9pPZ4Wd6I3PTQ=
+
+Name: zoneinfo-global/Africa/Malabo.ics
+SHA1-Digest: CPOf9z3NkDQQPHPeuSdamtAkh5g=
+
+Name: zoneinfo-global/Africa/Maputo.ics
+SHA1-Digest: 0DR9MBrZiYHfwrArqkBOYwGtpcs=
+
+Name: zoneinfo-global/Africa/Maseru.ics
+SHA1-Digest: dFzVBoVxYsjyH6ecfvDsbLtKgvE=
+
+Name: zoneinfo-global/Africa/Mbabane.ics
+SHA1-Digest: OfO09WTUQnae6BDVmsfn4zhgHuE=
+
+Name: zoneinfo-global/Africa/Mogadishu.ics
+SHA1-Digest: Mfw1/6IVdtFvSdKoHIyKIY1cmk4=
+
+Name: zoneinfo-global/Africa/Monrovia.ics
+SHA1-Digest: y8fo+Gh5mjnxrHgyNloEGUKLTkk=
+
+Name: zoneinfo-global/Africa/Nairobi.ics
+SHA1-Digest: 7XORxdXkI6IYQoSgdk71mAQAEn0=
+
+Name: zoneinfo-global/Africa/Ndjamena.ics
+SHA1-Digest: QBjfvp7orUsvmCWAOKaPkCnjhaA=
+
+Name: zoneinfo-global/Africa/Niamey.ics
+SHA1-Digest: bGNjuC8iKzK5SiLuHbhL0lx9iT4=
+
+Name: zoneinfo-global/Africa/Nouakchott.ics
+SHA1-Digest: zk4ITxd0scT24VfQd2VYiSvllSo=
+
+Name: zoneinfo-global/Africa/Ouagadougou.ics
+SHA1-Digest: zB+nPqNA3qzYQ5R9J92wakl9F08=
+
+Name: zoneinfo-global/Africa/Porto-Novo.ics
+SHA1-Digest: e72u8dc4PFQJ6djFTPVNkjSZenM=
+
+Name: zoneinfo-global/Africa/Sao_Tome.ics
+SHA1-Digest: C4PsiFr3LGim4q4VoOzrk5YpznY=
+
+Name: zoneinfo-global/Africa/Tripoli.ics
+SHA1-Digest: NIDzC5RGokbAVJNcO6sN/vr/uf4=
+
+Name: zoneinfo-global/Africa/Tunis.ics
+SHA1-Digest: hR2pan4rPvbWlp66X7rDsyjSU2w=
+
+Name: zoneinfo-global/Africa/Windhoek.ics
+SHA1-Digest: hMBjr3PxQQ/vrX2y7b1l6FAa9rI=
+
+Name: zoneinfo-global/America/Adak.ics
+SHA1-Digest: +bmyh2hYn5Etm9OO5pdDdP7kdVc=
+
+Name: zoneinfo-global/America/Anchorage.ics
+SHA1-Digest: 2Rv3sDNTBdOWrBzo23exdf7OgMk=
+
+Name: zoneinfo-global/America/Anguilla.ics
+SHA1-Digest: wD5vUswk5QJMeHR3l3bG+l/LOWM=
+
+Name: zoneinfo-global/America/Antigua.ics
+SHA1-Digest: eDX15VbkU0eIfRPOD3X+Jb9IKgA=
+
+Name: zoneinfo-global/America/Araguaina.ics
+SHA1-Digest: kDCwaXgwI8kjISXAgjzeP5WieNQ=
+
+Name: zoneinfo-global/America/Argentina/Buenos_Aires.ics
+SHA1-Digest: Yrigr1Z2NeZLFXNW6r++cSe+dfM=
+
+Name: zoneinfo-global/America/Argentina/Catamarca.ics
+SHA1-Digest: v6J7Y3UKnbGYW626Uvx7JQytKhw=
+
+Name: zoneinfo-global/America/Argentina/Cordoba.ics
+SHA1-Digest: wTb7mJ90n5s9fe/XXFRjY3nryxE=
+
+Name: zoneinfo-global/America/Argentina/Jujuy.ics
+SHA1-Digest: Silh7W/gaPqXEAw00sx79Qfj7x8=
+
+Name: zoneinfo-global/America/Argentina/La_Rioja.ics
+SHA1-Digest: U2M7Hg+xkv2Odah3ovVCwlweaj4=
+
+Name: zoneinfo-global/America/Argentina/Mendoza.ics
+SHA1-Digest: ZI/HzIY60sLH597a/YSTWBWP8Wk=
+
+Name: zoneinfo-global/America/Argentina/Rio_Gallegos.ics
+SHA1-Digest: Cos165Bq1ihQtRwj1gWunmASibk=
+
+Name: zoneinfo-global/America/Argentina/Salta.ics
+SHA1-Digest: rSXxvRWmxDaXlYhBEcXwxJu1MDI=
+
+Name: zoneinfo-global/America/Argentina/San_Juan.ics
+SHA1-Digest: A+jFvdqm3UNKoYtsM9q+BR8ZW5s=
+
+Name: zoneinfo-global/America/Argentina/San_Luis.ics
+SHA1-Digest: J0bOF927TIY2xSjgjPF+NnfvpMw=
+
+Name: zoneinfo-global/America/Argentina/Tucuman.ics
+SHA1-Digest: 4Am4tnqNfh11W7bmQ9ZxJeAp8iQ=
+
+Name: zoneinfo-global/America/Argentina/Ushuaia.ics
+SHA1-Digest: O0tOZndLg2yRY+m2rq6Qi544oCg=
+
+Name: zoneinfo-global/America/Aruba.ics
+SHA1-Digest: 5CqCg5BP5ZQwlp73VpGS996j9Tk=
+
+Name: zoneinfo-global/America/Asuncion.ics
+SHA1-Digest: a2MbRlTfbEEQhzSF2tSh7LCGv9U=
+
+Name: zoneinfo-global/America/Atikokan.ics
+SHA1-Digest: ImBnxFU0xoO2cjeR6vFZzR2Gf3k=
+
+Name: zoneinfo-global/America/Bahia.ics
+SHA1-Digest: CFZCTWkldcNcKXIJdULtdgd5L4c=
+
+Name: zoneinfo-global/America/Bahia_Banderas.ics
+SHA1-Digest: 7aaUkkyfsbg+jw4Gir785bKCAe4=
+
+Name: zoneinfo-global/America/Barbados.ics
+SHA1-Digest: HUhuptiEw2EH5NYgeP8NiJljMjY=
+
+Name: zoneinfo-global/America/Belem.ics
+SHA1-Digest: NuRZld7DgF6lSN4V41HyLUKNgoM=
+
+Name: zoneinfo-global/America/Belize.ics
+SHA1-Digest: /iYGPFBDRWvze6IATHtzArvKxtU=
+
+Name: zoneinfo-global/America/Blanc-Sablon.ics
+SHA1-Digest: BNLrVZnjqjrU7yR6U9UaBHhqT/s=
+
+Name: zoneinfo-global/America/Boa_Vista.ics
+SHA1-Digest: OwKebOMOh8QK/fVYjU0YwEqDYCQ=
+
+Name: zoneinfo-global/America/Bogota.ics
+SHA1-Digest: ohMfZjksq7MlxVgz+x2ew88Nh38=
+
+Name: zoneinfo-global/America/Boise.ics
+SHA1-Digest: kNF2DjBmBqao6FrNNuEPpmmY+9A=
+
+Name: zoneinfo-global/America/Cambridge_Bay.ics
+SHA1-Digest: WFH8iFh9Yjh6AchDx4TvBL55EFg=
+
+Name: zoneinfo-global/America/Campo_Grande.ics
+SHA1-Digest: hphjk1KkAvT3D40jLwAAGB3jUjo=
+
+Name: zoneinfo-global/America/Cancun.ics
+SHA1-Digest: Vglb7elzZGU0MVXbJKN02CQFGms=
+
+Name: zoneinfo-global/America/Caracas.ics
+SHA1-Digest: f6QwxB3Sd/KkuZ2Wb23WeoqEMuM=
+
+Name: zoneinfo-global/America/Cayenne.ics
+SHA1-Digest: Rkigk9vdin26i1fqpkylgCMzs5Y=
+
+Name: zoneinfo-global/America/Cayman.ics
+SHA1-Digest: xHJyoD6eA+OKN/yJNQMwFhI6Hag=
+
+Name: zoneinfo-global/America/Chicago.ics
+SHA1-Digest: jcOAqef+utHP+E2E8myWzqQlv58=
+
+Name: zoneinfo-global/America/Chihuahua.ics
+SHA1-Digest: 3+gs5PwK7Orsw25DdxGZUAJFiI8=
+
+Name: zoneinfo-global/America/Costa_Rica.ics
+SHA1-Digest: DYB8cjI9GQA7aocEFJWtFi6FXnI=
+
+Name: zoneinfo-global/America/Creston.ics
+SHA1-Digest: REh4elDWISDXQJGRk6yyejmvCM4=
+
+Name: zoneinfo-global/America/Cuiaba.ics
+SHA1-Digest: jEauIK3vB2moALumZyTIKrT+bNU=
+
+Name: zoneinfo-global/America/Curacao.ics
+SHA1-Digest: 7ONIFrVNHxZWyzmqpdg5U4KbVQc=
+
+Name: zoneinfo-global/America/Danmarkshavn.ics
+SHA1-Digest: nhugQk53ieX8+26r6trMmtmb59o=
+
+Name: zoneinfo-global/America/Dawson.ics
+SHA1-Digest: +b3wCEPOJFMwEivq4j94YYHj8Fc=
+
+Name: zoneinfo-global/America/Dawson_Creek.ics
+SHA1-Digest: mpuY0smQ8x9IlZhBTg3BTtz1yqY=
+
+Name: zoneinfo-global/America/Denver.ics
+SHA1-Digest: beMELa5JQ2VMS1+Uq0Hz6E9Y570=
+
+Name: zoneinfo-global/America/Detroit.ics
+SHA1-Digest: 899xw7kBoJI1rcZV9S6kFRK0fvo=
+
+Name: zoneinfo-global/America/Dominica.ics
+SHA1-Digest: 3zM4Un4D1cs7vsDizopoBLt+uJ0=
+
+Name: zoneinfo-global/America/Edmonton.ics
+SHA1-Digest: EWvjr66Jq2AEvsAX0Qjft8qq0cE=
+
+Name: zoneinfo-global/America/Eirunepe.ics
+SHA1-Digest: UHOqsIhq++Urpyj56GAIVMt7gmg=
+
+Name: zoneinfo-global/America/El_Salvador.ics
+SHA1-Digest: 26zncLOLnAHydYS8rUNVAToMI/E=
+
+Name: zoneinfo-global/America/Fort_Nelson.ics
+SHA1-Digest: mAsfz1MWjAQmhl3om0DwmT9ASn8=
+
+Name: zoneinfo-global/America/Fortaleza.ics
+SHA1-Digest: NBJXShYq3FhXIjzgkXFV89LUSV8=
+
+Name: zoneinfo-global/America/Glace_Bay.ics
+SHA1-Digest: 99AFZI5XUPUHkXXlopR1tIB4j/A=
+
+Name: zoneinfo-global/America/Godthab.ics
+SHA1-Digest: bS0XcxkySMLNIV7mtjigXaTXCp4=
+
+Name: zoneinfo-global/America/Goose_Bay.ics
+SHA1-Digest: 2bhOXau5AkMzq6xEBBcDX1yhbzo=
+
+Name: zoneinfo-global/America/Grand_Turk.ics
+SHA1-Digest: yF4UjhREodWZ3fKYlz1XyuqHvYU=
+
+Name: zoneinfo-global/America/Grenada.ics
+SHA1-Digest: yRkueqaiee7oqIWP0Fd7XJN6vy0=
+
+Name: zoneinfo-global/America/Guadeloupe.ics
+SHA1-Digest: LPc9OxmnahDin62hdPBoWow+OS8=
+
+Name: zoneinfo-global/America/Guatemala.ics
+SHA1-Digest: ULYm9f6SIAf8Yytx1YwiVRSF14Y=
+
+Name: zoneinfo-global/America/Guayaquil.ics
+SHA1-Digest: FqvhKiztZ8G6QIynlWr1r9uwxMI=
+
+Name: zoneinfo-global/America/Guyana.ics
+SHA1-Digest: QHaYaAN///+9STuFvl4sLBMuYOE=
+
+Name: zoneinfo-global/America/Halifax.ics
+SHA1-Digest: J/YgKKNBUOo0xQRbic/WMRNcHpA=
+
+Name: zoneinfo-global/America/Havana.ics
+SHA1-Digest: A17b/f8bNFwM6sgiQ4WiAW9aNq8=
+
+Name: zoneinfo-global/America/Hermosillo.ics
+SHA1-Digest: PMoBIbNyN8nI29Whu2Wnj5KHAes=
+
+Name: zoneinfo-global/America/Indiana/Indianapolis.ics
+SHA1-Digest: L0YaeQauQBK5Wg9yqNzYX/HHyhM=
+
+Name: zoneinfo-global/America/Indiana/Knox.ics
+SHA1-Digest: M6dAUMImQDsYeYYDfQolZcCkGR0=
+
+Name: zoneinfo-global/America/Indiana/Marengo.ics
+SHA1-Digest: NhyfkXrkNmAgVKp+uYraSYoyAls=
+
+Name: zoneinfo-global/America/Indiana/Petersburg.ics
+SHA1-Digest: XVWvKmlNSyrcmWQRTRkqFPujlyo=
+
+Name: zoneinfo-global/America/Indiana/Tell_City.ics
+SHA1-Digest: sqpJWpjREPW8IdkUK9cQHGi5KTs=
+
+Name: zoneinfo-global/America/Indiana/Vevay.ics
+SHA1-Digest: P7JxH+93ef21c+IU+H27uM1tCYU=
+
+Name: zoneinfo-global/America/Indiana/Vincennes.ics
+SHA1-Digest: nISd5V3GlIiEXR3D7h3HdSHy4dk=
+
+Name: zoneinfo-global/America/Indiana/Winamac.ics
+SHA1-Digest: 1YFw8kwYHr9ZLt19oRTCLPLD50w=
+
+Name: zoneinfo-global/America/Inuvik.ics
+SHA1-Digest: aaeh3UsVAu1G2fOhlsfgJABDbZs=
+
+Name: zoneinfo-global/America/Iqaluit.ics
+SHA1-Digest: b2aNMXTJvckf5blK+GKe6ehNhD4=
+
+Name: zoneinfo-global/America/Jamaica.ics
+SHA1-Digest: ocqFSzCIbGRbg9NVD2yNlAvLxGg=
+
+Name: zoneinfo-global/America/Juneau.ics
+SHA1-Digest: jz6rABermDHVAaUss3P6wYMT41Q=
+
+Name: zoneinfo-global/America/Kentucky/Louisville.ics
+SHA1-Digest: mYD9sPaZp1XNNo57ABTtRASRpw4=
+
+Name: zoneinfo-global/America/Kentucky/Monticello.ics
+SHA1-Digest: jhHYDhHMGb5zVLfoDeqmHNAxJZ8=
+
+Name: zoneinfo-global/America/Kralendijk.ics
+SHA1-Digest: rpHlk+jLVG9RyTCkWSUoJbTaNjc=
+
+Name: zoneinfo-global/America/La_Paz.ics
+SHA1-Digest: R8qG5J2u4BP0yDtEjxAT/iteBOg=
+
+Name: zoneinfo-global/America/Lima.ics
+SHA1-Digest: ZxVqpxfvIOCDHM4M0nmiogskiR0=
+
+Name: zoneinfo-global/America/Los_Angeles.ics
+SHA1-Digest: eZiJtMFuJEArTpSlRVeIYp9vk74=
+
+Name: zoneinfo-global/America/Lower_Princes.ics
+SHA1-Digest: MX0AosxDnhIp/j9JiFp8PJ4RpG4=
+
+Name: zoneinfo-global/America/Maceio.ics
+SHA1-Digest: Mw21PiimzFrH4z3MJQ5qvf1cYu4=
+
+Name: zoneinfo-global/America/Managua.ics
+SHA1-Digest: MHqqjE2IPF0v/sOsUPvIVw5NT5Q=
+
+Name: zoneinfo-global/America/Manaus.ics
+SHA1-Digest: o6klSmxzsr905PC1VvGh/kJlW0I=
+
+Name: zoneinfo-global/America/Marigot.ics
+SHA1-Digest: UC3gPN1bHRBAf9GPBhCO/AwV9kA=
+
+Name: zoneinfo-global/America/Martinique.ics
+SHA1-Digest: sQzeys7+oj2YXc549D3RDOvHAMY=
+
+Name: zoneinfo-global/America/Matamoros.ics
+SHA1-Digest: yq/nGt0XyUvu8gPfTwUdBdiFq7A=
+
+Name: zoneinfo-global/America/Mazatlan.ics
+SHA1-Digest: KHo3oOA2ogPPlmkyfv1X1S0P7HQ=
+
+Name: zoneinfo-global/America/Menominee.ics
+SHA1-Digest: NhhyzoZmVAlCCCHfoMfgB5+JbpY=
+
+Name: zoneinfo-global/America/Merida.ics
+SHA1-Digest: u8dSpwLCmb3dGzlSGyjlJJfsvf4=
+
+Name: zoneinfo-global/America/Metlakatla.ics
+SHA1-Digest: Ie8ANGW0lsRIfv50rZr0uPeec/o=
+
+Name: zoneinfo-global/America/Mexico_City.ics
+SHA1-Digest: NK9Qe30JoJghNeQl1CC1lF5P3sM=
+
+Name: zoneinfo-global/America/Miquelon.ics
+SHA1-Digest: olVLJUlVA/te5XQ/60JDAshO9BM=
+
+Name: zoneinfo-global/America/Moncton.ics
+SHA1-Digest: 6HT5dmVrU2W2+00RvfgRPHdse8g=
+
+Name: zoneinfo-global/America/Monterrey.ics
+SHA1-Digest: q6ZwE5IwAd/mwHHRp0x6O2Tm+Tc=
+
+Name: zoneinfo-global/America/Montevideo.ics
+SHA1-Digest: kdZV/xb+VO1dwFw5KF3SLYCH2mw=
+
+Name: zoneinfo-global/America/Montserrat.ics
+SHA1-Digest: NwNoEaZt0Db7DyWmLLfwprHsGVc=
+
+Name: zoneinfo-global/America/Nassau.ics
+SHA1-Digest: 4OaovGUR7FInJOPg3rbUuZkGm1I=
+
+Name: zoneinfo-global/America/New_York.ics
+SHA1-Digest: oO26WC+65m9wWdsr+fHXTE3+Z78=
+
+Name: zoneinfo-global/America/Nipigon.ics
+SHA1-Digest: sC7EIMj7fIvbSpY7WgerEaaFOZU=
+
+Name: zoneinfo-global/America/Nome.ics
+SHA1-Digest: PfRD8RO1B0AMhLwCYcNT6wjcoYg=
+
+Name: zoneinfo-global/America/Noronha.ics
+SHA1-Digest: HsfCmO6GPnYs0eUyqRDhUoZIU9U=
+
+Name: zoneinfo-global/America/North_Dakota/Beulah.ics
+SHA1-Digest: 9iKWRLq+J4EN8gWbDzOTHjz2Nr0=
+
+Name: zoneinfo-global/America/North_Dakota/Center.ics
+SHA1-Digest: +ET1efYAT0NqvyH0L75IQSMXUMo=
+
+Name: zoneinfo-global/America/North_Dakota/New_Salem.ics
+SHA1-Digest: hbJaAWB3r4PCgjOI8Q420X3ucio=
+
+Name: zoneinfo-global/America/Ojinaga.ics
+SHA1-Digest: 3y0SdYnTl33nifgEGDeSeW6LXVo=
+
+Name: zoneinfo-global/America/Panama.ics
+SHA1-Digest: kDhr9ayRq5y9lTU0Sr0WWKAOxqc=
+
+Name: zoneinfo-global/America/Pangnirtung.ics
+SHA1-Digest: q3liImgeSkArszaZTFMOmwDQcIw=
+
+Name: zoneinfo-global/America/Paramaribo.ics
+SHA1-Digest: QgYUdZhJz4JgaOrqMX/4Lr1jOfc=
+
+Name: zoneinfo-global/America/Phoenix.ics
+SHA1-Digest: 1GWd5fVBM0bvSodyCVV9T2Dmqz0=
+
+Name: zoneinfo-global/America/Port-au-Prince.ics
+SHA1-Digest: D589l126YWGYtWWCE2Oa7eKbth4=
+
+Name: zoneinfo-global/America/Port_of_Spain.ics
+SHA1-Digest: am4gUnnxOzQ1j1iyc6ajWLWCMe0=
+
+Name: zoneinfo-global/America/Porto_Velho.ics
+SHA1-Digest: ay8DoVxB6div2s/45wLtjC0fWiU=
+
+Name: zoneinfo-global/America/Puerto_Rico.ics
+SHA1-Digest: di5yH5zqr6/d0H+8fg7j5YlCHS0=
+
+Name: zoneinfo-global/America/Rainy_River.ics
+SHA1-Digest: /RjvrzGxBRQScLV0ocxhJfmm9jQ=
+
+Name: zoneinfo-global/America/Rankin_Inlet.ics
+SHA1-Digest: cO0tWdwPck7g5yAr0Zt/H+Z4NFA=
+
+Name: zoneinfo-global/America/Recife.ics
+SHA1-Digest: f08y94nJgBtcL+VdkTrw82BNkEY=
+
+Name: zoneinfo-global/America/Regina.ics
+SHA1-Digest: Avd/6HPuit8ptXkV0/X3b7AtGh0=
+
+Name: zoneinfo-global/America/Resolute.ics
+SHA1-Digest: hm7pHXYLo+MUn1wyB795ARjP6SA=
+
+Name: zoneinfo-global/America/Rio_Branco.ics
+SHA1-Digest: 1LDrXYFcDClqoa2Z/H/Gg5nuwNI=
+
+Name: zoneinfo-global/America/Santa_Isabel.ics
+SHA1-Digest: 9jInkqPYC2LUJX3DOZpxF3o0BEI=
+
+Name: zoneinfo-global/America/Santarem.ics
+SHA1-Digest: fvDGk62muOyZ/5zFCNa4lOBqeng=
+
+Name: zoneinfo-global/America/Santiago.ics
+SHA1-Digest: Qk2Cc7lHB1ZwZenGxEqrOt9eKxg=
+
+Name: zoneinfo-global/America/Santo_Domingo.ics
+SHA1-Digest: cENTR4lNrsR2MKdnZBz7jtxKPcw=
+
+Name: zoneinfo-global/America/Sao_Paulo.ics
+SHA1-Digest: gf3bEqj9W92yb45/6EuVhYlu828=
+
+Name: zoneinfo-global/America/Scoresbysund.ics
+SHA1-Digest: rBgw+RUUreJeqUExpQz8OzFKp1Y=
+
+Name: zoneinfo-global/America/Sitka.ics
+SHA1-Digest: X+UwDlmHK92z182H8WJTM+YbYRA=
+
+Name: zoneinfo-global/America/St_Barthelemy.ics
+SHA1-Digest: KBOg4Ypus3l3Y6lOT8xS4rIgAMU=
+
+Name: zoneinfo-global/America/St_Johns.ics
+SHA1-Digest: 56rca7ksC4Dcu08gWssG1nPywqw=
+
+Name: zoneinfo-global/America/St_Kitts.ics
+SHA1-Digest: z91REkCYwXBOJBTt3+auCZSbtyc=
+
+Name: zoneinfo-global/America/St_Lucia.ics
+SHA1-Digest: XqWKXptkoSFsOSXl8cUQnEcnJ5k=
+
+Name: zoneinfo-global/America/St_Thomas.ics
+SHA1-Digest: yLsSRYbT/4Breskn5AoW/PbHPsc=
+
+Name: zoneinfo-global/America/St_Vincent.ics
+SHA1-Digest: lP3onHILbMDGws8YUjYysaCKmRE=
+
+Name: zoneinfo-global/America/Swift_Current.ics
+SHA1-Digest: AhGTDfz9K0a3Ty2UhF4RC3KO39g=
+
+Name: zoneinfo-global/America/Tegucigalpa.ics
+SHA1-Digest: fiTioEg/+IjNGAGXrSZmBOvS+r4=
+
+Name: zoneinfo-global/America/Thule.ics
+SHA1-Digest: o5ZjGQNghuTDzKCbukvXdGwgmhU=
+
+Name: zoneinfo-global/America/Thunder_Bay.ics
+SHA1-Digest: kSpUNDhRC5Y1FIhgW7MghokoWoc=
+
+Name: zoneinfo-global/America/Tijuana.ics
+SHA1-Digest: 0mUulAJqmil3r4pgyICxO9qmyck=
+
+Name: zoneinfo-global/America/Toronto.ics
+SHA1-Digest: clefluheJ57TDaA04i2tg0l3z4w=
+
+Name: zoneinfo-global/America/Tortola.ics
+SHA1-Digest: g1Mjlj90oOJ0HWIyhA+UHr85Xeo=
+
+Name: zoneinfo-global/America/Vancouver.ics
+SHA1-Digest: yZ+AAPlmFQ6NePza95Bfjzg8WHw=
+
+Name: zoneinfo-global/America/Whitehorse.ics
+SHA1-Digest: +yjXfBbZ/NXzMVKg7Bh64FDIaqo=
+
+Name: zoneinfo-global/America/Winnipeg.ics
+SHA1-Digest: FbGoBhMKzXDIQhyp+/2Q57C1Pqo=
+
+Name: zoneinfo-global/America/Yakutat.ics
+SHA1-Digest: wDoZzUjYyUPfkEpM5mEmN7hX690=
+
+Name: zoneinfo-global/America/Yellowknife.ics
+SHA1-Digest: ++SmNvG1qdZznaUNc/cpGcak9NM=
+
+Name: zoneinfo-global/Antarctica/Casey.ics
+SHA1-Digest: W2aHJssSzM0GgNPs+vE59nK0iyU=
+
+Name: zoneinfo-global/Antarctica/Davis.ics
+SHA1-Digest: QfD9id1TCKB6ex5KvJzGtn99S+0=
+
+Name: zoneinfo-global/Antarctica/DumontDUrville.ics
+SHA1-Digest: 64ELd6pl3k05ww5TEzfpyrVPvCs=
+
+Name: zoneinfo-global/Antarctica/Macquarie.ics
+SHA1-Digest: u+WGI8rSFSug+/fdvE0kxDJpTBA=
+
+Name: zoneinfo-global/Antarctica/Mawson.ics
+SHA1-Digest: TB1mFK+NV9rkJeX8snujFVPhS/Q=
+
+Name: zoneinfo-global/Antarctica/McMurdo.ics
+SHA1-Digest: fG5e+anq0PbkNIkZzjAHFIvzihg=
+
+Name: zoneinfo-global/Antarctica/Palmer.ics
+SHA1-Digest: /gf4IFtzZoAys6zYYw22Z5s+vA8=
+
+Name: zoneinfo-global/Antarctica/Rothera.ics
+SHA1-Digest: yF/P28Xd7SoR6K7vm5ZsYw0oviE=
+
+Name: zoneinfo-global/Antarctica/Syowa.ics
+SHA1-Digest: peAyEJbuP+FTyUvUTG5XL1z0B6I=
+
+Name: zoneinfo-global/Antarctica/Troll.ics
+SHA1-Digest: p1cLngnVUEXmEQguOowe+H1IuTs=
+
+Name: zoneinfo-global/Antarctica/Vostok.ics
+SHA1-Digest: Wgwdi4ZZB6PY9NxFqJKqScebA8U=
+
+Name: zoneinfo-global/Arctic/Longyearbyen.ics
+SHA1-Digest: UZkSdxWKAdiozFtxl1MZP+AZ6EU=
+
+Name: zoneinfo-global/Asia/Aden.ics
+SHA1-Digest: 43VIdmM/nluclyPiKRrHaDNX5bs=
+
+Name: zoneinfo-global/Asia/Almaty.ics
+SHA1-Digest: 8KstS6nv1IbcQdFvA3IUZG8OgDo=
+
+Name: zoneinfo-global/Asia/Amman.ics
+SHA1-Digest: 9ThLtLC65a1ZpDaEo0urWJOU1Vo=
+
+Name: zoneinfo-global/Asia/Anadyr.ics
+SHA1-Digest: pa6XSeiSJf7/4qcbDfZbytwhFJA=
+
+Name: zoneinfo-global/Asia/Aqtau.ics
+SHA1-Digest: WXDRE+RrAZryWhQjnlJGEmis48s=
+
+Name: zoneinfo-global/Asia/Aqtobe.ics
+SHA1-Digest: /vS6Tp1wX/aRTt473cM2Ka3yZMM=
+
+Name: zoneinfo-global/Asia/Ashgabat.ics
+SHA1-Digest: qM/v+/GuE5ZRjZd3fV8QLZXxr98=
+
+Name: zoneinfo-global/Asia/Baghdad.ics
+SHA1-Digest: 3tGuqe3+/Nj3HpKWLMlaCzZvQFE=
+
+Name: zoneinfo-global/Asia/Bahrain.ics
+SHA1-Digest: ROdyo3sx1eN/enfQ9ZKMO9qMN8g=
+
+Name: zoneinfo-global/Asia/Baku.ics
+SHA1-Digest: wTZCzQplBaoJlR/xVqVA5+Cfuo0=
+
+Name: zoneinfo-global/Asia/Bangkok.ics
+SHA1-Digest: 4cq9XBT/cqTZpdYrIYz3IzXbohQ=
+
+Name: zoneinfo-global/Asia/Beirut.ics
+SHA1-Digest: rnTlMTGq2xJ2A7u99wc0/y1wX+o=
+
+Name: zoneinfo-global/Asia/Bishkek.ics
+SHA1-Digest: p5ichtaag1cDsep/xb1TRlKyjqg=
+
+Name: zoneinfo-global/Asia/Brunei.ics
+SHA1-Digest: RPZMPEC6WQ/lcJUosExHa/UBrqc=
+
+Name: zoneinfo-global/Asia/Chita.ics
+SHA1-Digest: OUHIrqorRnMcA03DsYvBI/XOhyg=
+
+Name: zoneinfo-global/Asia/Choibalsan.ics
+SHA1-Digest: DdNArdLzCtu57NcFuQ881k623Mw=
+
+Name: zoneinfo-global/Asia/Colombo.ics
+SHA1-Digest: QNCQlwjYHOwoTaRg4aN1o7wwac8=
+
+Name: zoneinfo-global/Asia/Damascus.ics
+SHA1-Digest: CVWO6GldN5Uqbmp8ItsA5etRk54=
+
+Name: zoneinfo-global/Asia/Dhaka.ics
+SHA1-Digest: qiPleTmWLJTU1wGzRlPac57EBEw=
+
+Name: zoneinfo-global/Asia/Dili.ics
+SHA1-Digest: EvvMr1nDF6Mgo9UzAWi7JjSwMu8=
+
+Name: zoneinfo-global/Asia/Dubai.ics
+SHA1-Digest: B5B9zLxx7GCdFhpFjYI0YJ4H5Qk=
+
+Name: zoneinfo-global/Asia/Dushanbe.ics
+SHA1-Digest: J2K3g9Ao4gfy0WKs8h+SnFAH2+I=
+
+Name: zoneinfo-global/Asia/Gaza.ics
+SHA1-Digest: C9jDm1qSsNmQBIGDwm5CnT6jPe0=
+
+Name: zoneinfo-global/Asia/Hebron.ics
+SHA1-Digest: ui/dVqGbVFP06vOn1CoCHbd0SZs=
+
+Name: zoneinfo-global/Asia/Ho_Chi_Minh.ics
+SHA1-Digest: opS6nPLnL3007VMqyn113Z/vdgs=
+
+Name: zoneinfo-global/Asia/Hong_Kong.ics
+SHA1-Digest: 05LU1n5psrQjrNCweg5gkYbSUUA=
+
+Name: zoneinfo-global/Asia/Hovd.ics
+SHA1-Digest: SdFFkfAJT6Q4NDxoETmY2tb1uSE=
+
+Name: zoneinfo-global/Asia/Irkutsk.ics
+SHA1-Digest: HbU1EycCy/3WmYmPBjeap+0h1bI=
+
+Name: zoneinfo-global/Asia/Istanbul.ics
+SHA1-Digest: 1Uy2k7KKEpWH3ExH3nttRhbwkTM=
+
+Name: zoneinfo-global/Asia/Jakarta.ics
+SHA1-Digest: 33RtkV3ev5U4l5S0qYFZ0H8BC8w=
+
+Name: zoneinfo-global/Asia/Jayapura.ics
+SHA1-Digest: XJ2hBdGtgYeCu/RZ68PrIv8Zlg0=
+
+Name: zoneinfo-global/Asia/Jerusalem.ics
+SHA1-Digest: qpNpaTeydvr70T4YCxtnHYfE9/Q=
+
+Name: zoneinfo-global/Asia/Kabul.ics
+SHA1-Digest: zGCDK4wfOBq3Zqzh3O7Td6J0pnY=
+
+Name: zoneinfo-global/Asia/Kamchatka.ics
+SHA1-Digest: oDkp487qucMIOrNeXDQwGvpxuRk=
+
+Name: zoneinfo-global/Asia/Karachi.ics
+SHA1-Digest: uZHHfsP3qOGb6qlyTFzsmVoKW94=
+
+Name: zoneinfo-global/Asia/Kathmandu.ics
+SHA1-Digest: 3nEisZpNhnDs6XsdNC280bpCwZo=
+
+Name: zoneinfo-global/Asia/Khandyga.ics
+SHA1-Digest: /b2SbktDdsZ7hfoocmrtOWX9Ac0=
+
+Name: zoneinfo-global/Asia/Kolkata.ics
+SHA1-Digest: KbePnvZF1OQdwVi+9nrBh6HjnhA=
+
+Name: zoneinfo-global/Asia/Krasnoyarsk.ics
+SHA1-Digest: 3enyZYO4BA/4dLhr0Nf3TauiSLw=
+
+Name: zoneinfo-global/Asia/Kuala_Lumpur.ics
+SHA1-Digest: ju7p/tjcvfKea7BdCMGBwVYckd8=
+
+Name: zoneinfo-global/Asia/Kuching.ics
+SHA1-Digest: Sdi8MoLI2LrVcGraXMPe4zf1jqY=
+
+Name: zoneinfo-global/Asia/Kuwait.ics
+SHA1-Digest: eoZICl6hNkzcaJwioK9yPoGV+WQ=
+
+Name: zoneinfo-global/Asia/Macau.ics
+SHA1-Digest: hVOIm5dtrmV3TckCEp4KQpVqgLY=
+
+Name: zoneinfo-global/Asia/Magadan.ics
+SHA1-Digest: Z4gsB6TfrOSA7wNBX1RNO0b0hto=
+
+Name: zoneinfo-global/Asia/Makassar.ics
+SHA1-Digest: 2dFb3XOwojrPz4B+OOC7EB1smHo=
+
+Name: zoneinfo-global/Asia/Manila.ics
+SHA1-Digest: okPFdgJE9VLLZgv6oqTp0Y4rGa0=
+
+Name: zoneinfo-global/Asia/Muscat.ics
+SHA1-Digest: tWIPD3Tz6hU2msX3aVV7MFQ4AuQ=
+
+Name: zoneinfo-global/Asia/Nicosia.ics
+SHA1-Digest: uym+Ye3ZfMAnEcZtXMr5t1egaK4=
+
+Name: zoneinfo-global/Asia/Novokuznetsk.ics
+SHA1-Digest: r2KR1e17QJoi02S9qhHiXdMuE08=
+
+Name: zoneinfo-global/Asia/Novosibirsk.ics
+SHA1-Digest: BuBebFgrmCwXWzJvkM0LESYS5Yg=
+
+Name: zoneinfo-global/Asia/Omsk.ics
+SHA1-Digest: NqztN18R/BLHn2/Qp7yBToBySjk=
+
+Name: zoneinfo-global/Asia/Oral.ics
+SHA1-Digest: rtoIjYcTuyEg8gw9sGhmjPiBUMI=
+
+Name: zoneinfo-global/Asia/Phnom_Penh.ics
+SHA1-Digest: 8YyLuy84+Wow4443gsQjU2ESfwU=
+
+Name: zoneinfo-global/Asia/Pontianak.ics
+SHA1-Digest: Hi+W0FgW5ymGS+DDYzZ7Nuhby7I=
+
+Name: zoneinfo-global/Asia/Pyongyang.ics
+SHA1-Digest: +n3QQTrICGxPIkFUBNZnFS/V/Fk=
+
+Name: zoneinfo-global/Asia/Qatar.ics
+SHA1-Digest: Sx5gTTwsL8BwgNEplx3xN6UEbNI=
+
+Name: zoneinfo-global/Asia/Qyzylorda.ics
+SHA1-Digest: qHN+Td/yRi+h7dZi2dTO0miru90=
+
+Name: zoneinfo-global/Asia/Rangoon.ics
+SHA1-Digest: HuNS2FVXWQ8/flXQP2u9p+5Zuig=
+
+Name: zoneinfo-global/Asia/Riyadh.ics
+SHA1-Digest: VJiUrEWfF32oM65JWj0vLxUUgok=
+
+Name: zoneinfo-global/Asia/Sakhalin.ics
+SHA1-Digest: Jx9fVKAd0nTWVV8eMgHMzM+pFTo=
+
+Name: zoneinfo-global/Asia/Samarkand.ics
+SHA1-Digest: 6l18IUUYDoOHQJIO7odP1/QweKs=
+
+Name: zoneinfo-global/Asia/Seoul.ics
+SHA1-Digest: r5bjyjy4i3AdAAvIHxUZi6j5tkI=
+
+Name: zoneinfo-global/Asia/Shanghai.ics
+SHA1-Digest: IZlYApInhwVl2UD1LOeVmMtIjSA=
+
+Name: zoneinfo-global/Asia/Singapore.ics
+SHA1-Digest: 73Hm9KKvkQRJEsGyNojm0OrJmb4=
+
+Name: zoneinfo-global/Asia/Srednekolymsk.ics
+SHA1-Digest: oSAV01xsNkVFsgbnhu78kiEXo3w=
+
+Name: zoneinfo-global/Asia/Taipei.ics
+SHA1-Digest: w+gVggCJ2AQM2CUVAt9DhNeCabc=
+
+Name: zoneinfo-global/Asia/Tashkent.ics
+SHA1-Digest: 1Ci1oQGFM/F/oQ3gBlBE1vX1CYo=
+
+Name: zoneinfo-global/Asia/Tbilisi.ics
+SHA1-Digest: 7CEY97lijAPjhsrg+IWvCrS5aSY=
+
+Name: zoneinfo-global/Asia/Tehran.ics
+SHA1-Digest: /3Fa8ju13Ln0E/K5LkxQYl4Kn4U=
+
+Name: zoneinfo-global/Asia/Thimphu.ics
+SHA1-Digest: NPyAGvvQNFgKBwquWJRcO0tK1Z8=
+
+Name: zoneinfo-global/Asia/Tokyo.ics
+SHA1-Digest: nrpqVHUN5VLsC7q1fKJXShmytjk=
+
+Name: zoneinfo-global/Asia/Ulaanbaatar.ics
+SHA1-Digest: sUiPtQshOWTJ9zQJkYDAK1OTNrs=
+
+Name: zoneinfo-global/Asia/Urumqi.ics
+SHA1-Digest: i+ALQh2S+HvZoTeEKd8rpeAITmM=
+
+Name: zoneinfo-global/Asia/Ust-Nera.ics
+SHA1-Digest: s1gPe/7olQx5MWa/Q2vqZGIdqbs=
+
+Name: zoneinfo-global/Asia/Vientiane.ics
+SHA1-Digest: R/P1f5vQf4FiwmqMx9UJGqVk1DY=
+
+Name: zoneinfo-global/Asia/Vladivostok.ics
+SHA1-Digest: 2wm/QZ8d1L9l+vJBl73o0qsBKR0=
+
+Name: zoneinfo-global/Asia/Yakutsk.ics
+SHA1-Digest: b9qoK0Uhf4UCgjSe0cTikhaQ4kE=
+
+Name: zoneinfo-global/Asia/Yekaterinburg.ics
+SHA1-Digest: 4vSESoL6Lg6ZOaxip7kpqu2pSPg=
+
+Name: zoneinfo-global/Asia/Yerevan.ics
+SHA1-Digest: kRdp9fUUqpReeOeTPT4gAz1vkLA=
+
+Name: zoneinfo-global/Atlantic/Azores.ics
+SHA1-Digest: j5RCY1An9HtoZTVw+yaiA8gWz0Q=
+
+Name: zoneinfo-global/Atlantic/Bermuda.ics
+SHA1-Digest: Y/9oJFiJiB2VHNvi2CBzvZKI/X8=
+
+Name: zoneinfo-global/Atlantic/Canary.ics
+SHA1-Digest: xSylLQgqDvI4Urkeb04vFRIW1M4=
+
+Name: zoneinfo-global/Atlantic/Cape_Verde.ics
+SHA1-Digest: EIHJJVBsFQ6YRrZvF2gDCDHSuyo=
+
+Name: zoneinfo-global/Atlantic/Faroe.ics
+SHA1-Digest: JJfP8SNdBAdnmDtUzCyMF5+BxTY=
+
+Name: zoneinfo-global/Atlantic/Madeira.ics
+SHA1-Digest: /maMdp3ACb8eQvaU0Hkn9tSEpzc=
+
+Name: zoneinfo-global/Atlantic/Reykjavik.ics
+SHA1-Digest: /e2pyEiVrNuIKk/NPZzkyaT+iaM=
+
+Name: zoneinfo-global/Atlantic/South_Georgia.ics
+SHA1-Digest: PMJYX/BiqS5APcoag2kN3Ui1c0A=
+
+Name: zoneinfo-global/Atlantic/St_Helena.ics
+SHA1-Digest: EdBpElSOwtklR3fRK5b10/hYvlk=
+
+Name: zoneinfo-global/Atlantic/Stanley.ics
+SHA1-Digest: lpQab6T5WCtCtrrvZLKvEQ20qP8=
+
+Name: zoneinfo-global/Australia/Adelaide.ics
+SHA1-Digest: J+8Nr9RZ2kGJXTq8JpU2jrpEnGg=
+
+Name: zoneinfo-global/Australia/Brisbane.ics
+SHA1-Digest: +4GDiCEztH8LSiG/eWTx8qbqZgM=
+
+Name: zoneinfo-global/Australia/Broken_Hill.ics
+SHA1-Digest: 0ePEFf7/8mKzjcKD9JDl4YjZe6Y=
+
+Name: zoneinfo-global/Australia/Currie.ics
+SHA1-Digest: v23AL/PsQvgT83b31sQZ0S+5R4c=
+
+Name: zoneinfo-global/Australia/Darwin.ics
+SHA1-Digest: XIh2UAhH74mrfhE3kSXGdoWrXkE=
+
+Name: zoneinfo-global/Australia/Eucla.ics
+SHA1-Digest: kTbjq9/HPCqcfmhQGjOkaKzB9TE=
+
+Name: zoneinfo-global/Australia/Hobart.ics
+SHA1-Digest: DO4GMW3NnNEijpRgNqfGVmvqwA0=
+
+Name: zoneinfo-global/Australia/Lindeman.ics
+SHA1-Digest: JGRz0HRU9LQDJNM6nH7yZa/RZMQ=
+
+Name: zoneinfo-global/Australia/Lord_Howe.ics
+SHA1-Digest: eYi33873qCn/F/8b0eRDvoseimg=
+
+Name: zoneinfo-global/Australia/Melbourne.ics
+SHA1-Digest: WJXhoBml5Z6h9wicgzJZSpEYqHk=
+
+Name: zoneinfo-global/Australia/Perth.ics
+SHA1-Digest: AJ0/rfiVh0WXsWAsfGbvzrHEDQw=
+
+Name: zoneinfo-global/Australia/Sydney.ics
+SHA1-Digest: gOxpMcFhWtfbGO1oQBdMagzXeig=
+
+Name: zoneinfo-global/Etc/GMT+0.ics
+SHA1-Digest: SYTrLVIMI9UeV5jsOClqNh9mZXA=
+
+Name: zoneinfo-global/Etc/GMT+1.ics
+SHA1-Digest: H/59aFYJirG/HJL4RLzTN0fOSwc=
+
+Name: zoneinfo-global/Etc/GMT+10.ics
+SHA1-Digest: I3ebwpiDmKUURu4p46szuF15A2M=
+
+Name: zoneinfo-global/Etc/GMT+11.ics
+SHA1-Digest: 0rwvkviKWEdEWdbIQcsguzCo+eA=
+
+Name: zoneinfo-global/Etc/GMT+12.ics
+SHA1-Digest: Z3nSV9QrvuZUyvYMjYf16Ke1BKk=
+
+Name: zoneinfo-global/Etc/GMT+2.ics
+SHA1-Digest: n1OOe/l2KjxlMSdBGQjWC3BX2uc=
+
+Name: zoneinfo-global/Etc/GMT+3.ics
+SHA1-Digest: rbi60XnMw2tejn2b7shJeWxNwOQ=
+
+Name: zoneinfo-global/Etc/GMT+4.ics
+SHA1-Digest: aZKIDnQiP9y2pnIjrBGUDZCOAdY=
+
+Name: zoneinfo-global/Etc/GMT+5.ics
+SHA1-Digest: dHxfxdAvDjaHb4W2VXdNIhvpKww=
+
+Name: zoneinfo-global/Etc/GMT+6.ics
+SHA1-Digest: eQ5sTBNKDrJRuak/PZwiUKoUE0Q=
+
+Name: zoneinfo-global/Etc/GMT+7.ics
+SHA1-Digest: eZoGRDUZSibDEfZHK7bzkG0oZVo=
+
+Name: zoneinfo-global/Etc/GMT+8.ics
+SHA1-Digest: 08d2/fDYPY+SR77e6VrlgB4P4as=
+
+Name: zoneinfo-global/Etc/GMT+9.ics
+SHA1-Digest: OmsazQPLBT3ynCcNBPSIATaUsxk=
+
+Name: zoneinfo-global/Etc/GMT-0.ics
+SHA1-Digest: UxIMiSCa7Bstd/GBknewugilxqk=
+
+Name: zoneinfo-global/Etc/GMT-1.ics
+SHA1-Digest: X8stGeK6X5XRndBsctRBrOdmDH0=
+
+Name: zoneinfo-global/Etc/GMT-10.ics
+SHA1-Digest: G6gtLRUNRXdDEQkHiF4m333FF0w=
+
+Name: zoneinfo-global/Etc/GMT-11.ics
+SHA1-Digest: x4xmW+YTlrG7B6567d5NUtNR88o=
+
+Name: zoneinfo-global/Etc/GMT-12.ics
+SHA1-Digest: LwKZf9Yjeam8wh9qJmpDwbmnzGg=
+
+Name: zoneinfo-global/Etc/GMT-13.ics
+SHA1-Digest: 9THXt1hvTD+xwiNScyzvl2jVmjE=
+
+Name: zoneinfo-global/Etc/GMT-14.ics
+SHA1-Digest: pYK40tM3Es4Ac9tuM2xcmMULxOQ=
+
+Name: zoneinfo-global/Etc/GMT-2.ics
+SHA1-Digest: 9GVphb5CpkUSXXm6TdNr8SrFk5I=
+
+Name: zoneinfo-global/Etc/GMT-3.ics
+SHA1-Digest: bYMGcxLiu7QCOt0kj8cKZeIrpwo=
+
+Name: zoneinfo-global/Etc/GMT-4.ics
+SHA1-Digest: 7R3SiJgtvshzZqBkqFTzHFruCus=
+
+Name: zoneinfo-global/Etc/GMT-5.ics
+SHA1-Digest: ilY/P3D+3/lpb2aLaKFrYCs/lKY=
+
+Name: zoneinfo-global/Etc/GMT-6.ics
+SHA1-Digest: tssoXCNhoY4QLJTUykgh4ecNWqU=
+
+Name: zoneinfo-global/Etc/GMT-7.ics
+SHA1-Digest: 7TQ8o5pBpUNHPbnsb8IKfZIQZgY=
+
+Name: zoneinfo-global/Etc/GMT-8.ics
+SHA1-Digest: X9x9b54ChnVsd0oZjg0My95x984=
+
+Name: zoneinfo-global/Etc/GMT-9.ics
+SHA1-Digest: t+8AcvrVsdUF5CTPi9rWWnDEsNA=
+
+Name: zoneinfo-global/Etc/GMT.ics
+SHA1-Digest: 4G3AuAmbst5H8ael3bHvSe++2Ag=
+
+Name: zoneinfo-global/Etc/GMT0.ics
+SHA1-Digest: j/ofkYcZCEzNMwAtRf4n2AspgOo=
+
+Name: zoneinfo-global/Etc/Greenwich.ics
+SHA1-Digest: P+6xBit5tSI7GPCIZMDvNKSnhxo=
+
+Name: zoneinfo-global/Etc/UCT.ics
+SHA1-Digest: GcbvA/eIT9ZLOeSKovwBgpA58Uo=
+
+Name: zoneinfo-global/Etc/UTC.ics
+SHA1-Digest: 9kWlDSpbJXzoriLo9SnyR4Idmmw=
+
+Name: zoneinfo-global/Etc/Universal.ics
+SHA1-Digest: v68iUf5ZzFXjGfnsiNqrEp0t0Ck=
+
+Name: zoneinfo-global/Etc/Zulu.ics
+SHA1-Digest: NOoqJCVRZkf0voaErVqt3CNe4qw=
+
+Name: zoneinfo-global/Europe/Amsterdam.ics
+SHA1-Digest: T7XZMdv3GlZrb+f/ZeElTFr/S+A=
+
+Name: zoneinfo-global/Europe/Andorra.ics
+SHA1-Digest: 7zKl27NNeBz+JiybE2SPQlfJFFM=
+
+Name: zoneinfo-global/Europe/Athens.ics
+SHA1-Digest: rUrJfLjuct2QmSlev6jbfjP8ECE=
+
+Name: zoneinfo-global/Europe/Belgrade.ics
+SHA1-Digest: GHphPL8dpDnPpj/okM0f7Q5jNiY=
+
+Name: zoneinfo-global/Europe/Berlin.ics
+SHA1-Digest: sIQ0rJhZy/zZ2DX2jw5x1aO39vk=
+
+Name: zoneinfo-global/Europe/Bratislava.ics
+SHA1-Digest: unoPAMMedRV/SE+Zv43/+4toprM=
+
+Name: zoneinfo-global/Europe/Brussels.ics
+SHA1-Digest: yhR7wwYx9QR3XgFhs6aFjpbWksY=
+
+Name: zoneinfo-global/Europe/Bucharest.ics
+SHA1-Digest: 7XAgztz2xkNdJ2v5Rmm1XD2AX90=
+
+Name: zoneinfo-global/Europe/Budapest.ics
+SHA1-Digest: j2cfnvKRpiP+d09oD580Bv5fhNA=
+
+Name: zoneinfo-global/Europe/Busingen.ics
+SHA1-Digest: 0XN0NO4EIh9cRIh+zB4o29CNsKI=
+
+Name: zoneinfo-global/Europe/Chisinau.ics
+SHA1-Digest: EvGPWceVnwIO5g/i0h3mtrQydzY=
+
+Name: zoneinfo-global/Europe/Copenhagen.ics
+SHA1-Digest: 2o6ImKaJqoMQkH+SB+H7KXtf0KU=
+
+Name: zoneinfo-global/Europe/Dublin.ics
+SHA1-Digest: kQtIuHtfZG/hI8ZdWxC/IP/UK2w=
+
+Name: zoneinfo-global/Europe/Gibraltar.ics
+SHA1-Digest: NNlju7PE1wkarXJq5bKGHfKQb2A=
+
+Name: zoneinfo-global/Europe/Guernsey.ics
+SHA1-Digest: VLVZoO7rlb4vlSwjLLRq1cNzQLM=
+
+Name: zoneinfo-global/Europe/Helsinki.ics
+SHA1-Digest: CsdM3/MKZNnq0d+hozLS44AqDvw=
+
+Name: zoneinfo-global/Europe/Isle_of_Man.ics
+SHA1-Digest: 4MlO7rvVwCg0J4lOelksiPOidTc=
+
+Name: zoneinfo-global/Europe/Istanbul.ics
+SHA1-Digest: 4g5vrwnRuzELqhk5Hcgqw0UCvFI=
+
+Name: zoneinfo-global/Europe/Jersey.ics
+SHA1-Digest: PCkUEsBgeiQZjnfGnjpSEl4OMOA=
+
+Name: zoneinfo-global/Europe/Kaliningrad.ics
+SHA1-Digest: j42ztj+8s6QeNcTxY5824W8xzHw=
+
+Name: zoneinfo-global/Europe/Kiev.ics
+SHA1-Digest: cqNfnFBCT/MoJhGDz8kdpmmFoEA=
+
+Name: zoneinfo-global/Europe/Lisbon.ics
+SHA1-Digest: GYcUUbXkN5EFFz9xjJCsRGjl9Nc=
+
+Name: zoneinfo-global/Europe/Ljubljana.ics
+SHA1-Digest: GvtytklfPfmq1ZGwLXMimlI47jw=
+
+Name: zoneinfo-global/Europe/London.ics
+SHA1-Digest: rn0Wtt1jRJRM3tOZV9odW1MKMDY=
+
+Name: zoneinfo-global/Europe/Luxembourg.ics
+SHA1-Digest: eZqWuzWo2calFzjyAfYIQLTsWcY=
+
+Name: zoneinfo-global/Europe/Madrid.ics
+SHA1-Digest: pYpM+0dpm8X6FBmQeyFkzQLasQo=
+
+Name: zoneinfo-global/Europe/Malta.ics
+SHA1-Digest: /gOdTS2z7u5dXx7r6aDTJowuxbE=
+
+Name: zoneinfo-global/Europe/Mariehamn.ics
+SHA1-Digest: MEsy1sDrxVFloMrPjKFNFpfw8cU=
+
+Name: zoneinfo-global/Europe/Minsk.ics
+SHA1-Digest: rP9g2RO8evbN4BEeZ55CqNaWpA8=
+
+Name: zoneinfo-global/Europe/Monaco.ics
+SHA1-Digest: vjUbycq3g4/gPvyZyNEx8suvdHU=
+
+Name: zoneinfo-global/Europe/Moscow.ics
+SHA1-Digest: HyQcRJiO6szi420aYHAv1BAchdg=
+
+Name: zoneinfo-global/Europe/Nicosia.ics
+SHA1-Digest: nCXXanlD3jScl/jBcmqSAtE2uZI=
+
+Name: zoneinfo-global/Europe/Oslo.ics
+SHA1-Digest: PQJ7mOgpQA4gCaIUoLils7ThMp8=
+
+Name: zoneinfo-global/Europe/Paris.ics
+SHA1-Digest: lJNrKP1tdJSDX2kec8z15xObiO8=
+
+Name: zoneinfo-global/Europe/Podgorica.ics
+SHA1-Digest: 7CUUzWFEKajRgrrPNJDhuSYHtFw=
+
+Name: zoneinfo-global/Europe/Prague.ics
+SHA1-Digest: q7pa+NCO6c8YEW1Z+GgTl6HSkMQ=
+
+Name: zoneinfo-global/Europe/Riga.ics
+SHA1-Digest: WWpdhQLYvQV5N89cDEaa82IiwDc=
+
+Name: zoneinfo-global/Europe/Rome.ics
+SHA1-Digest: CiHlv+iF9pA8hoQoc1e48XAUfN8=
+
+Name: zoneinfo-global/Europe/Samara.ics
+SHA1-Digest: s0uRKDVbJZeXxW1vHvYYLPNobNA=
+
+Name: zoneinfo-global/Europe/San_Marino.ics
+SHA1-Digest: MZqoRn8t9q8PEgKwXEcLv2RArVc=
+
+Name: zoneinfo-global/Europe/Sarajevo.ics
+SHA1-Digest: aYv+i7McXgBJ0ecJSC1ryGOpHh4=
+
+Name: zoneinfo-global/Europe/Simferopol.ics
+SHA1-Digest: BAUq964bQZxubymKlCsFHLE0hzs=
+
+Name: zoneinfo-global/Europe/Skopje.ics
+SHA1-Digest: PEQD0d3FKWxXkzYZsLmKKo9ZWmQ=
+
+Name: zoneinfo-global/Europe/Sofia.ics
+SHA1-Digest: 99jd3INu0EJGOeZNX/KQrvV90qs=
+
+Name: zoneinfo-global/Europe/Stockholm.ics
+SHA1-Digest: qLkYFyrxgoLYe/d2yxNd/R2L3nA=
+
+Name: zoneinfo-global/Europe/Tallinn.ics
+SHA1-Digest: M7evu4zOYl8YOwFwMJj5pOtnqkk=
+
+Name: zoneinfo-global/Europe/Tirane.ics
+SHA1-Digest: gyIzU4RV3SWOANI8XeQjx02XRjw=
+
+Name: zoneinfo-global/Europe/Uzhgorod.ics
+SHA1-Digest: yMt1jfaWI7c3WmfqIMWPPaD2l6E=
+
+Name: zoneinfo-global/Europe/Vaduz.ics
+SHA1-Digest: c/Fg2QbWgTrzrTJJjU59J0twT/k=
+
+Name: zoneinfo-global/Europe/Vatican.ics
+SHA1-Digest: Io33w9G5Nb6NEhNXVHWila6NzeI=
+
+Name: zoneinfo-global/Europe/Vienna.ics
+SHA1-Digest: 4Q6ltN/1fjuDLuaDTk7HEKlPoy0=
+
+Name: zoneinfo-global/Europe/Vilnius.ics
+SHA1-Digest: MGWYg7sLZe7VXDedD/nAqXx6C7M=
+
+Name: zoneinfo-global/Europe/Volgograd.ics
+SHA1-Digest: w7wgzXWuSgKkUcuTkniI52EufHE=
+
+Name: zoneinfo-global/Europe/Warsaw.ics
+SHA1-Digest: 9smBAUTjbUnvmXQ+wLCd06nc1Q8=
+
+Name: zoneinfo-global/Europe/Zagreb.ics
+SHA1-Digest: nRTBhNvXXiGsEe9ZNbVNUBGf5/E=
+
+Name: zoneinfo-global/Europe/Zaporozhye.ics
+SHA1-Digest: If+4YuJ5Aq0b3WqaBeAgfGBXUDo=
+
+Name: zoneinfo-global/Europe/Zurich.ics
+SHA1-Digest: Ciyv16wwSGMClv09xAi2KlPL5WM=
+
+Name: zoneinfo-global/Indian/Antananarivo.ics
+SHA1-Digest: Arr6mRigQaiJRbmnoNMjhuxiPQE=
+
+Name: zoneinfo-global/Indian/Chagos.ics
+SHA1-Digest: njedPnRPAdHfwMRokawg+Pb657g=
+
+Name: zoneinfo-global/Indian/Christmas.ics
+SHA1-Digest: v4ftiA0e9RrY+ENYeg9Z7qgWvCQ=
+
+Name: zoneinfo-global/Indian/Cocos.ics
+SHA1-Digest: zNGnQ1gyNESSn9owpmwxN2EQSzo=
+
+Name: zoneinfo-global/Indian/Comoro.ics
+SHA1-Digest: s9NdAq8ouPlt7kQdAC8VUlCBctA=
+
+Name: zoneinfo-global/Indian/Kerguelen.ics
+SHA1-Digest: 3mXcLPJJQHYCXOSneT5xdfy5lQs=
+
+Name: zoneinfo-global/Indian/Mahe.ics
+SHA1-Digest: xMNth0gypHhtrTaR6Ye+yE5/HSQ=
+
+Name: zoneinfo-global/Indian/Maldives.ics
+SHA1-Digest: lx3KcshfzE6VkNtJyZJGrnh8tjg=
+
+Name: zoneinfo-global/Indian/Mauritius.ics
+SHA1-Digest: q+pj+1/lQmlzjjdnJleA7j/2qTM=
+
+Name: zoneinfo-global/Indian/Mayotte.ics
+SHA1-Digest: Q0gJnY+jZUaZpZzkZfxAIP1Z4Mo=
+
+Name: zoneinfo-global/Indian/Reunion.ics
+SHA1-Digest: vkTBIcSLqfxZbMm5Eoju2XwQxrI=
+
+Name: zoneinfo-global/Pacific/Apia.ics
+SHA1-Digest: 3CzkMD+BqnhucRHNx1FAzU8UNdQ=
+
+Name: zoneinfo-global/Pacific/Auckland.ics
+SHA1-Digest: tY5AsbMqN5nPTZ9y4YtQWe4exjc=
+
+Name: zoneinfo-global/Pacific/Bougainville.ics
+SHA1-Digest: yF0xO+SKlTEe6AMamzxzmnyo2XU=
+
+Name: zoneinfo-global/Pacific/Chatham.ics
+SHA1-Digest: pYBa074ICXAIWFDmbKjLIuCoToE=
+
+Name: zoneinfo-global/Pacific/Chuuk.ics
+SHA1-Digest: 3qIgZdNRmqSYpibahG5GWGCFIAk=
+
+Name: zoneinfo-global/Pacific/Easter.ics
+SHA1-Digest: yi0+00kVin3sZfBGIN+N7s+0z+U=
+
+Name: zoneinfo-global/Pacific/Efate.ics
+SHA1-Digest: ym38hBLMMaEPC5P/WnbRb7BOs1o=
+
+Name: zoneinfo-global/Pacific/Enderbury.ics
+SHA1-Digest: v65mOvCQyXUz7QsDZFwv3c/d5qk=
+
+Name: zoneinfo-global/Pacific/Fakaofo.ics
+SHA1-Digest: KL04mak/ZuIn+5OCju0/UuyuJHo=
+
+Name: zoneinfo-global/Pacific/Fiji.ics
+SHA1-Digest: WjgHZ1tS+otiAkcIcT3PuxaayR0=
+
+Name: zoneinfo-global/Pacific/Funafuti.ics
+SHA1-Digest: 67tAsVNxfnw9hjQL4DI29JePThI=
+
+Name: zoneinfo-global/Pacific/Galapagos.ics
+SHA1-Digest: 6T6rEtuv+DfUSsnRf7XpvBwf608=
+
+Name: zoneinfo-global/Pacific/Gambier.ics
+SHA1-Digest: WMpc/2aC88iNyXyHfIOEw1887T0=
+
+Name: zoneinfo-global/Pacific/Guadalcanal.ics
+SHA1-Digest: 34Z1WmjcNcSE705Euuz3zxMdUww=
+
+Name: zoneinfo-global/Pacific/Guam.ics
+SHA1-Digest: Ilf0y6UerVuGXkKPrQSjCX8qSIw=
+
+Name: zoneinfo-global/Pacific/Honolulu.ics
+SHA1-Digest: Lm6kd/cVkP/WWgIoDeJlsXxHQpo=
+
+Name: zoneinfo-global/Pacific/Johnston.ics
+SHA1-Digest: shh6Cyine9TjTccWglkIViLwml8=
+
+Name: zoneinfo-global/Pacific/Kiritimati.ics
+SHA1-Digest: 3jZ9FXLLxDfgk37tXNn7/tIEgVk=
+
+Name: zoneinfo-global/Pacific/Kosrae.ics
+SHA1-Digest: uJv9pR78eBVgeXBAu/TEfPVbz58=
+
+Name: zoneinfo-global/Pacific/Kwajalein.ics
+SHA1-Digest: i0SClrb5VDLczmgJDVRbVbC34Jo=
+
+Name: zoneinfo-global/Pacific/Majuro.ics
+SHA1-Digest: 88g3OA4mYe1Ld+WrQpdqWVTcGng=
+
+Name: zoneinfo-global/Pacific/Marquesas.ics
+SHA1-Digest: 3WApdMOoawJriBd8eTBefJaLjwY=
+
+Name: zoneinfo-global/Pacific/Midway.ics
+SHA1-Digest: 9EAL+eW9G3VVuITukX+PZ0UCQSw=
+
+Name: zoneinfo-global/Pacific/Nauru.ics
+SHA1-Digest: brLu7C4dZaB8yyqKPcZPF8mN8PA=
+
+Name: zoneinfo-global/Pacific/Niue.ics
+SHA1-Digest: gM8V5QbROrIW4QNIG6pb3UYi0D4=
+
+Name: zoneinfo-global/Pacific/Norfolk.ics
+SHA1-Digest: QBfstFFmb3d5tiIf/ceEJqlF54c=
+
+Name: zoneinfo-global/Pacific/Noumea.ics
+SHA1-Digest: f2Eet9F3gAx815KzuV9xyUJTo9s=
+
+Name: zoneinfo-global/Pacific/Pago_Pago.ics
+SHA1-Digest: LttfMjXSohUrWyn8f0zByXeOuQ8=
+
+Name: zoneinfo-global/Pacific/Palau.ics
+SHA1-Digest: CIZ7Ahuxy3jkE6Q/oRo6gd8+zUw=
+
+Name: zoneinfo-global/Pacific/Pitcairn.ics
+SHA1-Digest: g2DRvta+bR17u+sq2ZF5gVUrlKQ=
+
+Name: zoneinfo-global/Pacific/Pohnpei.ics
+SHA1-Digest: XnyQrrOZVKd7GmMxohKuC/y2wik=
+
+Name: zoneinfo-global/Pacific/Port_Moresby.ics
+SHA1-Digest: tMtWlaWL3X4vkumuDnMqTzcCpY8=
+
+Name: zoneinfo-global/Pacific/Rarotonga.ics
+SHA1-Digest: SJ3lGk3qyry9JDQRjyrup8EUTuk=
+
+Name: zoneinfo-global/Pacific/Saipan.ics
+SHA1-Digest: /f0wMarKA7yRSru8iZH/v64FCFk=
+
+Name: zoneinfo-global/Pacific/Tahiti.ics
+SHA1-Digest: kedQDgGKHos7IPpmmXwyv7H9PZ8=
+
+Name: zoneinfo-global/Pacific/Tarawa.ics
+SHA1-Digest: wtTTZppQq1XTLfKQ83PA/CuD5YY=
+
+Name: zoneinfo-global/Pacific/Tongatapu.ics
+SHA1-Digest: 455znyfl50QoV5YYbxD1vLxjpHA=
+
+Name: zoneinfo-global/Pacific/Wake.ics
+SHA1-Digest: XLGfRyHwnFz5IpTF3Vgoo1nwiVY=
+
+Name: zoneinfo-global/Pacific/Wallis.ics
+SHA1-Digest: wYBe2N82sMhjaDBUo6WDYKZruRU=
+
+Name: zoneinfo-global/zones.h
+SHA1-Digest: F3IwIot+J618vzq/P0pMBtvGLLM=
+
+Name: zoneinfo-global/zones.tab
+SHA1-Digest: RgueBEMRRqGZINJAKhe8bFnFSnQ=
+
+Name: zoneinfo/Africa/Abidjan.ics
+SHA1-Digest: qZNm5Ef0qKT3kbJX4TM8sHc9HO0=
+
+Name: zoneinfo/Africa/Accra.ics
+SHA1-Digest: NWO3UWqdfmybQ69BR3nZlTzb7Y0=
+
+Name: zoneinfo/Africa/Addis_Ababa.ics
+SHA1-Digest: gVnbNyafX+nFbJ0jRHyLqvVx6JM=
+
+Name: zoneinfo/Africa/Algiers.ics
+SHA1-Digest: yEtf+3B/lndLJwLuhPT1Fvu4Ito=
+
+Name: zoneinfo/Africa/Asmara.ics
+SHA1-Digest: g8/6s6qodAIBTG2VHRcTh0Ns8xI=
+
+Name: zoneinfo/Africa/Bamako.ics
+SHA1-Digest: kxPZ4q17MDV3EV2WxMGGE1n6Aic=
+
+Name: zoneinfo/Africa/Bangui.ics
+SHA1-Digest: nozbd/uOCn0Ol5QRCU1XEgw26JQ=
+
+Name: zoneinfo/Africa/Banjul.ics
+SHA1-Digest: h54buHX7RBrZcvqBvm8fyCNWwX0=
+
+Name: zoneinfo/Africa/Bissau.ics
+SHA1-Digest: /DDssJYu9bikJiSENVc/l0g7sLE=
+
+Name: zoneinfo/Africa/Blantyre.ics
+SHA1-Digest: iPHV3gFtPVjf+6oRyEVFslbLZP8=
+
+Name: zoneinfo/Africa/Brazzaville.ics
+SHA1-Digest: W6OHNlWJQN2agnvCWefIxgEdcWg=
+
+Name: zoneinfo/Africa/Bujumbura.ics
+SHA1-Digest: 4m8UcZ+VOXkDMY+xp+YNopv/8Ok=
+
+Name: zoneinfo/Africa/Cairo.ics
+SHA1-Digest: lHa1HYlBNy4rWnpHTfBFFqAsPHA=
+
+Name: zoneinfo/Africa/Casablanca.ics
+SHA1-Digest: ZpENf1UyFMdPoAZU+L7qYRtl1r0=
+
+Name: zoneinfo/Africa/Ceuta.ics
+SHA1-Digest: qUzO0JPeWVmZwe37Iw0PW+/c4sA=
+
+Name: zoneinfo/Africa/Conakry.ics
+SHA1-Digest: YRbzTAGDfkO42JX/8w/ISy/s0PQ=
+
+Name: zoneinfo/Africa/Dakar.ics
+SHA1-Digest: k90vwPTmLliw3oZM28PRb9VaOgA=
+
+Name: zoneinfo/Africa/Dar_es_Salaam.ics
+SHA1-Digest: hF92wLFmMMKluqEBPBFqXNAe0sY=
+
+Name: zoneinfo/Africa/Djibouti.ics
+SHA1-Digest: fJvq+voFqP0fF4sdk+DKBu6fS64=
+
+Name: zoneinfo/Africa/Douala.ics
+SHA1-Digest: Ju8Q76VlkuOrj1cobywFo7L01lk=
+
+Name: zoneinfo/Africa/El_Aaiun.ics
+SHA1-Digest: anh9nPy9k7MKeDtlmylhT0RsNlo=
+
+Name: zoneinfo/Africa/Freetown.ics
+SHA1-Digest: 8O2TyOvqqi7RGlMS3D0KAMk2pTE=
+
+Name: zoneinfo/Africa/Gaborone.ics
+SHA1-Digest: tsN4p5i+1jrUbb267/rPnLNTV9o=
+
+Name: zoneinfo/Africa/Harare.ics
+SHA1-Digest: F+eZ7ZdYndUc/RshXCkr6VscN10=
+
+Name: zoneinfo/Africa/Johannesburg.ics
+SHA1-Digest: /M3jtuxc3GRkhEdKY/ChuYt61FM=
+
+Name: zoneinfo/Africa/Juba.ics
+SHA1-Digest: Xqe13Z8x3V/rvcBF/xpiG8cNLok=
+
+Name: zoneinfo/Africa/Kampala.ics
+SHA1-Digest: JiLd7dwn+Bw6U6OVxbiJq4++J/g=
+
+Name: zoneinfo/Africa/Khartoum.ics
+SHA1-Digest: c3M5Mrxxej7aXICGY2PCtlduENE=
+
+Name: zoneinfo/Africa/Kigali.ics
+SHA1-Digest: yIaJ/rnSnMySt05WPwbikUIAsVI=
+
+Name: zoneinfo/Africa/Kinshasa.ics
+SHA1-Digest: aWyfTJKtGjeXNbPYXpbLTIQZ3j4=
+
+Name: zoneinfo/Africa/Lagos.ics
+SHA1-Digest: IpuhMUvznR/ipMxNA2py4benUlM=
+
+Name: zoneinfo/Africa/Libreville.ics
+SHA1-Digest: IRz4l1JIicA6PdCnbtdnSeYAoiU=
+
+Name: zoneinfo/Africa/Lome.ics
+SHA1-Digest: kwkUsXrYvOaIytvgHObjWT3Jl4c=
+
+Name: zoneinfo/Africa/Luanda.ics
+SHA1-Digest: KSif3PWTJfEhjD7ObFoe64WuHBw=
+
+Name: zoneinfo/Africa/Lubumbashi.ics
+SHA1-Digest: lLpoh1qgA8I/xnjVA51LOc+TgEs=
+
+Name: zoneinfo/Africa/Lusaka.ics
+SHA1-Digest: MDd5+CjPc1dESdcuekdL2OQSjXo=
+
+Name: zoneinfo/Africa/Malabo.ics
+SHA1-Digest: JgLCh0F45BSZbJNx3NIjgkFSB4s=
+
+Name: zoneinfo/Africa/Maputo.ics
+SHA1-Digest: DJ++fIUXHakcELhHaWBM9LMLpg8=
+
+Name: zoneinfo/Africa/Maseru.ics
+SHA1-Digest: NXVeWVnLDiXlPpra80ZGcz6SJeo=
+
+Name: zoneinfo/Africa/Mbabane.ics
+SHA1-Digest: a4Ytl6lp+t5wur/OETVarFP8fgs=
+
+Name: zoneinfo/Africa/Mogadishu.ics
+SHA1-Digest: Ay8jq+U4k9Q8VqSJ6YVNpGPwCc8=
+
+Name: zoneinfo/Africa/Monrovia.ics
+SHA1-Digest: a06jMvWe9xMtJ+iO0LHB6WWpO6M=
+
+Name: zoneinfo/Africa/Nairobi.ics
+SHA1-Digest: 1T5fj1pfoz1KGBAs04VJaL/7lmY=
+
+Name: zoneinfo/Africa/Ndjamena.ics
+SHA1-Digest: dDzNZ6W9JnJVgA3JzQHj52vlU+Y=
+
+Name: zoneinfo/Africa/Niamey.ics
+SHA1-Digest: xrwNEXa4VFRtF2hpU3Cl3BV0WQw=
+
+Name: zoneinfo/Africa/Nouakchott.ics
+SHA1-Digest: gsr5g5PryJ123FJTIzc3eumGq2Y=
+
+Name: zoneinfo/Africa/Ouagadougou.ics
+SHA1-Digest: mrQqjvOU02Vepcd2t5+CLHnhVxw=
+
+Name: zoneinfo/Africa/Porto-Novo.ics
+SHA1-Digest: xpP9vmMhJxNOHTaps8VzUbjYY00=
+
+Name: zoneinfo/Africa/Sao_Tome.ics
+SHA1-Digest: XzivjgrR6Pieu/VYnotzhGqLePU=
+
+Name: zoneinfo/Africa/Tripoli.ics
+SHA1-Digest: XChBj3kMgMUwqYOYmKaeagIb+QI=
+
+Name: zoneinfo/Africa/Tunis.ics
+SHA1-Digest: ssSvcLvSpHk7qjRvfoZA+jMfnJ8=
+
+Name: zoneinfo/Africa/Windhoek.ics
+SHA1-Digest: K0tROpf66oHQu0i8SwoB/69r9JY=
+
+Name: zoneinfo/America/Adak.ics
+SHA1-Digest: R4sekgxKWsWb0ZWVdF3c5bROMME=
+
+Name: zoneinfo/America/Anchorage.ics
+SHA1-Digest: rlbv8TgoWWsqyokqCTFvzBUJUTM=
+
+Name: zoneinfo/America/Anguilla.ics
+SHA1-Digest: I5aZ/HHCw7FvFwqY5/jxbWbU680=
+
+Name: zoneinfo/America/Antigua.ics
+SHA1-Digest: FZX0GfTu8RIDGvEG72pp/Od9XMY=
+
+Name: zoneinfo/America/Araguaina.ics
+SHA1-Digest: MuPV+lWxWpINXaweKf78Fxe86Jg=
+
+Name: zoneinfo/America/Argentina/Buenos_Aires.ics
+SHA1-Digest: 5XEt+BdscckmDo0RiDckgF8uoUI=
+
+Name: zoneinfo/America/Argentina/Catamarca.ics
+SHA1-Digest: n+sdPpb9oVM4Xe8bTWr3VCVC2X4=
+
+Name: zoneinfo/America/Argentina/Cordoba.ics
+SHA1-Digest: f/XHFy1/v5EbSnNricx2KuiYW1Q=
+
+Name: zoneinfo/America/Argentina/Jujuy.ics
+SHA1-Digest: v38eCWQZaCjfuE3dlSH1SeGm5YA=
+
+Name: zoneinfo/America/Argentina/La_Rioja.ics
+SHA1-Digest: qzHCo7VwjmASlxadjcJH3gFqV+s=
+
+Name: zoneinfo/America/Argentina/Mendoza.ics
+SHA1-Digest: oioUb4py8+xhWYneioJJ+KImbr0=
+
+Name: zoneinfo/America/Argentina/Rio_Gallegos.ics
+SHA1-Digest: +HV4Rxr25v7QGJrvE8fO17kVoRU=
+
+Name: zoneinfo/America/Argentina/Salta.ics
+SHA1-Digest: bIplZMjUgoQfDMw7xIFH44ZZO1Q=
+
+Name: zoneinfo/America/Argentina/San_Juan.ics
+SHA1-Digest: htK5my3knhj40a9u8Wi/Xp1JKEE=
+
+Name: zoneinfo/America/Argentina/San_Luis.ics
+SHA1-Digest: tZ9oyWEXaYttmyDUS1WnUXQKkuo=
+
+Name: zoneinfo/America/Argentina/Tucuman.ics
+SHA1-Digest: LnRXvlMKqaeU7bu89/leX6BKRVU=
+
+Name: zoneinfo/America/Argentina/Ushuaia.ics
+SHA1-Digest: U+q0rd4nPOQXpMe1Zx37vZjT9qM=
+
+Name: zoneinfo/America/Aruba.ics
+SHA1-Digest: 8UExbbPWT8VOunHEyS0WSQ1PTp0=
+
+Name: zoneinfo/America/Asuncion.ics
+SHA1-Digest: 0ghWcIQLCEmxPt3BxrGWnbwaMQw=
+
+Name: zoneinfo/America/Atikokan.ics
+SHA1-Digest: A6Pe1+BHxz2I+SorVE7MsxzHZiI=
+
+Name: zoneinfo/America/Bahia.ics
+SHA1-Digest: enFiO0YnlWkN8xHaPI+w9XuqVW8=
+
+Name: zoneinfo/America/Bahia_Banderas.ics
+SHA1-Digest: zsnwgSCZvk2+8bpHTrAuNv5p/W0=
+
+Name: zoneinfo/America/Barbados.ics
+SHA1-Digest: GL/wV3db0c9MPsGCYM0p9Ya18kU=
+
+Name: zoneinfo/America/Belem.ics
+SHA1-Digest: oi3p5ndmF8FzhyQXcwLLaSd5T+g=
+
+Name: zoneinfo/America/Belize.ics
+SHA1-Digest: xawJ0ISwxiSQ/rJyCoT2LpWbhsQ=
+
+Name: zoneinfo/America/Blanc-Sablon.ics
+SHA1-Digest: jt5qcWj2n3Vi+vInGrWrgTyry94=
+
+Name: zoneinfo/America/Boa_Vista.ics
+SHA1-Digest: yN/jRYtOCCBKX9CfgXpfGirzUd0=
+
+Name: zoneinfo/America/Bogota.ics
+SHA1-Digest: cnSekV6kZfF6kgN0GwX2bAXp7lg=
+
+Name: zoneinfo/America/Boise.ics
+SHA1-Digest: wIBGWhhB40uUA2yttR7OugaWEVo=
+
+Name: zoneinfo/America/Cambridge_Bay.ics
+SHA1-Digest: HH40PBMqS2Vi8dLwPVg8MmpTUkM=
+
+Name: zoneinfo/America/Campo_Grande.ics
+SHA1-Digest: HwfyQfBURJK/zyjNeKOCJoALswU=
+
+Name: zoneinfo/America/Cancun.ics
+SHA1-Digest: /xUhMIArp3EcuI9cUBv3zQgVlKw=
+
+Name: zoneinfo/America/Caracas.ics
+SHA1-Digest: Raes5yCYc6NQyKu3imJfXBUQZBA=
+
+Name: zoneinfo/America/Cayenne.ics
+SHA1-Digest: a6LzyoVN2A6JSi4Av/Sn0m/wT6A=
+
+Name: zoneinfo/America/Cayman.ics
+SHA1-Digest: ZVkb0XsaiI32JurMSNbMWNAWge4=
+
+Name: zoneinfo/America/Chicago.ics
+SHA1-Digest: uSk5uSBgKTjlN1NEjY/8PJOlAEI=
+
+Name: zoneinfo/America/Chihuahua.ics
+SHA1-Digest: fkGeKVhB0+HV+yEbYZ2ml9lMFh4=
+
+Name: zoneinfo/America/Costa_Rica.ics
+SHA1-Digest: GFApPonKX5uKhPMYPtUKoYe9TkM=
+
+Name: zoneinfo/America/Creston.ics
+SHA1-Digest: xgWYTZvU0fJlZw+Iq2clUIo9kSE=
+
+Name: zoneinfo/America/Cuiaba.ics
+SHA1-Digest: 9swLGNeUPoLuF3k5wOOJKZhDArc=
+
+Name: zoneinfo/America/Curacao.ics
+SHA1-Digest: llv6XmroAyOe0W/8G0wwLUdEC2c=
+
+Name: zoneinfo/America/Danmarkshavn.ics
+SHA1-Digest: unqja6njH55QkTeA52cm0zDJeQA=
+
+Name: zoneinfo/America/Dawson.ics
+SHA1-Digest: wiLF4N5IwpRX0O5+mtgah/fOGwU=
+
+Name: zoneinfo/America/Dawson_Creek.ics
+SHA1-Digest: UHi/k/ay1AzVtyKT3obxAW4I/xw=
+
+Name: zoneinfo/America/Denver.ics
+SHA1-Digest: H1GiZDkXDpZ5/4yhHPEKH6OqVoo=
+
+Name: zoneinfo/America/Detroit.ics
+SHA1-Digest: WN0vWPdjgHEBXz9JlJm5oQhQRNc=
+
+Name: zoneinfo/America/Dominica.ics
+SHA1-Digest: yIpsUbIUy835MiDQ0N1hII3C8aE=
+
+Name: zoneinfo/America/Edmonton.ics
+SHA1-Digest: NtGuvP4eOpiwqknMe+RfugzVmsk=
+
+Name: zoneinfo/America/Eirunepe.ics
+SHA1-Digest: 8vqcbmDMJXC/gv28EkqIaF6GI1k=
+
+Name: zoneinfo/America/El_Salvador.ics
+SHA1-Digest: 0zYerOadhzzFOWxUZXlAMfx+UHM=
+
+Name: zoneinfo/America/Fort_Nelson.ics
+SHA1-Digest: b5wAX76xGwKJTgaUxpCq8CxMWIE=
+
+Name: zoneinfo/America/Fortaleza.ics
+SHA1-Digest: 0TsfSdJ9zu3R+ZAUdEVlKdRKBZo=
+
+Name: zoneinfo/America/Glace_Bay.ics
+SHA1-Digest: kSC1QFXdYCKRI/sPh8N2kEDeatw=
+
+Name: zoneinfo/America/Godthab.ics
+SHA1-Digest: ec0ZDQqmhQ/99wV4A6gF2b9OUN8=
+
+Name: zoneinfo/America/Goose_Bay.ics
+SHA1-Digest: 8Wtcwgbqi4IMUsYcNJkRiz3Vhd4=
+
+Name: zoneinfo/America/Grand_Turk.ics
+SHA1-Digest: A9nvpSGVBvwvBl4RGQPpOoxH1yo=
+
+Name: zoneinfo/America/Grenada.ics
+SHA1-Digest: sgyE9rGuh2ftzzv+GpIQYJHINcU=
+
+Name: zoneinfo/America/Guadeloupe.ics
+SHA1-Digest: IGUa1psw3ViyHPCkcQlmSRkBD/s=
+
+Name: zoneinfo/America/Guatemala.ics
+SHA1-Digest: fc9tAHUA/xGFmqMxkQi6jCLD5qg=
+
+Name: zoneinfo/America/Guayaquil.ics
+SHA1-Digest: ITITz53CytXiwvSqVJowuaSePQk=
+
+Name: zoneinfo/America/Guyana.ics
+SHA1-Digest: XZkzCp2XBEAc7Bvk576x8UhXZ7M=
+
+Name: zoneinfo/America/Halifax.ics
+SHA1-Digest: jQ151A4M4h2K+Z7M1B2bX3KqnVc=
+
+Name: zoneinfo/America/Havana.ics
+SHA1-Digest: KdPy5vav1C4KEvFJK2fmfGaxxD8=
+
+Name: zoneinfo/America/Hermosillo.ics
+SHA1-Digest: 5OsR0qKlZqpYW0gZ9DUUuJa2mbs=
+
+Name: zoneinfo/America/Indiana/Indianapolis.ics
+SHA1-Digest: Ci9nxGiGyVyGw0yYeGa+TlpH6l8=
+
+Name: zoneinfo/America/Indiana/Knox.ics
+SHA1-Digest: 2+ILpILM96zbp20gG+aX0FDjPwk=
+
+Name: zoneinfo/America/Indiana/Marengo.ics
+SHA1-Digest: eTySkDTaNADv7e+CPmdop0wKJj8=
+
+Name: zoneinfo/America/Indiana/Petersburg.ics
+SHA1-Digest: 7Vx36/HvtS1qrt53IUFxNPuDgF4=
+
+Name: zoneinfo/America/Indiana/Tell_City.ics
+SHA1-Digest: VzFIVXylgqgusxdqwiRzno8u0ws=
+
+Name: zoneinfo/America/Indiana/Vevay.ics
+SHA1-Digest: BAjiKxYvAf51bT8qqFVtS/55HM8=
+
+Name: zoneinfo/America/Indiana/Vincennes.ics
+SHA1-Digest: g5utW9wlQx3z/zCtACMTTspCNR4=
+
+Name: zoneinfo/America/Indiana/Winamac.ics
+SHA1-Digest: Ua61sjBN4jXaVnfy8ZizotGamxc=
+
+Name: zoneinfo/America/Inuvik.ics
+SHA1-Digest: c2dhM+lfUgFEnwqy3in872TDCkU=
+
+Name: zoneinfo/America/Iqaluit.ics
+SHA1-Digest: HFlJ2oMg83d/cfycVgivNtm7BPI=
+
+Name: zoneinfo/America/Jamaica.ics
+SHA1-Digest: pmfOdQStoYTduQmvGSbkwgKqNDI=
+
+Name: zoneinfo/America/Juneau.ics
+SHA1-Digest: 1fSW+XFsxYSRFt/UZaHAd59p56E=
+
+Name: zoneinfo/America/Kentucky/Louisville.ics
+SHA1-Digest: KdZYWP4vEmpK9QKvZ7X953P9UyU=
+
+Name: zoneinfo/America/Kentucky/Monticello.ics
+SHA1-Digest: ht/4yhy8ib9Q/lChfYAr6n5PYi8=
+
+Name: zoneinfo/America/Kralendijk.ics
+SHA1-Digest: YPdhk46QSHxXCZz/5kRO2+4HpXg=
+
+Name: zoneinfo/America/La_Paz.ics
+SHA1-Digest: b0OzP7BhVIqJlEPi3vAD0S47igQ=
+
+Name: zoneinfo/America/Lima.ics
+SHA1-Digest: 7YI0oiV+ttbIocIznjzDLXXQre4=
+
+Name: zoneinfo/America/Los_Angeles.ics
+SHA1-Digest: KLw6V3mPJ3Z44PklhkmxxOEV4tY=
+
+Name: zoneinfo/America/Lower_Princes.ics
+SHA1-Digest: E+OoiEylcSRuYAyuYwbPhVy37R8=
+
+Name: zoneinfo/America/Maceio.ics
+SHA1-Digest: WV9U4Crp9uuAmbIg/UTALDE/ZD8=
+
+Name: zoneinfo/America/Managua.ics
+SHA1-Digest: jfGN/B75gPTNtgWOFAbxoeD3OLo=
+
+Name: zoneinfo/America/Manaus.ics
+SHA1-Digest: XnzW9ZGurXbzVmWIGOYLYcNroj8=
+
+Name: zoneinfo/America/Marigot.ics
+SHA1-Digest: eO19R5Oy/pFSmQrRntO917A6yek=
+
+Name: zoneinfo/America/Martinique.ics
+SHA1-Digest: uNMDJtLK7aZPchegi5KxMTvPJ5o=
+
+Name: zoneinfo/America/Matamoros.ics
+SHA1-Digest: 9UOoX+6lChQ6vacrkaeHbev0lDI=
+
+Name: zoneinfo/America/Mazatlan.ics
+SHA1-Digest: KcPKdEc2Xm8daClu0cayf8vWjUI=
+
+Name: zoneinfo/America/Menominee.ics
+SHA1-Digest: C07OGTc1on5csLspfLYbAFRdZCY=
+
+Name: zoneinfo/America/Merida.ics
+SHA1-Digest: nPNU6nAxZ0FtHJNax/+4HbEtEgU=
+
+Name: zoneinfo/America/Metlakatla.ics
+SHA1-Digest: mLsYquzk7XJRQCCqs6gkEHOD1hI=
+
+Name: zoneinfo/America/Mexico_City.ics
+SHA1-Digest: wkh8VTZ7kIr/Xsr2ee0FklDkcQU=
+
+Name: zoneinfo/America/Miquelon.ics
+SHA1-Digest: K16WRoYkxT+O2rFMNgZn3o3+TTI=
+
+Name: zoneinfo/America/Moncton.ics
+SHA1-Digest: ZTCZj4j0GvStX63Qc46WepwEhvU=
+
+Name: zoneinfo/America/Monterrey.ics
+SHA1-Digest: ukzu7TxmXF9A2f+50yuIT30uBxQ=
+
+Name: zoneinfo/America/Montevideo.ics
+SHA1-Digest: vBJntTan2//WNpf3lZ58cRZo7ag=
+
+Name: zoneinfo/America/Montserrat.ics
+SHA1-Digest: S967c6C+//EXIyLpuuzfot7YIdE=
+
+Name: zoneinfo/America/Nassau.ics
+SHA1-Digest: FnOqxLhMqWlSERtgR+8hRMOb6Mk=
+
+Name: zoneinfo/America/New_York.ics
+SHA1-Digest: 8B6Ernucr27WYXllicNMj4RhUrw=
+
+Name: zoneinfo/America/Nipigon.ics
+SHA1-Digest: 1gR5+M8tUL6+1+sLq9/5aumN11g=
+
+Name: zoneinfo/America/Nome.ics
+SHA1-Digest: rw6rHUGS17rWfaOWHM/UwWpzXLk=
+
+Name: zoneinfo/America/Noronha.ics
+SHA1-Digest: qniDkSGfVABclwQ98MrsxniWhzY=
+
+Name: zoneinfo/America/North_Dakota/Beulah.ics
+SHA1-Digest: ebC/qRWCnlCptLFKzj9sT9Xcd9I=
+
+Name: zoneinfo/America/North_Dakota/Center.ics
+SHA1-Digest: d1TnuhH0CXC5jaAswU5MX8omb1k=
+
+Name: zoneinfo/America/North_Dakota/New_Salem.ics
+SHA1-Digest: K1BTrU8bpKRpqwKXkUox4u1j30Y=
+
+Name: zoneinfo/America/Ojinaga.ics
+SHA1-Digest: mjTVUcCkCvnuwGsWVYVNDdsdri8=
+
+Name: zoneinfo/America/Panama.ics
+SHA1-Digest: voUdSGiIFcYH1MJEW9JsoP3RcZU=
+
+Name: zoneinfo/America/Pangnirtung.ics
+SHA1-Digest: 8uaIZbGJvwMjfu5JnIsUJPlkmm4=
+
+Name: zoneinfo/America/Paramaribo.ics
+SHA1-Digest: 04tJtjTHRpAtqAbePPapTluI+MM=
+
+Name: zoneinfo/America/Phoenix.ics
+SHA1-Digest: BazQIYeA1sX/cttHtRklLGO+ZNU=
+
+Name: zoneinfo/America/Port-au-Prince.ics
+SHA1-Digest: bo4xCQxyUx7EHLq16wzv4WccpHw=
+
+Name: zoneinfo/America/Port_of_Spain.ics
+SHA1-Digest: 9pugwJP7nQdvDEfk299wFNjGsOY=
+
+Name: zoneinfo/America/Porto_Velho.ics
+SHA1-Digest: tFXhtX+R4uDtMhwEOqKWvzDzb9A=
+
+Name: zoneinfo/America/Puerto_Rico.ics
+SHA1-Digest: SoIVQESkFs2dxUClXZ4uMubld5c=
+
+Name: zoneinfo/America/Rainy_River.ics
+SHA1-Digest: FsZ0GeUI/NLTgdQkuG3ant4PHI0=
+
+Name: zoneinfo/America/Rankin_Inlet.ics
+SHA1-Digest: mPslYSAlRV7ADAap3Q717Clvy4w=
+
+Name: zoneinfo/America/Recife.ics
+SHA1-Digest: r0tI4y5hUc06dNtC9kW3XyrmZCQ=
+
+Name: zoneinfo/America/Regina.ics
+SHA1-Digest: KGQYxL3WaN/GviGDdGE5sGCwcYs=
+
+Name: zoneinfo/America/Resolute.ics
+SHA1-Digest: 818JxzDz3XGr1i/Hnv87bB/yB2U=
+
+Name: zoneinfo/America/Rio_Branco.ics
+SHA1-Digest: Zv48ZdPqefHMlGn5gWzkBG8WlRA=
+
+Name: zoneinfo/America/Santa_Isabel.ics
+SHA1-Digest: D4OY0sCQfvTPxSWKGLlXFnamU0s=
+
+Name: zoneinfo/America/Santarem.ics
+SHA1-Digest: enl9YQILEZ1k6QiRUvbcA7OUKwM=
+
+Name: zoneinfo/America/Santiago.ics
+SHA1-Digest: Wiunfx3F4h5xSLjmrMsijdYV2kk=
+
+Name: zoneinfo/America/Santo_Domingo.ics
+SHA1-Digest: X9T6DNfHgN1pRckIwqTo7SysLhU=
+
+Name: zoneinfo/America/Sao_Paulo.ics
+SHA1-Digest: NnQHAVkFsaNG+XqKYAA8cCKqNQE=
+
+Name: zoneinfo/America/Scoresbysund.ics
+SHA1-Digest: TFMRlBiNe1LBtAn396axA7sSxe4=
+
+Name: zoneinfo/America/Sitka.ics
+SHA1-Digest: WTRsXpnZA6y+tWiV9LCP7y7Ykj0=
+
+Name: zoneinfo/America/St_Barthelemy.ics
+SHA1-Digest: +IK6wI2uYcZY2kVlRrFk9Q49hgE=
+
+Name: zoneinfo/America/St_Johns.ics
+SHA1-Digest: femXWbESuQSokK5i1pcY/czIVOw=
+
+Name: zoneinfo/America/St_Kitts.ics
+SHA1-Digest: /HNnZWAH0vJDEHnZMua3K4XnNRk=
+
+Name: zoneinfo/America/St_Lucia.ics
+SHA1-Digest: RxJhmzixbmSwveXGpfaBqcGplN8=
+
+Name: zoneinfo/America/St_Thomas.ics
+SHA1-Digest: V9oy3HQCJInxoHebmD0JfnAKCBo=
+
+Name: zoneinfo/America/St_Vincent.ics
+SHA1-Digest: 40jew89NoZpvNR4a3Q4MbEv0t48=
+
+Name: zoneinfo/America/Swift_Current.ics
+SHA1-Digest: zNjGQ8Hscz71WM+IU5mJUAl+3Jc=
+
+Name: zoneinfo/America/Tegucigalpa.ics
+SHA1-Digest: QsCzshxSZP9TV/F9VbKMTaib/Yw=
+
+Name: zoneinfo/America/Thule.ics
+SHA1-Digest: VjdomlswKKY8v+UzEw1rl118Wko=
+
+Name: zoneinfo/America/Thunder_Bay.ics
+SHA1-Digest: E2QtSqW4GELdeIWYvWjYnlHfpLw=
+
+Name: zoneinfo/America/Tijuana.ics
+SHA1-Digest: C0rXJ+0sxhU20TdRzxdBDKFpfEw=
+
+Name: zoneinfo/America/Toronto.ics
+SHA1-Digest: ccFH2Z5MrSxiL3ttURT9SZCKUBI=
+
+Name: zoneinfo/America/Tortola.ics
+SHA1-Digest: J8gpX0H+U/n0YCa5eI+Yn92ROC8=
+
+Name: zoneinfo/America/Vancouver.ics
+SHA1-Digest: V9picAWIebfDIT2ayk/qP+woBMk=
+
+Name: zoneinfo/America/Whitehorse.ics
+SHA1-Digest: DiXqCUOAgZ54yxf/lWfou2WFfPE=
+
+Name: zoneinfo/America/Winnipeg.ics
+SHA1-Digest: zFrNor/6jmix499RPXb7PRQunxw=
+
+Name: zoneinfo/America/Yakutat.ics
+SHA1-Digest: BUewL3iTZdbNSk8XihWphk++B5c=
+
+Name: zoneinfo/America/Yellowknife.ics
+SHA1-Digest: 6GOp1Qfzx5KI9IeubqK2zoejS/c=
+
+Name: zoneinfo/Antarctica/Casey.ics
+SHA1-Digest: SPCAckwrKzvzo3H2mTtazAHduHw=
+
+Name: zoneinfo/Antarctica/Davis.ics
+SHA1-Digest: tWuGgEjeijF5dtfMRJa7XcIphAQ=
+
+Name: zoneinfo/Antarctica/DumontDUrville.ics
+SHA1-Digest: Kp9Rkn4Jf2xWvsr8G2UAthvECOw=
+
+Name: zoneinfo/Antarctica/Macquarie.ics
+SHA1-Digest: GnEHHgqCLGtb38QKzOl+sz3YbN8=
+
+Name: zoneinfo/Antarctica/Mawson.ics
+SHA1-Digest: wc1qYuZ8pgw2Mfwaoq55RUwj95w=
+
+Name: zoneinfo/Antarctica/McMurdo.ics
+SHA1-Digest: yqKezIwzYwUgjBBQTqtI5doGIOs=
+
+Name: zoneinfo/Antarctica/Palmer.ics
+SHA1-Digest: vqwL74epfjYnBaF6XDGcqMysp1Q=
+
+Name: zoneinfo/Antarctica/Rothera.ics
+SHA1-Digest: YFLe2Xw8i5eaO7sQy5YwNHRbZlY=
+
+Name: zoneinfo/Antarctica/Syowa.ics
+SHA1-Digest: cfhchRHf2P3EPzMwXkyG7AUF6PU=
+
+Name: zoneinfo/Antarctica/Troll.ics
+SHA1-Digest: dj52YeAV6ecf95sy/03IoauM8cg=
+
+Name: zoneinfo/Antarctica/Vostok.ics
+SHA1-Digest: CrbY2qrX1mKuTxHgcUL7FsRPJeU=
+
+Name: zoneinfo/Arctic/Longyearbyen.ics
+SHA1-Digest: rFC7KNy4A9ji4X645LcIWmaCPf8=
+
+Name: zoneinfo/Asia/Aden.ics
+SHA1-Digest: 7IJtxEpjzXFkhLA8Y+p56BWc4Y0=
+
+Name: zoneinfo/Asia/Almaty.ics
+SHA1-Digest: 5UxYGOWvZzsBHoC+rhUDm0CnmkQ=
+
+Name: zoneinfo/Asia/Amman.ics
+SHA1-Digest: FiOadu/9w9qzw/z6S1gWmPNNdqo=
+
+Name: zoneinfo/Asia/Anadyr.ics
+SHA1-Digest: S0yW+f8Xl9F/MYZ3LEr0E+NpObc=
+
+Name: zoneinfo/Asia/Aqtau.ics
+SHA1-Digest: ropRZY/ejmNWraVo+RW6FyjLpNU=
+
+Name: zoneinfo/Asia/Aqtobe.ics
+SHA1-Digest: 2fKVD+yWIMui0i2Q1ThFvPU7a+o=
+
+Name: zoneinfo/Asia/Ashgabat.ics
+SHA1-Digest: msPyQ1fugqmOuQSQALsoxiHgiNg=
+
+Name: zoneinfo/Asia/Baghdad.ics
+SHA1-Digest: O7jnIbScK9GIKMOpkYSahfmavOg=
+
+Name: zoneinfo/Asia/Bahrain.ics
+SHA1-Digest: +w+wAZ1DMCGxCyxXbsewgx+gt7Y=
+
+Name: zoneinfo/Asia/Baku.ics
+SHA1-Digest: 3lRh4VxdPlW0612yKz6J26qMNT0=
+
+Name: zoneinfo/Asia/Bangkok.ics
+SHA1-Digest: k2B4QJLF4+uMVMTThTkbUD+ELIQ=
+
+Name: zoneinfo/Asia/Beirut.ics
+SHA1-Digest: V6rla5emAQlyHNSR5Tn0hiRoNOA=
+
+Name: zoneinfo/Asia/Bishkek.ics
+SHA1-Digest: Eznn7d0nszKqeV5GikDB8gQAnM8=
+
+Name: zoneinfo/Asia/Brunei.ics
+SHA1-Digest: Uog85CLRNMjr/+iPjoOR+ef7DGM=
+
+Name: zoneinfo/Asia/Chita.ics
+SHA1-Digest: iS5fhFZlf8ehgW1pBHmsD3IQ18Q=
+
+Name: zoneinfo/Asia/Choibalsan.ics
+SHA1-Digest: 9szmMA9k4iT+LKDZgNadL1ahIfU=
+
+Name: zoneinfo/Asia/Colombo.ics
+SHA1-Digest: McyX2/sSA6JoPiVUOuQXQYH+4Eo=
+
+Name: zoneinfo/Asia/Damascus.ics
+SHA1-Digest: f0SoePA6dG0dHqMY0Wd2MQGlSPU=
+
+Name: zoneinfo/Asia/Dhaka.ics
+SHA1-Digest: Vf2B3P0dggdtvdaiB2v8gfm3wWQ=
+
+Name: zoneinfo/Asia/Dili.ics
+SHA1-Digest: DUzI5Fua2WI2GFekJendbpsJqvc=
+
+Name: zoneinfo/Asia/Dubai.ics
+SHA1-Digest: BalcFerAQBJSaVL0R3R2I24KxFE=
+
+Name: zoneinfo/Asia/Dushanbe.ics
+SHA1-Digest: w8Hfu+tAjyyP9gbPpxp+v2Zay2s=
+
+Name: zoneinfo/Asia/Gaza.ics
+SHA1-Digest: n6DIcxhBNYkpkwO1n0mvn5qYhEo=
+
+Name: zoneinfo/Asia/Hebron.ics
+SHA1-Digest: jrCWcocurfEDqo+Dv67l6jEQ4ow=
+
+Name: zoneinfo/Asia/Ho_Chi_Minh.ics
+SHA1-Digest: 6XCmhloDdOQ7wlginGBJYgTi3eE=
+
+Name: zoneinfo/Asia/Hong_Kong.ics
+SHA1-Digest: 0uJy9IHTV8aXXxgWx+fYrTYAWh8=
+
+Name: zoneinfo/Asia/Hovd.ics
+SHA1-Digest: HSVm1MnHr3mkoOT86LSzoPm5+tk=
+
+Name: zoneinfo/Asia/Irkutsk.ics
+SHA1-Digest: lwq8QReg9vEH8YBdDclZ0kvbNEo=
+
+Name: zoneinfo/Asia/Istanbul.ics
+SHA1-Digest: 0cMZLrTzVess/pHekufNvPN4i8s=
+
+Name: zoneinfo/Asia/Jakarta.ics
+SHA1-Digest: DWg2y7oPCjQu/pFngfzmRZgVoAo=
+
+Name: zoneinfo/Asia/Jayapura.ics
+SHA1-Digest: v3jAWcILlVy+cU9FO4XLakt+IQ8=
+
+Name: zoneinfo/Asia/Jerusalem.ics
+SHA1-Digest: C6lqx/uBihZQYOZREkMQrWZDH0g=
+
+Name: zoneinfo/Asia/Kabul.ics
+SHA1-Digest: EckHmDVrL8HrwszyXQw5nDa8uw0=
+
+Name: zoneinfo/Asia/Kamchatka.ics
+SHA1-Digest: YnIrLDbvnotlcGLD6/y0kDkuXzA=
+
+Name: zoneinfo/Asia/Karachi.ics
+SHA1-Digest: 2Egzy/gfUXtSW1lN51T20eib1+g=
+
+Name: zoneinfo/Asia/Kathmandu.ics
+SHA1-Digest: Y2fvxGLc58K2I7inD+V42thzFEQ=
+
+Name: zoneinfo/Asia/Khandyga.ics
+SHA1-Digest: U8OHQfrdoITaW1eOmakwamAGoMo=
+
+Name: zoneinfo/Asia/Kolkata.ics
+SHA1-Digest: DP4JshMRYFHeD3QfD3axbafeYn0=
+
+Name: zoneinfo/Asia/Krasnoyarsk.ics
+SHA1-Digest: kSVXs8y3QGhGcasgWMFQ9Wrh4KA=
+
+Name: zoneinfo/Asia/Kuala_Lumpur.ics
+SHA1-Digest: zpjza5Lw9SBD/obMayvsA9fMqGw=
+
+Name: zoneinfo/Asia/Kuching.ics
+SHA1-Digest: 5k7hWNuyThmBSB3OhAJc9NV1ViI=
+
+Name: zoneinfo/Asia/Kuwait.ics
+SHA1-Digest: lIoNIS3QYeFyCLJxcDYi2H8qCw4=
+
+Name: zoneinfo/Asia/Macau.ics
+SHA1-Digest: pqCFmPI7PJN0+66PVfCKZWUxpW8=
+
+Name: zoneinfo/Asia/Magadan.ics
+SHA1-Digest: IiYV8E2Ek6B12KevD++CFv4sI44=
+
+Name: zoneinfo/Asia/Makassar.ics
+SHA1-Digest: htFRCsVzmuUqmNjvyM6wGG2i1A8=
+
+Name: zoneinfo/Asia/Manila.ics
+SHA1-Digest: uGQ+wQ+cfRIdUKcFPO7nLOJh7Wo=
+
+Name: zoneinfo/Asia/Muscat.ics
+SHA1-Digest: uFfXwLeEdSodfNgt6SBiHkLpz9o=
+
+Name: zoneinfo/Asia/Nicosia.ics
+SHA1-Digest: BQ+q5uihdvoRtzcPDv6teNavlpc=
+
+Name: zoneinfo/Asia/Novokuznetsk.ics
+SHA1-Digest: IWsNNUlXQV3XvASXqU5KBBzfjeU=
+
+Name: zoneinfo/Asia/Novosibirsk.ics
+SHA1-Digest: UxMoiKz0ClDar6q7zmrPB4pxGIM=
+
+Name: zoneinfo/Asia/Omsk.ics
+SHA1-Digest: WgNosSbEg18am6DRNL6HjilQ/Bg=
+
+Name: zoneinfo/Asia/Oral.ics
+SHA1-Digest: lqqasMXbnIOHe5hSo664kkKbwz4=
+
+Name: zoneinfo/Asia/Phnom_Penh.ics
+SHA1-Digest: yaQvgjRI3rOHLIcdvrJs+VvgCyw=
+
+Name: zoneinfo/Asia/Pontianak.ics
+SHA1-Digest: OA1kTbZZDEeWcy86LUJQM/8nI6U=
+
+Name: zoneinfo/Asia/Pyongyang.ics
+SHA1-Digest: 0g2OrYP46qDaDzSFWm1UXL/8H/w=
+
+Name: zoneinfo/Asia/Qatar.ics
+SHA1-Digest: lqwmOy5tsPcI0xfUTswYHLguBMA=
+
+Name: zoneinfo/Asia/Qyzylorda.ics
+SHA1-Digest: ko5uaHZNiokZ/8JYds6mET/VMb8=
+
+Name: zoneinfo/Asia/Rangoon.ics
+SHA1-Digest: XmwNLU+gCf4WPHa/nQmhLNYgvQY=
+
+Name: zoneinfo/Asia/Riyadh.ics
+SHA1-Digest: 11lufEzskN0EOj4vGABF5fDKp/k=
+
+Name: zoneinfo/Asia/Sakhalin.ics
+SHA1-Digest: wpt4xIPgfBccF+H6iMWaSnbXfTg=
+
+Name: zoneinfo/Asia/Samarkand.ics
+SHA1-Digest: TWy6ru75Y+pqW/erK4Bxw1QrFJY=
+
+Name: zoneinfo/Asia/Seoul.ics
+SHA1-Digest: viXxVEY1qlPRTRrDAwU36UtBeCU=
+
+Name: zoneinfo/Asia/Shanghai.ics
+SHA1-Digest: QcxZB3MuaU5v9YqPAEJhOTzR+oY=
+
+Name: zoneinfo/Asia/Singapore.ics
+SHA1-Digest: +2Ssi/lxncwqrXGqOMmAIlTE7Cs=
+
+Name: zoneinfo/Asia/Srednekolymsk.ics
+SHA1-Digest: LrwlO/W7QP7Gk5ItF1hdUEArw10=
+
+Name: zoneinfo/Asia/Taipei.ics
+SHA1-Digest: 4asIegD8v0ls+PDWleN6DbfnSjI=
+
+Name: zoneinfo/Asia/Tashkent.ics
+SHA1-Digest: iylHVuAawD3nzNhCTetfOadIhcU=
+
+Name: zoneinfo/Asia/Tbilisi.ics
+SHA1-Digest: WYtbUL4fyEnLkrVhtDqteBWK4Ug=
+
+Name: zoneinfo/Asia/Tehran.ics
+SHA1-Digest: My5EX8/UW5PNcNTbGZ5OJ7IxiFc=
+
+Name: zoneinfo/Asia/Thimphu.ics
+SHA1-Digest: GVBuaFB08f5Q+KiEMbhjEpIMpdI=
+
+Name: zoneinfo/Asia/Tokyo.ics
+SHA1-Digest: fWcnPB/v9iC1aMrEK9Fhr13qoJU=
+
+Name: zoneinfo/Asia/Ulaanbaatar.ics
+SHA1-Digest: ft+ohQDFuH/qZWwtrjWV53azVrM=
+
+Name: zoneinfo/Asia/Urumqi.ics
+SHA1-Digest: pCiXwIdOfpSgpPqKOsR8OuJSV20=
+
+Name: zoneinfo/Asia/Ust-Nera.ics
+SHA1-Digest: a+kLvomewqGgblqV7eeQU3yrnh0=
+
+Name: zoneinfo/Asia/Vientiane.ics
+SHA1-Digest: sllG0mm9fzMuhcAQa5ZslEFOC0k=
+
+Name: zoneinfo/Asia/Vladivostok.ics
+SHA1-Digest: bx4fLTUJAogCJy0nKiB2ETroyeY=
+
+Name: zoneinfo/Asia/Yakutsk.ics
+SHA1-Digest: 9tAB92Fj8Prlf/Z6Yjf97qWwt8M=
+
+Name: zoneinfo/Asia/Yekaterinburg.ics
+SHA1-Digest: 5gDJXvlowppKYxTyJyopOcf7As4=
+
+Name: zoneinfo/Asia/Yerevan.ics
+SHA1-Digest: YGC/QvEFi4ktJsCmJxSiq3M+V28=
+
+Name: zoneinfo/Atlantic/Azores.ics
+SHA1-Digest: fi+Khwv9RaO+u2Bu1tilu1vI56g=
+
+Name: zoneinfo/Atlantic/Bermuda.ics
+SHA1-Digest: yw/7WCFo0jENCXLIXciiHS7V1RA=
+
+Name: zoneinfo/Atlantic/Canary.ics
+SHA1-Digest: F+oCTqjHbTpH9fs+MRHEXdg/HAQ=
+
+Name: zoneinfo/Atlantic/Cape_Verde.ics
+SHA1-Digest: D6U6hNGGh62390Flw/6fQZ6/rN8=
+
+Name: zoneinfo/Atlantic/Faroe.ics
+SHA1-Digest: yTu2MH6DIaIfj1TPtGio0cZPs78=
+
+Name: zoneinfo/Atlantic/Madeira.ics
+SHA1-Digest: gDUnNAUsMmn4PNS5tEMhe9e1bIA=
+
+Name: zoneinfo/Atlantic/Reykjavik.ics
+SHA1-Digest: eG9zFYxc1D/WADyoR2pzS4DcK7c=
+
+Name: zoneinfo/Atlantic/South_Georgia.ics
+SHA1-Digest: uRagPHgp7+9waqBdhsoy4fjUmlo=
+
+Name: zoneinfo/Atlantic/St_Helena.ics
+SHA1-Digest: IGMpImhPW0MBBJM14bW+shMeUtM=
+
+Name: zoneinfo/Atlantic/Stanley.ics
+SHA1-Digest: cVv0toH7kj8LV4zfgS4AtHQCns8=
+
+Name: zoneinfo/Australia/Adelaide.ics
+SHA1-Digest: 3TkCb5mI8hkMvIgUM92dj+wbmQA=
+
+Name: zoneinfo/Australia/Brisbane.ics
+SHA1-Digest: uyj/aNFdQsZnqdB2UvDJmaoOx+Y=
+
+Name: zoneinfo/Australia/Broken_Hill.ics
+SHA1-Digest: ujRVBZ8YxO2BqDsNucyrHrtdf/M=
+
+Name: zoneinfo/Australia/Currie.ics
+SHA1-Digest: PLrRWdAhXIiHY1ISwb/4MTOivMg=
+
+Name: zoneinfo/Australia/Darwin.ics
+SHA1-Digest: 3CTOWiADl0AM5X57TuUCZqRd/Gs=
+
+Name: zoneinfo/Australia/Eucla.ics
+SHA1-Digest: O/PcEe/C7UmEqgyK/4mmaAP/wmc=
+
+Name: zoneinfo/Australia/Hobart.ics
+SHA1-Digest: lVeb2/sueBdiE009CWjPKWd6NlM=
+
+Name: zoneinfo/Australia/Lindeman.ics
+SHA1-Digest: 1RQ9u2dKfPH21ZN7EKd2uYemFm0=
+
+Name: zoneinfo/Australia/Lord_Howe.ics
+SHA1-Digest: 21LFNHwRh4xCbhaCLwWQx3tNlKk=
+
+Name: zoneinfo/Australia/Melbourne.ics
+SHA1-Digest: QMFljntJGPkJ7LeqgtbUylZQRrM=
+
+Name: zoneinfo/Australia/Perth.ics
+SHA1-Digest: CHMbkcaIKp5sTkR/Yt1R1UEO348=
+
+Name: zoneinfo/Australia/Sydney.ics
+SHA1-Digest: 3EbR9V/DmJyksONBLiLctwo0wl8=
+
+Name: zoneinfo/Etc/GMT+0.ics
+SHA1-Digest: zdHkhM3dx3QqgDmopI/lyhYEP1w=
+
+Name: zoneinfo/Etc/GMT+1.ics
+SHA1-Digest: c/Z/eCPGF82qQgbqZ0kr8Y40JQQ=
+
+Name: zoneinfo/Etc/GMT+10.ics
+SHA1-Digest: or7Qe7GWqXlQ2H3Dd7sZALqkzsE=
+
+Name: zoneinfo/Etc/GMT+11.ics
+SHA1-Digest: zQRhYKrmQC8+6r5VbqUGlmi9Lzo=
+
+Name: zoneinfo/Etc/GMT+12.ics
+SHA1-Digest: 4MgX2SvE4n6XRNGZm8d3gMkqUc0=
+
+Name: zoneinfo/Etc/GMT+2.ics
+SHA1-Digest: quHvsAm8fszHYjeLpRbwZM5P/2Q=
+
+Name: zoneinfo/Etc/GMT+3.ics
+SHA1-Digest: PpbyU/ileSEv7M65tLhiC5hpRxQ=
+
+Name: zoneinfo/Etc/GMT+4.ics
+SHA1-Digest: mX5fv9UY66BGJawQFEDWuM54oUA=
+
+Name: zoneinfo/Etc/GMT+5.ics
+SHA1-Digest: HY/MwTNJWHAnJg84zU2QiUe9KVI=
+
+Name: zoneinfo/Etc/GMT+6.ics
+SHA1-Digest: c/N8mde9NF9u+idlU/k3b+E5z7g=
+
+Name: zoneinfo/Etc/GMT+7.ics
+SHA1-Digest: QQdKVd4yyCJeJDKUK5ACT5EC2bM=
+
+Name: zoneinfo/Etc/GMT+8.ics
+SHA1-Digest: N0i4Jo3BtCO+8ERaqoDDtoeOWzc=
+
+Name: zoneinfo/Etc/GMT+9.ics
+SHA1-Digest: Yb4aMohHtV3QTGkG7sSe7Gnk3TQ=
+
+Name: zoneinfo/Etc/GMT-0.ics
+SHA1-Digest: d9XBjq1GVZ9dFmrQso6r5lbnU1A=
+
+Name: zoneinfo/Etc/GMT-1.ics
+SHA1-Digest: v2rBkmTZF/Hc+x4Zd9oTg2RWyDM=
+
+Name: zoneinfo/Etc/GMT-10.ics
+SHA1-Digest: rXTp4OsajI60wcrmJgAYIrKlfE0=
+
+Name: zoneinfo/Etc/GMT-11.ics
+SHA1-Digest: Aq2QD4M266lJB61B6Fmf4lWqeQo=
+
+Name: zoneinfo/Etc/GMT-12.ics
+SHA1-Digest: huVcTJi4TSEtcC50YNmjx+pCa2w=
+
+Name: zoneinfo/Etc/GMT-13.ics
+SHA1-Digest: VFaG9nvNmsXCIEubrKRIvAD7kk0=
+
+Name: zoneinfo/Etc/GMT-14.ics
+SHA1-Digest: 9VBHrbztyHQ4sADKDIlJpgWEsBI=
+
+Name: zoneinfo/Etc/GMT-2.ics
+SHA1-Digest: i1cuN5YKQm98ipVHYzeWT6aMJ1Q=
+
+Name: zoneinfo/Etc/GMT-3.ics
+SHA1-Digest: GmXobuNubEQ0wWhf6TdL4PGlOpw=
+
+Name: zoneinfo/Etc/GMT-4.ics
+SHA1-Digest: sxJAaC6V+AmJAGYIEZy88XcIO/I=
+
+Name: zoneinfo/Etc/GMT-5.ics
+SHA1-Digest: 4tn29GDr9H6OBbZmdp4rcYeN4bU=
+
+Name: zoneinfo/Etc/GMT-6.ics
+SHA1-Digest: GldhADsLakpMEb5FWo4a7+vBbQY=
+
+Name: zoneinfo/Etc/GMT-7.ics
+SHA1-Digest: BKfF7f5V25Uoj1kLKl84PrWFi8Q=
+
+Name: zoneinfo/Etc/GMT-8.ics
+SHA1-Digest: kPvaHU3wYXKjbOJb7KBJ2qXeTmQ=
+
+Name: zoneinfo/Etc/GMT-9.ics
+SHA1-Digest: 30JhH7XvRNGQE170Dyi5Wh5Qcp8=
+
+Name: zoneinfo/Etc/GMT.ics
+SHA1-Digest: nNQzqT6FdWa9CdludInpkctV6Vo=
+
+Name: zoneinfo/Etc/GMT0.ics
+SHA1-Digest: 6mbRzqooIC0yK9wQ/LMR4TFi+3c=
+
+Name: zoneinfo/Etc/Greenwich.ics
+SHA1-Digest: /WI1t5jvvsHiNDTKmn9Z8RpqYYQ=
+
+Name: zoneinfo/Etc/UCT.ics
+SHA1-Digest: DWnS4SGT9DozbJR9Py813YXePkw=
+
+Name: zoneinfo/Etc/UTC.ics
+SHA1-Digest: ukJu5sCRdyiKL+GEPvSMqlLw4q8=
+
+Name: zoneinfo/Etc/Universal.ics
+SHA1-Digest: bg5VGYQuevxupz5XarZbsvJ7UBA=
+
+Name: zoneinfo/Etc/Zulu.ics
+SHA1-Digest: 44E6T0eFeNB5uFSymjBVBhgQMTI=
+
+Name: zoneinfo/Europe/Amsterdam.ics
+SHA1-Digest: 0JV2y58ziNA5cFRrXD925bm80lM=
+
+Name: zoneinfo/Europe/Andorra.ics
+SHA1-Digest: KW9o7nEwyk3aFbskShmj/+z0tMU=
+
+Name: zoneinfo/Europe/Athens.ics
+SHA1-Digest: u1HFWz98W/8eDp3kGL+IN4sDhYU=
+
+Name: zoneinfo/Europe/Belgrade.ics
+SHA1-Digest: cqygdw59reUVqoNFrBiHPXycFIc=
+
+Name: zoneinfo/Europe/Berlin.ics
+SHA1-Digest: ly/7WaVBi6f0ZLp3H4ojkh+RNHs=
+
+Name: zoneinfo/Europe/Bratislava.ics
+SHA1-Digest: Mt1PyoI7T+L9v7i3H39uR+sxo78=
+
+Name: zoneinfo/Europe/Brussels.ics
+SHA1-Digest: MaTcUtoml79KDPuLZFLWEfLkfYM=
+
+Name: zoneinfo/Europe/Bucharest.ics
+SHA1-Digest: tZ9fonIOUQLyPHCpVvjLPEjEv/w=
+
+Name: zoneinfo/Europe/Budapest.ics
+SHA1-Digest: nL4y0FVDido5cjj3iX0RDURrzbc=
+
+Name: zoneinfo/Europe/Busingen.ics
+SHA1-Digest: 2lkkLj8//nMUzBsCMB6kydw+lx8=
+
+Name: zoneinfo/Europe/Chisinau.ics
+SHA1-Digest: tZ6EGo+G0opnTq/kk++JE7eAwDI=
+
+Name: zoneinfo/Europe/Copenhagen.ics
+SHA1-Digest: ehRNGF+xR9SqfHTTlxsXhOhFP0s=
+
+Name: zoneinfo/Europe/Dublin.ics
+SHA1-Digest: 4y5cD+5VvUTqgwEt3yCXfzibV4Y=
+
+Name: zoneinfo/Europe/Gibraltar.ics
+SHA1-Digest: Un4S8ebdI7400JNuIkj3VwKhS3M=
+
+Name: zoneinfo/Europe/Guernsey.ics
+SHA1-Digest: U64HaZpGSAwmON0ry1iYmW8ttC8=
+
+Name: zoneinfo/Europe/Helsinki.ics
+SHA1-Digest: alewoJYZTsy5fJjgdak2RQkQyxY=
+
+Name: zoneinfo/Europe/Isle_of_Man.ics
+SHA1-Digest: yOyfG0hr46akMCAru4qOzAl1U2w=
+
+Name: zoneinfo/Europe/Istanbul.ics
+SHA1-Digest: T8tVbtHo9njdB5mVlAYr0qUIeuc=
+
+Name: zoneinfo/Europe/Jersey.ics
+SHA1-Digest: Vt28d0ZpzcvV/DQe8rx/jmarul0=
+
+Name: zoneinfo/Europe/Kaliningrad.ics
+SHA1-Digest: NyUNKapXeN2yHmtXIy+AwotQxKs=
+
+Name: zoneinfo/Europe/Kiev.ics
+SHA1-Digest: eYOcLVSuqv5g8v8NYd3MOutVE30=
+
+Name: zoneinfo/Europe/Lisbon.ics
+SHA1-Digest: 7Zw21HB2rJ7PwuyXWzvO2p/u9V0=
+
+Name: zoneinfo/Europe/Ljubljana.ics
+SHA1-Digest: 4M2Hq8FDhnda2UfdoPiyuBKwLUc=
+
+Name: zoneinfo/Europe/London.ics
+SHA1-Digest: v88WP/+txYZMo+hZtDWVHgryp5w=
+
+Name: zoneinfo/Europe/Luxembourg.ics
+SHA1-Digest: PMen9tHbrCpwf25HSwfeTCaNyi8=
+
+Name: zoneinfo/Europe/Madrid.ics
+SHA1-Digest: Xmrde6HMWbmpR8Ccr5UHCPNeYFs=
+
+Name: zoneinfo/Europe/Malta.ics
+SHA1-Digest: I+nqgHYl6XgO0aCCvROsCyD132k=
+
+Name: zoneinfo/Europe/Mariehamn.ics
+SHA1-Digest: Wbksy2j/6H9dd+EMNDKo6r7E5OI=
+
+Name: zoneinfo/Europe/Minsk.ics
+SHA1-Digest: 0zruihNXxtfT0BbG8yeN4tz2i2o=
+
+Name: zoneinfo/Europe/Monaco.ics
+SHA1-Digest: uzdVGGPkVX6XotEH/4enJa7ePGU=
+
+Name: zoneinfo/Europe/Moscow.ics
+SHA1-Digest: XpoAHj6fskt87067qsXVVm96f4s=
+
+Name: zoneinfo/Europe/Nicosia.ics
+SHA1-Digest: 2hkKn1qmUiGL6oVWkjrpeHzqtC8=
+
+Name: zoneinfo/Europe/Oslo.ics
+SHA1-Digest: IsvjDUYakItfkOYE1Sks4PADlsM=
+
+Name: zoneinfo/Europe/Paris.ics
+SHA1-Digest: 89ZFT12LtXCTtSW7/U3JhpNMlwM=
+
+Name: zoneinfo/Europe/Podgorica.ics
+SHA1-Digest: uNaE6RhNBgKW7YUNXlDzlPMsqX4=
+
+Name: zoneinfo/Europe/Prague.ics
+SHA1-Digest: KN3vTWML/aItbaFbBf8M2/J97H8=
+
+Name: zoneinfo/Europe/Riga.ics
+SHA1-Digest: 351YKjnXme1IJgcOUTEk2ToLyCM=
+
+Name: zoneinfo/Europe/Rome.ics
+SHA1-Digest: kfKcp1Sm6BkhFkYFS/7eXUWi+yM=
+
+Name: zoneinfo/Europe/Samara.ics
+SHA1-Digest: V17nx8lF/ajs2s8iMGms9sdpNmw=
+
+Name: zoneinfo/Europe/San_Marino.ics
+SHA1-Digest: sv77ZM+6vK7wMQa5qIYiHfbR5mA=
+
+Name: zoneinfo/Europe/Sarajevo.ics
+SHA1-Digest: cX4hsYF8wJ3aNEv5yKhMQ/vPkqE=
+
+Name: zoneinfo/Europe/Simferopol.ics
+SHA1-Digest: qgFEbnJKxh6BoEpcNl2wAtAcG2k=
+
+Name: zoneinfo/Europe/Skopje.ics
+SHA1-Digest: 4XvWub8I0lp5L1rlu/9cyMyEDdo=
+
+Name: zoneinfo/Europe/Sofia.ics
+SHA1-Digest: U6SaTMMdgMg+Q5l6P4HpixMRFRI=
+
+Name: zoneinfo/Europe/Stockholm.ics
+SHA1-Digest: 2xd0qNx7YLXw69wnK1sKQShphx0=
+
+Name: zoneinfo/Europe/Tallinn.ics
+SHA1-Digest: SyFY9UWr8PhYaJuh0WRYqbMKEro=
+
+Name: zoneinfo/Europe/Tirane.ics
+SHA1-Digest: r8ZZ/26M6lcqlJOXFEYO1RJTIiY=
+
+Name: zoneinfo/Europe/Uzhgorod.ics
+SHA1-Digest: 1ZHlZejFguWEd/Xod/0MewefNoc=
+
+Name: zoneinfo/Europe/Vaduz.ics
+SHA1-Digest: BBINBAybJV9S54/65LSZlmt8p+s=
+
+Name: zoneinfo/Europe/Vatican.ics
+SHA1-Digest: hbX9uqF/jScOpXlblyKkX6iOjXc=
+
+Name: zoneinfo/Europe/Vienna.ics
+SHA1-Digest: FxYETX5FRV+ccmtLUSq59hRk12o=
+
+Name: zoneinfo/Europe/Vilnius.ics
+SHA1-Digest: 0l3/0V1ULTGQ1Nr2HAKqyAEbGbI=
+
+Name: zoneinfo/Europe/Volgograd.ics
+SHA1-Digest: RNKUx0jkiiBgg7asDF/1WNFo5AE=
+
+Name: zoneinfo/Europe/Warsaw.ics
+SHA1-Digest: pWvqYHbMDQXxW5iLcnloVgJpjjw=
+
+Name: zoneinfo/Europe/Zagreb.ics
+SHA1-Digest: vcmicIFkXcZjkqqXcPGaKiwqc3A=
+
+Name: zoneinfo/Europe/Zaporozhye.ics
+SHA1-Digest: qvojUIonZFQoKX+EVvc95N3aKGQ=
+
+Name: zoneinfo/Europe/Zurich.ics
+SHA1-Digest: GLjd0u1s/AigM+0yNF+FenlD2L0=
+
+Name: zoneinfo/Indian/Antananarivo.ics
+SHA1-Digest: MClTRvOkEa+cOLZ8kxSPX/YgUqg=
+
+Name: zoneinfo/Indian/Chagos.ics
+SHA1-Digest: C4u9N63EkI4ElXBdl2vvC+E5+jU=
+
+Name: zoneinfo/Indian/Christmas.ics
+SHA1-Digest: 6lQzQbQjyr9isdCrWredTYLUSfA=
+
+Name: zoneinfo/Indian/Cocos.ics
+SHA1-Digest: 4pHS4dRe2B3LV7EYmyUe4aF6PMg=
+
+Name: zoneinfo/Indian/Comoro.ics
+SHA1-Digest: K6DQ7dDf1A2dgv3cc/MuU8EgQv8=
+
+Name: zoneinfo/Indian/Kerguelen.ics
+SHA1-Digest: Zv/fyqBRayR2yMDsh9WxvYdofNk=
+
+Name: zoneinfo/Indian/Mahe.ics
+SHA1-Digest: kTKWbFxF49CExzShS7KpxEcJSFo=
+
+Name: zoneinfo/Indian/Maldives.ics
+SHA1-Digest: 2r4KQ15OxAJL8bdhCelgLnSayAY=
+
+Name: zoneinfo/Indian/Mauritius.ics
+SHA1-Digest: ix3nn4RLM/cXYHPe3DAVf2YGdGA=
+
+Name: zoneinfo/Indian/Mayotte.ics
+SHA1-Digest: y2v/LsL7eXsf6V7ZA74TnYyXqMY=
+
+Name: zoneinfo/Indian/Reunion.ics
+SHA1-Digest: uezjB41hlRzVZyqlOWadBXOEamo=
+
+Name: zoneinfo/Pacific/Apia.ics
+SHA1-Digest: 4YAmtrZ+SsCSXDmhsjpvm+hWa7A=
+
+Name: zoneinfo/Pacific/Auckland.ics
+SHA1-Digest: 7WED9nOrr69p555HXZQksFg8dmc=
+
+Name: zoneinfo/Pacific/Bougainville.ics
+SHA1-Digest: NPPuVZW678NSQw7GaP7QeTeq0TI=
+
+Name: zoneinfo/Pacific/Chatham.ics
+SHA1-Digest: srYfHpmNyRBprDzhzKb28odjMIo=
+
+Name: zoneinfo/Pacific/Chuuk.ics
+SHA1-Digest: mia/ybSjoI/9dvgHzdlWPtSxR+g=
+
+Name: zoneinfo/Pacific/Easter.ics
+SHA1-Digest: uutoCnjiZyajaMucI8GtmFPfaA0=
+
+Name: zoneinfo/Pacific/Efate.ics
+SHA1-Digest: isMop0wsC8CARp0XnXXIQGXjudM=
+
+Name: zoneinfo/Pacific/Enderbury.ics
+SHA1-Digest: hmCWkVBwa6MacFKvmYZxLg8ZHfw=
+
+Name: zoneinfo/Pacific/Fakaofo.ics
+SHA1-Digest: 5Np+VZTNtk5AYz2KaymPD5XqFqU=
+
+Name: zoneinfo/Pacific/Fiji.ics
+SHA1-Digest: 4cHsdXvU/ras2EMxZ5vBuTaZ10g=
+
+Name: zoneinfo/Pacific/Funafuti.ics
+SHA1-Digest: Mvptq+K7oPX13pfV6cDgLr3jfuU=
+
+Name: zoneinfo/Pacific/Galapagos.ics
+SHA1-Digest: wO+y2K7UUE1J3e767iWdcimrTGY=
+
+Name: zoneinfo/Pacific/Gambier.ics
+SHA1-Digest: AuTPA2Exn9ts4x5FD+/noQx7r5I=
+
+Name: zoneinfo/Pacific/Guadalcanal.ics
+SHA1-Digest: rsbJ8uHmwgFy5hJvYVO9ergYDA4=
+
+Name: zoneinfo/Pacific/Guam.ics
+SHA1-Digest: KdUwpym/1nY8YMD4afumJxv6Q4o=
+
+Name: zoneinfo/Pacific/Honolulu.ics
+SHA1-Digest: Lzlc9U4QwWc8jz0MgVCwyEagBA0=
+
+Name: zoneinfo/Pacific/Johnston.ics
+SHA1-Digest: x1HoPt8+gaf91nh9f/+iLDoTKZA=
+
+Name: zoneinfo/Pacific/Kiritimati.ics
+SHA1-Digest: zokc0ZRPDAd4meSkDLp1i5B4vyw=
+
+Name: zoneinfo/Pacific/Kosrae.ics
+SHA1-Digest: Hv3ztU2aN8K6OyoYnU87cQVNa38=
+
+Name: zoneinfo/Pacific/Kwajalein.ics
+SHA1-Digest: qGC3X2sz2uEtHlHoMsGW/DC9oI8=
+
+Name: zoneinfo/Pacific/Majuro.ics
+SHA1-Digest: LCXxoMSdcwkUuD2glk/ncLkZ95o=
+
+Name: zoneinfo/Pacific/Marquesas.ics
+SHA1-Digest: OjPZkfwJFccb+KQ4FeEukY5PjwM=
+
+Name: zoneinfo/Pacific/Midway.ics
+SHA1-Digest: BBTqfa/S6OoY/Fe2tJA0TTrbPoo=
+
+Name: zoneinfo/Pacific/Nauru.ics
+SHA1-Digest: qSWU2wO14Rj/VXVqFLlv7MFmX7A=
+
+Name: zoneinfo/Pacific/Niue.ics
+SHA1-Digest: GO4g7bjt/5WZG4qJPe4dyo5j1q0=
+
+Name: zoneinfo/Pacific/Norfolk.ics
+SHA1-Digest: q46eKhiNjyr/lSlLcSPu+IbZB5o=
+
+Name: zoneinfo/Pacific/Noumea.ics
+SHA1-Digest: f8vpB81zeku/vkaZB9Z/vvLHWBI=
+
+Name: zoneinfo/Pacific/Pago_Pago.ics
+SHA1-Digest: IEon7116kBF7ZECROFkN0CFeJ8s=
+
+Name: zoneinfo/Pacific/Palau.ics
+SHA1-Digest: LNM1XPOgCEZOD14yvG7NYrIirf0=
+
+Name: zoneinfo/Pacific/Pitcairn.ics
+SHA1-Digest: WHeLjkAJkAGsQnuE+bWUdkAIiKc=
+
+Name: zoneinfo/Pacific/Pohnpei.ics
+SHA1-Digest: nrf7DRHROuvILGcXCqGC4b8xej0=
+
+Name: zoneinfo/Pacific/Port_Moresby.ics
+SHA1-Digest: 4vxaMyABMnxOeSkGvrLq17wRuTo=
+
+Name: zoneinfo/Pacific/Rarotonga.ics
+SHA1-Digest: ljmcGaGO2wOtWtn4qB5AUAzYYMY=
+
+Name: zoneinfo/Pacific/Saipan.ics
+SHA1-Digest: b0adbQLMr67Z4R8tdRtCSS2NQi0=
+
+Name: zoneinfo/Pacific/Tahiti.ics
+SHA1-Digest: n4qmpDc5R64w7sTxcXFVeT2mTis=
+
+Name: zoneinfo/Pacific/Tarawa.ics
+SHA1-Digest: MB0L7cwzzbanjsHgTvklwOd/q5k=
+
+Name: zoneinfo/Pacific/Tongatapu.ics
+SHA1-Digest: FgTRwLFdkHeyLQK+LUDzncpPl6Y=
+
+Name: zoneinfo/Pacific/Wake.ics
+SHA1-Digest: IoMnpexTSqyNhVEDLZrSXZK+tGo=
+
+Name: zoneinfo/Pacific/Wallis.ics
+SHA1-Digest: +Jqthd4DxdqNt46rK7S2OWi+mvE=
+
+Name: zoneinfo/zones.h
+SHA1-Digest: XJTmQJ1AshK73GQJj8E0o83dWOA=
+
+Name: zoneinfo/zones.tab
+SHA1-Digest: WIfAbNy50tVm3a5uEcYAN4TufVk=
+

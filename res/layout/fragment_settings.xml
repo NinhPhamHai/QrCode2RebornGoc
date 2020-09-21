@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/ll_container_settings" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/_16sdp" android:textStyle="bold" android:textColor="@color/white" android:gravity="center" android:background="@color/transfer" android:layout_width="fill_parent" android:layout_height="?actionBarSize" android:text="@string/lbl_settings" />
+    <ImageView android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/_20sdp" android:src="@mipmap/ic_launcher" />
+    <TextView android:textSize="@dimen/_20sdp" android:textStyle="bold" android:textColor="@color/blue" android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/app_name" />
+    <TextView android:textSize="@dimen/_15sdp" android:layout_gravity="center_horizontal" android:id="@id/tv_version" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/_20sdp" android:text="Version" />
+    <ScrollView android:background="@drawable/round_bg_white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_25sdp" android:layout_marginRight="@dimen/_25sdp">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <View android:background="@color/dark_grey" android:layout_width="fill_parent" android:layout_height="1.0px" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/layout_sound" android:background="?android:selectableItemBackground" android:paddingTop="@dimen/_10sdp" android:paddingBottom="@dimen/_10sdp" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="28.0dip" android:layout_height="28.0dip" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:src="@drawable/ic_sound" />
+                <TextView android:textSize="@dimen/_14sdp" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_10sdp" android:text="@string/sound" android:layout_weight="1.0" />
+                <ToggleButton android:id="@id/tg_sound" android:background="@drawable/custom_toggle_btn" android:layout_width="@dimen/_35sdp" android:layout_height="@dimen/_20sdp" android:layout_marginRight="@dimen/_20sdp" android:textOn="" android:textOff="" />
+            </LinearLayout>
+            <View android:background="@color/dark_grey" android:layout_width="fill_parent" android:layout_height="1.0px" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/layout_vibrate" android:background="?android:selectableItemBackground" android:paddingTop="@dimen/_10sdp" android:paddingBottom="@dimen/_10sdp" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="28.0dip" android:layout_height="28.0dip" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:src="@drawable/ic_vibrate" />
+                <TextView android:textSize="@dimen/_14sdp" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_10sdp" android:text="@string/vibrate" android:layout_weight="1.0" />
+                <ToggleButton android:id="@id/tg_vibrate" android:background="@drawable/custom_toggle_btn" android:layout_width="@dimen/_35sdp" android:layout_height="@dimen/_20sdp" android:layout_marginRight="@dimen/_20sdp" android:textOn="" android:textOff="" />
+            </LinearLayout>
+            <View android:background="@color/dark_grey" android:layout_width="fill_parent" android:layout_height="1.0px" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/view_feedback_settings" android:background="?android:selectableItemBackground" android:paddingTop="@dimen/_10sdp" android:paddingBottom="@dimen/_10sdp" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="28.0dip" android:layout_height="28.0dip" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:src="@drawable/ic_feedback" />
+                <TextView android:textSize="@dimen/_14sdp" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_10sdp" android:text="@string/lbl_feedback" />
+            </LinearLayout>
+            <View android:background="@color/dark_grey" android:layout_width="fill_parent" android:layout_height="1.0px" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/view_rate_app_settings" android:background="?android:selectableItemBackground" android:paddingTop="@dimen/_10sdp" android:paddingBottom="@dimen/_10sdp" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="28.0dip" android:layout_height="28.0dip" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:src="@drawable/ic_rate_app" />
+                <TextView android:textSize="@dimen/_14sdp" android:textColor="@color/black" android:id="@id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_10sdp" android:text="@string/lbl_rate_me_star" />
+                <ImageView android:layout_width="wrap_content" android:layout_height="20.0dip" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:src="@drawable/ic_star_5" />
+            </LinearLayout>
+            <View android:background="@color/dark_grey" android:layout_width="fill_parent" android:layout_height="1.0px" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/view_share_app_settings" android:background="?android:selectableItemBackground" android:paddingTop="@dimen/_10sdp" android:paddingBottom="@dimen/_10sdp" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="28.0dip" android:layout_height="28.0dip" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:src="@drawable/ic_share_app" />
+                <TextView android:textSize="@dimen/_14sdp" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_10sdp" android:text="@string/lbl_share_app" />
+            </LinearLayout>
+            <RelativeLayout android:id="@id/view_get_pro_version_settings" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <View android:background="@color/dark_grey" android:layout_width="fill_parent" android:layout_height="1.0px" />
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="?android:selectableItemBackground" android:paddingTop="@dimen/_10sdp" android:paddingBottom="@dimen/_10sdp" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <ImageView android:layout_width="28.0dip" android:layout_height="28.0dip" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:src="@drawable/ic_settings_pro" />
+                    <TextView android:textSize="@dimen/_14sdp" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_10sdp" android:text="@string/lbl_get_full_version" />
+                </LinearLayout>
+            </RelativeLayout>
+            <View android:background="@color/dark_grey" android:layout_width="fill_parent" android:layout_height="1.0px" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/view_more_app_settings" android:background="?android:selectableItemBackground" android:paddingTop="@dimen/_10sdp" android:paddingBottom="@dimen/_10sdp" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="28.0dip" android:layout_height="28.0dip" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:src="@drawable/ic_more_app" />
+                <TextView android:textSize="@dimen/_14sdp" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_10sdp" android:text="@string/lbl_more_apps" />
+            </LinearLayout>
+            <View android:background="@color/dark_grey" android:layout_width="fill_parent" android:layout_height="1.0px" />
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/view_permission_app_settings" android:background="?android:selectableItemBackground" android:paddingTop="@dimen/_10sdp" android:paddingBottom="@dimen/_10sdp" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="28.0dip" android:layout_height="28.0dip" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:src="@drawable/ic_permission" />
+                <TextView android:textSize="@dimen/_14sdp" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_10sdp" android:text="@string/lbl_app_permission" />
+            </LinearLayout>
+            <View android:background="@color/dark_grey" android:layout_width="fill_parent" android:layout_height="1.0px" />
+            <LinearLayout android:gravity="bottom" android:orientation="horizontal" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <LinearLayout android:gravity="center" android:paddingTop="@dimen/_10sdp" android:paddingBottom="@dimen/_20sdp" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <TextView android:textSize="@dimen/_14sdp" android:textColor="@color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_10sdp" android:text="@string/lbl_version" />
+                    <TextView android:textSize="@dimen/_14sdp" android:textColor="@color/black" android:layout_gravity="center|right" android:id="@id/tv_version_settings" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/_5sdp" android:layout_marginRight="@dimen/_10sdp" />
+                </LinearLayout>
+            </LinearLayout>
+            <View android:background="@color/dark_grey" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0px" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
